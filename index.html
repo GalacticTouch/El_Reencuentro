@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estadísticas de Softbol</title>
+    <link rel="stylesheet" href="estilos.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <h1>Estadísticas El Reencuentro</h1>
+
+    <div class="container">
+        <button onclick="cargarDatos('mvp.json')">Ver MVP</button>
+        <button onclick="cargarDatos('avg.json')">Ver Promedio de Bateo</button>
+        <button onclick="cargarDatos('lideres.json')">Ver Líderes</button>
+        <button onclick="cargarDatos('cyoung.json')">Ver C Young</button>
+        <button onclick="cargarDatos('estadisticas.json')">Ver Estadísticas Completas</button>
+    </div>
+
+    <div id="resultado" class="tabla-container"></div>
+
+</body>
+</html>

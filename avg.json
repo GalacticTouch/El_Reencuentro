@@ -1,0 +1,128 @@
+[
+	{
+		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
+		"Total_Turnos_Oficiales" : 9,
+		"Total_Hits" : 6,
+		"Promedio_Bateo" : 667
+	},
+	{
+		"Nombre_Completo" : "DARWIN SANCHEZ",
+		"Total_Turnos_Oficiales" : 21,
+		"Total_Hits" : 13,
+		"Promedio_Bateo" : 619
+	},
+	{
+		"Nombre_Completo" : "NAO FIGUEROA",
+		"Total_Turnos_Oficiales" : 16,
+		"Total_Hits" : 9,
+		"Promedio_Bateo" : 563
+	},
+	{
+		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
+		"Total_Turnos_Oficiales" : 37,
+		"Total_Hits" : 20,
+		"Promedio_Bateo" : 541
+	},
+	{
+		"Nombre_Completo" : "YERIFEN JEREZ",
+		"Total_Turnos_Oficiales" : 26,
+		"Total_Hits" : 14,
+		"Promedio_Bateo" : 538
+	},
+	{
+		"Nombre_Completo" : "MIGUEL FIGUEROA",
+		"Total_Turnos_Oficiales" : 6,
+		"Total_Hits" : 3,
+		"Promedio_Bateo" : 500
+	},
+	{
+		"Nombre_Completo" : "Ángel Grullón",
+		"Total_Turnos_Oficiales" : 26,
+		"Total_Hits" : 12,
+		"Promedio_Bateo" : 462
+	},
+	{
+		"Nombre_Completo" : "COCHI VASQUEZ",
+		"Total_Turnos_Oficiales" : 11,
+		"Total_Hits" : 5,
+		"Promedio_Bateo" : 455
+	},
+	{
+		"Nombre_Completo" : "MODESTO DE LA ROSA",
+		"Total_Turnos_Oficiales" : 9,
+		"Total_Hits" : 4,
+		"Promedio_Bateo" : 444
+	},
+	{
+		"Nombre_Completo" : "ABRAHAN",
+		"Total_Turnos_Oficiales" : 18,
+		"Total_Hits" : 8,
+		"Promedio_Bateo" : 444
+	},
+	{
+		"Nombre_Completo" : "CHULO PUJOLS",
+		"Total_Turnos_Oficiales" : 25,
+		"Total_Hits" : 11,
+		"Promedio_Bateo" : 440
+	},
+	{
+		"Nombre_Completo" : "ESMERLIN AQUINO",
+		"Total_Turnos_Oficiales" : 32,
+		"Total_Hits" : 14,
+		"Promedio_Bateo" : 438
+	},
+	{
+		"Nombre_Completo" : "ERIC BENCOSME",
+		"Total_Turnos_Oficiales" : 23,
+		"Total_Hits" : 10,
+		"Promedio_Bateo" : 435
+	},
+	{
+		"Nombre_Completo" : "Luis Manuel Imanol",
+		"Total_Turnos_Oficiales" : 30,
+		"Total_Hits" : 12,
+		"Promedio_Bateo" : 400
+	},
+	{
+		"Nombre_Completo" : "FRISSO WILSON",
+		"Total_Turnos_Oficiales" : 26,
+		"Total_Hits" : 10,
+		"Promedio_Bateo" : 385
+	},
+	{
+		"Nombre_Completo" : "Jean Carlos Ramos",
+		"Total_Turnos_Oficiales" : 11,
+		"Total_Hits" : 4,
+		"Promedio_Bateo" : 364
+	},
+	{
+		"Nombre_Completo" : "JUNIOR BOBOLO",
+		"Total_Turnos_Oficiales" : 7,
+		"Total_Hits" : 2,
+		"Promedio_Bateo" : 286
+	},
+	{
+		"Nombre_Completo" : "LA FEDE CHICHI",
+		"Total_Turnos_Oficiales" : 11,
+		"Total_Hits" : 3,
+		"Promedio_Bateo" : 273
+	},
+	{
+		"Nombre_Completo" : "ANGEL MOREL",
+		"Total_Turnos_Oficiales" : 7,
+		"Total_Hits" : 1,
+		"Promedio_Bateo" : 143
+	},
+	{
+		"Nombre_Completo" : "ANEURIS SIMBA",
+		"Total_Turnos_Oficiales" : 0,
+		"Total_Hits" : 0,
+		"Promedio_Bateo" : null
+	},
+	{
+		"Nombre_Completo" : "ALAMO CABRERA",
+		"Total_Turnos_Oficiales" : 0,
+		"Total_Hits" : 0,
+		"Promedio_Bateo" : null
+	}
+]

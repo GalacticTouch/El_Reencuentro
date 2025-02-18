@@ -1,0 +1,23 @@
+[
+	{
+		"Nombre_Pitcher" : "COCHI VASQUEZ",
+		"Innings_Lanzados" : 25.0,
+		"Ponches" : 5,
+		"Bases_Por_Bolas" : 4,
+		"Total_Puntos" : 71.0
+	},
+	{
+		"Nombre_Pitcher" : "ESMERLIN AQUINO",
+		"Innings_Lanzados" : 8.0,
+		"Ponches" : 1,
+		"Bases_Por_Bolas" : 6,
+		"Total_Puntos" : 15.0
+	},
+	{
+		"Nombre_Pitcher" : "MIGUEL FIGUEROA",
+		"Innings_Lanzados" : 2.0,
+		"Ponches" : 0,
+		"Bases_Por_Bolas" : 0,
+		"Total_Puntos" : 4.0
+	}
+]
