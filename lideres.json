@@ -1,38 +1,57 @@
 [
 	{
-		"Resultado" : "JOSELUIS HENRIQUEZ - Líder en H1 (13)"
+		"Posicion" : 1,
+		"H1" : "JOSELUIS HENRIQUEZ (13)",
+		"H2" : "CHULO PUJOLS (7)",
+		"H3" : "JOSELUIS HENRIQUEZ (4)",
+		"H4" : "Ángel Grullón (5)",
+		"BB" : "FRISSO WILSON (6)",
+		"K" : "JOSELUIS HENRIQUEZ (3)",
+		"Total_Remolcadas" : "YERIFEN JEREZ (13)",
+		"Total_Anotadas" : "JOSELUIS HENRIQUEZ (10)"
 	},
 	{
-		"Resultado" : "CHULO PUJOLS - Líder en H2 (7)"
+		"Posicion" : 2,
+		"H1" : "YERIFEN JEREZ (11)",
+		"H2" : "JOSELUIS HENRIQUEZ (6)",
+		"H3" : "ABRAHAN (2)",
+		"H4" : "Luis Manuel Imanol (4)",
+		"BB" : "Luis Manuel Imanol (5)",
+		"K" : "ERIC BENCOSME (3)",
+		"Total_Remolcadas" : "ABRAHAN (6)",
+		"Total_Anotadas" : "Luis Manuel Imanol (6)"
 	},
 	{
-		"Resultado" : "JOSELUIS HENRIQUEZ - Líder en H3 (4)"
+		"Posicion" : 3,
+		"H1" : "ERIC BENCOSME (8)",
+		"H2" : "FRISSO WILSON (5)",
+		"H3" : "NAO FIGUEROA (1)",
+		"H4" : "YERIFEN JEREZ (3)",
+		"BB" : "LUIS FELIPE HEREDIA (5)",
+		"K" : "ANGEL MOREL (3)",
+		"Total_Remolcadas" : "Ángel Grullón (6)",
+		"Total_Anotadas" : "YERIFEN JEREZ (5)"
 	},
 	{
-		"Resultado" : "Ángel Grullón - Líder en H4 (5)"
+		"Posicion" : 4,
+		"H1" : "ESMERLIN AQUINO (8)",
+		"H2" : "ESMERLIN AQUINO (5)",
+		"H3" : "Luis Manuel Imanol (1)",
+		"H4" : "FRISSO WILSON (3)",
+		"BB" : "ABRAHAN (4)",
+		"K" : "Luis Manuel Imanol (2)",
+		"Total_Remolcadas" : "Luis Manuel Imanol (5)",
+		"Total_Anotadas" : "LUIS FELIPE HEREDIA (5)"
 	},
 	{
-		"Resultado" : "FRISSO WILSON - Líder en BB (6)"
-	},
-	{
-		"Resultado" : "JOSELUIS HENRIQUEZ - Líder en K (3)"
-	},
-	{
-		"Resultado" : "ERIC BENCOSME - Líder en K (3)"
-	},
-	{
-		"Resultado" : "ANGEL MOREL - Líder en K (3)"
-	},
-	{
-		"Resultado" : "JOSELUIS HENRIQUEZ - Líder en Anotadas (10)"
-	},
-	{
-		"Resultado" : "YERIFEN JEREZ - Líder en Remolcadas (13)"
-	},
-	{
-		"Resultado" : "COCHI VASQUEZ - Picher líder en Ponches (5)"
-	},
-	{
-		"Resultado" : "ESMERLIN AQUINO - Picher líder en Bases por Bola (6)"
+		"Posicion" : 5,
+		"H1" : "DARWIN SANCHEZ (8)",
+		"H2" : "Luis Manuel Imanol (4)",
+		"H3" : "YERIFEN JEREZ (1)",
+		"H4" : "DARWIN SANCHEZ (2)",
+		"BB" : "ERIC BENCOSME (4)",
+		"K" : "YERIFEN JEREZ (2)",
+		"Total_Remolcadas" : "FRISSO WILSON (4)",
+		"Total_Anotadas" : "DARWIN SANCHEZ (4)"
 	}
 ]
