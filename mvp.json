@@ -1,27 +1,27 @@
 [
 	{
-		"Numero" : 2,
+		"Numero" : 1,
 		"Nombre" : "Luis Manuel Imanol",
 		"Puntos" : 50
 	},
 	{
-		"Numero" : 1,
+		"Numero" : 2,
 		"Nombre" : "YERIFEN JEREZ",
 		"Puntos" : 49
 	},
 	{
-		"Numero" : 4,
+		"Numero" : 3,
 		"Nombre" : "JOSELUIS HENRIQUEZ",
 		"Puntos" : 47
 	},
 	{
-		"Numero" : 3,
-		"Nombre" : "Ángel Grullón",
+		"Numero" : 4,
+		"Nombre" : "FRISSO WILSON",
 		"Puntos" : 46
 	},
 	{
 		"Numero" : 5,
-		"Nombre" : "FRISSO WILSON",
+		"Nombre" : "Ángel Grullón",
 		"Puntos" : 46
 	},
 	{
@@ -56,21 +56,21 @@
 	},
 	{
 		"Numero" : 12,
-		"Nombre" : "MODESTO DE LA ROSA",
-		"Puntos" : 4
-	},
-	{
-		"Numero" : 15,
 		"Nombre" : "COCHI VASQUEZ",
 		"Puntos" : 4
 	},
 	{
 		"Numero" : 13,
+		"Nombre" : "MODESTO DE LA ROSA",
+		"Puntos" : 4
+	},
+	{
+		"Numero" : 14,
 		"Nombre" : "ANGEL MOREL",
 		"Puntos" : 3
 	},
 	{
-		"Numero" : 14,
+		"Numero" : 15,
 		"Nombre" : "NAO FIGUEROA",
 		"Puntos" : 2
 	},
