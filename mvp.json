@@ -2,62 +2,62 @@
 	{
 		"Numero" : 1,
 		"Nombre" : "Luis Manuel Imanol",
-		"Puntos" : 50
+		"Puntos" : 58
 	},
 	{
 		"Numero" : 2,
-		"Nombre" : "YERIFEN JEREZ",
-		"Puntos" : 49
+		"Nombre" : "FRISSO WILSON",
+		"Puntos" : 51
 	},
 	{
 		"Numero" : 3,
-		"Nombre" : "JOSELUIS HENRIQUEZ",
-		"Puntos" : 47
+		"Nombre" : "YERIFEN JEREZ",
+		"Puntos" : 51
 	},
 	{
 		"Numero" : 4,
-		"Nombre" : "FRISSO WILSON",
-		"Puntos" : 46
+		"Nombre" : "Ángel Grullón",
+		"Puntos" : 51
 	},
 	{
 		"Numero" : 5,
-		"Nombre" : "Ángel Grullón",
-		"Puntos" : 46
+		"Nombre" : "JOSELUIS HENRIQUEZ",
+		"Puntos" : 45
 	},
 	{
 		"Numero" : 6,
 		"Nombre" : "ESMERLIN AQUINO",
-		"Puntos" : 33
+		"Puntos" : 31
 	},
 	{
 		"Numero" : 7,
 		"Nombre" : "DARWIN SANCHEZ",
-		"Puntos" : 30
+		"Puntos" : 28
 	},
 	{
 		"Numero" : 8,
-		"Nombre" : "ABRAHAN",
-		"Puntos" : 27
-	},
-	{
-		"Numero" : 9,
 		"Nombre" : "CHULO PUJOLS",
 		"Puntos" : 25
 	},
 	{
+		"Numero" : 9,
+		"Nombre" : "ABRAHAN",
+		"Puntos" : 25
+	},
+	{
 		"Numero" : 10,
-		"Nombre" : "ERIC BENCOSME",
-		"Puntos" : 21
+		"Nombre" : "LUIS FELIPE HEREDIA",
+		"Puntos" : 20
 	},
 	{
 		"Numero" : 11,
-		"Nombre" : "LUIS FELIPE HEREDIA",
-		"Puntos" : 15
+		"Nombre" : "ERIC BENCOSME",
+		"Puntos" : 19
 	},
 	{
 		"Numero" : 12,
 		"Nombre" : "COCHI VASQUEZ",
-		"Puntos" : 4
+		"Puntos" : 5
 	},
 	{
 		"Numero" : 13,
@@ -67,41 +67,41 @@
 	{
 		"Numero" : 14,
 		"Nombre" : "ANGEL MOREL",
-		"Puntos" : 3
+		"Puntos" : 1
 	},
 	{
 		"Numero" : 15,
 		"Nombre" : "NAO FIGUEROA",
-		"Puntos" : 2
+		"Puntos" : 0
 	},
 	{
 		"Numero" : 16,
 		"Nombre" : "Jean Carlos Ramos",
-		"Puntos" : -1
+		"Puntos" : -3
 	},
 	{
 		"Numero" : 17,
 		"Nombre" : "LA FEDE CHICHI",
-		"Puntos" : -4
+		"Puntos" : -5
 	},
 	{
 		"Numero" : 18,
 		"Nombre" : "JUNIOR BOBOLO",
-		"Puntos" : -7
+		"Puntos" : -9
 	},
 	{
 		"Numero" : 19,
 		"Nombre" : "MIGUEL FIGUEROA",
-		"Puntos" : -8
+		"Puntos" : -10
 	},
 	{
 		"Numero" : 20,
 		"Nombre" : "ALAMO CABRERA",
-		"Puntos" : -13
+		"Puntos" : -15
 	},
 	{
 		"Numero" : 21,
 		"Nombre" : "ANEURIS SIMBA",
-		"Puntos" : -18
+		"Puntos" : -20
 	}
 ]

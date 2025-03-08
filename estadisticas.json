@@ -22,12 +22,12 @@
 		"Total_3H" : 1,
 		"Total_HR" : 0,
 		"Total_BB" : 0,
-		"Total_K" : 2,
+		"Total_K" : 3,
 		"Total_RBI" : 1,
 		"Total_CA" : 0,
-		"Total_Turnos" : 12,
-		"Promedio_Bateo" : 250,
-		"Juegos_Asistidos" : 5
+		"Total_Turnos" : 14,
+		"Promedio_Bateo" : 214,
+		"Juegos_Asistidos" : 6
 	},
 	{
 		"Numero" : 3,
@@ -51,28 +51,28 @@
 		"Total_2H" : 0,
 		"Total_3H" : 0,
 		"Total_HR" : 0,
-		"Total_BB" : 1,
+		"Total_BB" : 2,
 		"Total_K" : 0,
 		"Total_RBI" : 0,
 		"Total_CA" : 0,
-		"Total_Turnos" : 11,
-		"Promedio_Bateo" : 455,
-		"Juegos_Asistidos" : 8
+		"Total_Turnos" : 12,
+		"Promedio_Bateo" : 417,
+		"Juegos_Asistidos" : 9
 	},
 	{
 		"Numero" : 5,
 		"Nombre_Completo" : "FRISSO WILSON",
 		"Total_H" : 4,
-		"Total_2H" : 5,
+		"Total_2H" : 6,
 		"Total_3H" : 1,
 		"Total_HR" : 3,
-		"Total_BB" : 6,
+		"Total_BB" : 7,
 		"Total_K" : 2,
-		"Total_RBI" : 4,
+		"Total_RBI" : 6,
 		"Total_CA" : 3,
-		"Total_Turnos" : 32,
-		"Promedio_Bateo" : 406,
-		"Juegos_Asistidos" : 9
+		"Total_Turnos" : 34,
+		"Promedio_Bateo" : 412,
+		"Juegos_Asistidos" : 10
 	},
 	{
 		"Numero" : 6,
@@ -100,9 +100,9 @@
 		"Total_K" : 1,
 		"Total_RBI" : 3,
 		"Total_CA" : 3,
-		"Total_Turnos" : 29,
-		"Promedio_Bateo" : 414,
-		"Juegos_Asistidos" : 7
+		"Total_Turnos" : 31,
+		"Promedio_Bateo" : 387,
+		"Juegos_Asistidos" : 8
 	},
 	{
 		"Numero" : 12,
@@ -122,17 +122,17 @@
 	{
 		"Numero" : 13,
 		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Total_H" : 11,
+		"Total_H" : 12,
 		"Total_2H" : 2,
 		"Total_3H" : 1,
 		"Total_HR" : 3,
 		"Total_BB" : 1,
 		"Total_K" : 2,
 		"Total_RBI" : 13,
-		"Total_CA" : 5,
-		"Total_Turnos" : 30,
-		"Promedio_Bateo" : 567,
-		"Juegos_Asistidos" : 7
+		"Total_CA" : 6,
+		"Total_Turnos" : 33,
+		"Promedio_Bateo" : 545,
+		"Juegos_Asistidos" : 8
 	},
 	{
 		"Numero" : 15,
@@ -145,9 +145,9 @@
 		"Total_K" : 0,
 		"Total_RBI" : 4,
 		"Total_CA" : 2,
-		"Total_Turnos" : 10,
-		"Promedio_Bateo" : 500,
-		"Juegos_Asistidos" : 4
+		"Total_Turnos" : 13,
+		"Promedio_Bateo" : 385,
+		"Juegos_Asistidos" : 5
 	},
 	{
 		"Numero" : 18,
@@ -182,17 +182,17 @@
 	{
 		"Numero" : 25,
 		"Nombre_Completo" : "Ángel Grullón",
-		"Total_H" : 5,
+		"Total_H" : 6,
 		"Total_2H" : 3,
 		"Total_3H" : 1,
 		"Total_HR" : 5,
-		"Total_BB" : 2,
+		"Total_BB" : 3,
 		"Total_K" : 2,
-		"Total_RBI" : 4,
+		"Total_RBI" : 7,
 		"Total_CA" : 2,
-		"Total_Turnos" : 31,
-		"Promedio_Bateo" : 452,
-		"Juegos_Asistidos" : 7
+		"Total_Turnos" : 33,
+		"Promedio_Bateo" : 455,
+		"Juegos_Asistidos" : 8
 	},
 	{
 		"Numero" : 26,
@@ -246,13 +246,13 @@
 		"Total_2H" : 1,
 		"Total_3H" : 1,
 		"Total_HR" : 1,
-		"Total_BB" : 5,
+		"Total_BB" : 8,
 		"Total_K" : 0,
 		"Total_RBI" : 1,
-		"Total_CA" : 5,
+		"Total_CA" : 7,
 		"Total_Turnos" : 13,
 		"Promedio_Bateo" : 462,
-		"Juegos_Asistidos" : 4
+		"Juegos_Asistidos" : 5
 	},
 	{
 		"Numero" : 31,
@@ -260,14 +260,14 @@
 		"Total_H" : 3,
 		"Total_2H" : 4,
 		"Total_3H" : 1,
-		"Total_HR" : 4,
+		"Total_HR" : 5,
 		"Total_BB" : 5,
 		"Total_K" : 2,
-		"Total_RBI" : 5,
-		"Total_CA" : 6,
-		"Total_Turnos" : 34,
-		"Promedio_Bateo" : 353,
-		"Juegos_Asistidos" : 8
+		"Total_RBI" : 6,
+		"Total_CA" : 7,
+		"Total_Turnos" : 37,
+		"Promedio_Bateo" : 351,
+		"Juegos_Asistidos" : 9
 	},
 	{
 		"Numero" : 44,
