@@ -1,57 +1,57 @@
 [
 	{
 		"Posicion" : 1,
-		"H1" : "JOSELUIS HENRIQUEZ (15)",
-		"H2" : "CHULO PUJOLS (11)",
+		"H1" : "JOSELUIS HENRIQUEZ (16)",
+		"H2" : "CHULO PUJOLS (12)",
 		"H3" : "JOSELUIS HENRIQUEZ (4)",
 		"H4" : "Ángel Grullón (6)",
-		"BB" : "LUIS FELIPE HEREDIA (8)",
-		"K" : "ANGEL MOREL (4)",
-		"Total_Remolcadas" : "YERIFEN JEREZ (15)",
-		"Total_Anotadas" : "JOSELUIS HENRIQUEZ (11)"
+		"BB" : "LUIS FELIPE HEREDIA (10)",
+		"K" : "ERIC BENCOSME (5)",
+		"Total_Remolcadas" : "YERIFEN JEREZ (18)",
+		"Total_Anotadas" : "JOSELUIS HENRIQUEZ (14)"
 	},
 	{
 		"Posicion" : 2,
-		"H1" : "YERIFEN JEREZ (13)",
-		"H2" : "JOSELUIS HENRIQUEZ (7)",
-		"H3" : "ABRAHAN (2)",
+		"H1" : "YERIFEN JEREZ (14)",
+		"H2" : "JOSELUIS HENRIQUEZ (9)",
+		"H3" : "Luis Manuel Imanol (2)",
 		"H4" : "Luis Manuel Imanol (5)",
-		"BB" : "Ángel Grullón (7)",
-		"K" : "JOSELUIS HENRIQUEZ (3)",
-		"Total_Remolcadas" : "Ángel Grullón (13)",
-		"Total_Anotadas" : "CHULO PUJOLS (10)"
+		"BB" : "Ángel Grullón (8)",
+		"K" : "LA FEDE CHICHI (4)",
+		"Total_Remolcadas" : "Ángel Grullón (15)",
+		"Total_Anotadas" : "YERIFEN JEREZ (11)"
 	},
 	{
 		"Posicion" : 3,
-		"H1" : "ERIC BENCOSME (12)",
+		"H1" : "ERIC BENCOSME (13)",
 		"H2" : "ESMERLIN AQUINO (7)",
-		"H3" : "ESMERLIN AQUINO (2)",
-		"H4" : "YERIFEN JEREZ (3)",
-		"BB" : "FRISSO WILSON (7)",
-		"K" : "ERIC BENCOSME (3)",
-		"Total_Remolcadas" : "Luis Manuel Imanol (6)",
-		"Total_Anotadas" : "Luis Manuel Imanol (9)"
+		"H3" : "ABRAHAN (2)",
+		"H4" : "FRISSO WILSON (4)",
+		"BB" : "Luis Manuel Imanol (7)",
+		"K" : "ANGEL MOREL (4)",
+		"Total_Remolcadas" : "CHULO PUJOLS (10)",
+		"Total_Anotadas" : "CHULO PUJOLS (11)"
 	},
 	{
 		"Posicion" : 4,
-		"H1" : "DARWIN SANCHEZ (11)",
-		"H2" : "FRISSO WILSON (6)",
-		"H3" : "NAO FIGUEROA (1)",
-		"H4" : "FRISSO WILSON (3)",
-		"BB" : "Luis Manuel Imanol (6)",
-		"K" : "LA FEDE CHICHI (3)",
-		"Total_Remolcadas" : "CHULO PUJOLS (6)",
-		"Total_Anotadas" : "ERIC BENCOSME (8)"
+		"H1" : "ABRAHAN (11)",
+		"H2" : "YERIFEN JEREZ (6)",
+		"H3" : "ESMERLIN AQUINO (2)",
+		"H4" : "YERIFEN JEREZ (3)",
+		"BB" : "FRISSO WILSON (7)",
+		"K" : "JOSELUIS HENRIQUEZ (3)",
+		"Total_Remolcadas" : "FRISSO WILSON (10)",
+		"Total_Anotadas" : "Luis Manuel Imanol (10)"
 	},
 	{
 		"Posicion" : 5,
-		"H1" : "NAO FIGUEROA (9)",
-		"H2" : "ERIC BENCOSME (5)",
-		"H3" : "Luis Manuel Imanol (1)",
-		"H4" : "DARWIN SANCHEZ (2)",
-		"BB" : "ERIC BENCOSME (5)",
+		"H1" : "Ángel Grullón (11)",
+		"H2" : "FRISSO WILSON (6)",
+		"H3" : "NAO FIGUEROA (1)",
+		"H4" : "ESMERLIN AQUINO (2)",
+		"BB" : "CHULO PUJOLS (5)",
 		"K" : "Luis Manuel Imanol (2)",
-		"Total_Remolcadas" : "ABRAHAN (6)",
-		"Total_Anotadas" : "DARWIN SANCHEZ (8)"
+		"Total_Remolcadas" : "ABRAHAN (9)",
+		"Total_Anotadas" : "ERIC BENCOSME (9)"
 	}
 ]

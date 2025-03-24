@@ -1,17 +1,17 @@
 [
 	{
 		"Nombre_Pitcher" : "COCHI VASQUEZ",
-		"Innings" : 52.0,
-		"k" : 15,
+		"Innings" : 58.0,
+		"k" : 17,
 		"BB" : 9,
-		"Total_Puntos" : 170.0
+		"Total_Puntos" : 192.0
 	},
 	{
 		"Nombre_Pitcher" : "MIGUEL FIGUEROA",
-		"Innings" : 8.0,
-		"k" : 1,
-		"BB" : 2,
-		"Total_Puntos" : 19.0
+		"Innings" : 13.0,
+		"k" : 2,
+		"BB" : 3,
+		"Total_Puntos" : 33.0
 	},
 	{
 		"Nombre_Pitcher" : "ESMERLIN AQUINO",
