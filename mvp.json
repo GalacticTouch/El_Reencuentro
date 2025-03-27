@@ -1,112 +1,112 @@
 [
 	{
 		"Numero" : 1,
-		"Nombre" : "Ángel Grullón",
-		"Puntos" : 86
+		"Nombre" : "LUIS MANUEL MAÑON",
+		"Puntos" : 92
 	},
 	{
 		"Numero" : 2,
-		"Nombre" : "YERIFEN JEREZ",
-		"Puntos" : 72
+		"Nombre" : "ÁNGEL GRULLON",
+		"Puntos" : 89
 	},
 	{
 		"Numero" : 3,
-		"Nombre" : "Luis Manuel Imanol",
-		"Puntos" : 71
+		"Nombre" : "FRISSO WILSON",
+		"Puntos" : 82
 	},
 	{
 		"Numero" : 4,
-		"Nombre" : "FRISSO WILSON",
-		"Puntos" : 70
+		"Nombre" : "YERIFEN JEREZ",
+		"Puntos" : 77
 	},
 	{
 		"Numero" : 5,
-		"Nombre" : "JOSELUIS HENRIQUEZ",
-		"Puntos" : 60
+		"Nombre" : "ESMERLIN AQUINO",
+		"Puntos" : 61
 	},
 	{
 		"Numero" : 6,
-		"Nombre" : "ESMERLIN AQUINO",
-		"Puntos" : 57
+		"Nombre" : "JOSELUIS HENRIQUEZ",
+		"Puntos" : 58
 	},
 	{
 		"Numero" : 7,
 		"Nombre" : "CHULO PUJOLS",
-		"Puntos" : 54
+		"Puntos" : 52
 	},
 	{
 		"Numero" : 8,
 		"Nombre" : "DARWIN SANCHEZ",
-		"Puntos" : 42
+		"Puntos" : 40
 	},
 	{
 		"Numero" : 9,
 		"Nombre" : "ABRAHAN",
-		"Puntos" : 40
+		"Puntos" : 38
 	},
 	{
 		"Numero" : 10,
 		"Nombre" : "ERIC BENCOSME",
-		"Puntos" : 35
+		"Puntos" : 36
 	},
 	{
 		"Numero" : 11,
-		"Nombre" : "LUIS FELIPE HEREDIA",
+		"Nombre" : "MARCELINO RAMIREZ",
 		"Puntos" : 22
 	},
 	{
 		"Numero" : 12,
-		"Nombre" : "NAO FIGUEROA",
-		"Puntos" : 18
+		"Nombre" : "MODESTO DE LA ROSA",
+		"Puntos" : 20
 	},
 	{
 		"Numero" : 13,
-		"Nombre" : "MARCELINO WILSON",
-		"Puntos" : 18
+		"Nombre" : "LUIS FELIPE HEREDIA",
+		"Puntos" : 20
 	},
 	{
 		"Numero" : 14,
-		"Nombre" : "ANGEL MOREL",
-		"Puntos" : 13
+		"Nombre" : "NAO FIGUEROA",
+		"Puntos" : 16
 	},
 	{
 		"Numero" : 15,
 		"Nombre" : "COCHI VASQUEZ",
-		"Puntos" : 11
+		"Puntos" : 12
 	},
 	{
 		"Numero" : 16,
-		"Nombre" : "MODESTO DE LA ROSA",
-		"Puntos" : 5
+		"Nombre" : "ANGEL MOREL",
+		"Puntos" : 11
 	},
 	{
 		"Numero" : 17,
+		"Nombre" : "LA FEDE CHICHI",
+		"Puntos" : -1
+	},
+	{
+		"Numero" : 18,
 		"Nombre" : "MIGUEL FIGUEROA",
 		"Puntos" : -4
 	},
 	{
-		"Numero" : 18,
-		"Nombre" : "LA FEDE CHICHI",
-		"Puntos" : -5
-	},
-	{
 		"Numero" : 19,
-		"Nombre" : "Jean Carlos Ramos",
-		"Puntos" : -9
+		"Nombre" : "JEAN CARLOS RAMOS",
+		"Puntos" : -8
 	},
 	{
 		"Numero" : 20,
 		"Nombre" : "JUNIOR BOBOLO",
-		"Puntos" : -13
+		"Puntos" : -15
 	},
 	{
 		"Numero" : 21,
 		"Nombre" : "ALAMO CABRERA",
-		"Puntos" : -21
+		"Puntos" : -23
 	},
 	{
 		"Numero" : 22,
 		"Nombre" : "ANEURIS SIMBA",
-		"Puntos" : -26
+		"Puntos" : -28
 	}
 ]
