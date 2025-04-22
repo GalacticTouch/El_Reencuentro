@@ -1,57 +1,57 @@
 [
 	{
 		"Posicion" : 1,
-		"H1" : "JOSELUIS HENRIQUEZ (17)",
+		"H1" : "JOSELUIS HENRIQUEZ (19)",
 		"H2" : "CHULO PUJOLS (12)",
 		"H3" : "JOSELUIS HENRIQUEZ (4)",
-		"H4" : "LUIS MANUEL MAÑON (11)",
+		"H4" : "LUIS MANUEL MAÑON (13)",
 		"BB" : "LUIS MANUEL MAÑON (10)",
 		"K" : "ERIC BENCOSME (7)",
-		"Total_Remolcadas" : "YERIFEN JEREZ (24)",
-		"Total_Anotadas" : "LUIS MANUEL MAÑON (23)"
+		"Total_Remolcadas" : "YERIFEN JEREZ (27)",
+		"Total_Anotadas" : "LUIS MANUEL MAÑON (26)"
 	},
 	{
 		"Posicion" : 2,
-		"H1" : "YERIFEN JEREZ (15)",
-		"H2" : "YERIFEN JEREZ (10)",
-		"H3" : "LUIS MANUEL MAÑON (2)",
-		"H4" : "ÁNGEL GRULLON (6)",
+		"H1" : "YERIFEN JEREZ (18)",
+		"H2" : "JOSELUIS HENRIQUEZ (11)",
+		"H3" : "NAO FIGUEROA (2)",
+		"H4" : "YERIFEN JEREZ (6)",
 		"BB" : "LUIS FELIPE HEREDIA (10)",
 		"K" : "LA FEDE CHICHI (6)",
-		"Total_Remolcadas" : "LUIS MANUEL MAÑON (18)",
-		"Total_Anotadas" : "YERIFEN JEREZ (18)"
+		"Total_Remolcadas" : "LUIS MANUEL MAÑON (24)",
+		"Total_Anotadas" : "YERIFEN JEREZ (22)"
 	},
 	{
 		"Posicion" : 3,
-		"H1" : "ABRAHAN (15)",
-		"H2" : "JOSELUIS HENRIQUEZ (10)",
-		"H3" : "ABRAHAN (2)",
-		"H4" : "YERIFEN JEREZ (5)",
+		"H1" : "ABRAHAN (16)",
+		"H2" : "YERIFEN JEREZ (10)",
+		"H3" : "LUIS MANUEL MAÑON (2)",
+		"H4" : "ÁNGEL GRULLON (6)",
 		"BB" : "ÁNGEL GRULLON (9)",
-		"K" : "ANGEL MOREL (5)",
-		"Total_Remolcadas" : "FRISSO WILSON (18)",
-		"Total_Anotadas" : "JOSELUIS HENRIQUEZ (15)"
+		"K" : "ANGEL MOREL (6)",
+		"Total_Remolcadas" : "FRISSO WILSON (21)",
+		"Total_Anotadas" : "JOSELUIS HENRIQUEZ (17)"
 	},
 	{
 		"Posicion" : 4,
-		"H1" : "ERIC BENCOSME (13)",
-		"H2" : "ESMERLIN AQUINO (9)",
-		"H3" : "ESMERLIN AQUINO (2)",
+		"H1" : "ERIC BENCOSME (14)",
+		"H2" : "ESMERLIN AQUINO (10)",
+		"H3" : "YERIFEN JEREZ (2)",
 		"H4" : "FRISSO WILSON (5)",
 		"BB" : "ERIC BENCOSME (8)",
 		"K" : "YERIFEN JEREZ (3)",
-		"Total_Remolcadas" : "ÁNGEL GRULLON (16)",
-		"Total_Anotadas" : "ESMERLIN AQUINO (13)"
+		"Total_Remolcadas" : "ÁNGEL GRULLON (17)",
+		"Total_Anotadas" : "ESMERLIN AQUINO (16)"
 	},
 	{
 		"Posicion" : 5,
-		"H1" : "ESMERLIN AQUINO (12)",
-		"H2" : "FRISSO WILSON (7)",
-		"H3" : "NAO FIGUEROA (1)",
+		"H1" : "NAO FIGUEROA (13)",
+		"H2" : "FRISSO WILSON (8)",
+		"H3" : "ABRAHAN (2)",
 		"H4" : "ESMERLIN AQUINO (3)",
 		"BB" : "FRISSO WILSON (8)",
 		"K" : "JOSELUIS HENRIQUEZ (3)",
-		"Total_Remolcadas" : "ESMERLIN AQUINO (14)",
-		"Total_Anotadas" : "ÁNGEL GRULLON (12)"
+		"Total_Remolcadas" : "ESMERLIN AQUINO (16)",
+		"Total_Anotadas" : "ÁNGEL GRULLON (14)"
 	}
 ]
