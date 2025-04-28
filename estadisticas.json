@@ -2,17 +2,17 @@
 	{
 		"Numero" : 1,
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Total_H" : 13,
+		"Total_H" : 15,
 		"Total_2H" : 11,
 		"Total_3H" : 2,
 		"Total_HR" : 3,
 		"Total_BB" : 3,
-		"Total_K" : 1,
+		"Total_K" : 2,
 		"Total_RBI" : 16,
-		"Total_CA" : 17,
-		"Total_Turnos" : 75,
-		"Promedio_Bateo" : 387,
-		"Juegos_Asistidos" : 16
+		"Total_CA" : 18,
+		"Total_Turnos" : 83,
+		"Promedio_Bateo" : 373,
+		"Juegos_Asistidos" : 17
 	},
 	{
 		"Numero" : 2,
@@ -21,28 +21,28 @@
 		"Total_2H" : 2,
 		"Total_3H" : 1,
 		"Total_HR" : 0,
-		"Total_BB" : 2,
+		"Total_BB" : 3,
 		"Total_K" : 6,
 		"Total_RBI" : 4,
-		"Total_CA" : 3,
-		"Total_Turnos" : 41,
-		"Promedio_Bateo" : 220,
-		"Juegos_Asistidos" : 13
+		"Total_CA" : 4,
+		"Total_Turnos" : 44,
+		"Promedio_Bateo" : 205,
+		"Juegos_Asistidos" : 14
 	},
 	{
 		"Numero" : 3,
 		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
-		"Total_H" : 21,
+		"Total_H" : 24,
 		"Total_2H" : 11,
 		"Total_3H" : 4,
 		"Total_HR" : 0,
 		"Total_BB" : 4,
 		"Total_K" : 3,
 		"Total_RBI" : 10,
-		"Total_CA" : 17,
-		"Total_Turnos" : 65,
-		"Promedio_Bateo" : 554,
-		"Juegos_Asistidos" : 14
+		"Total_CA" : 18,
+		"Total_Turnos" : 73,
+		"Promedio_Bateo" : 534,
+		"Juegos_Asistidos" : 15
 	},
 	{
 		"Numero" : 4,
@@ -57,22 +57,22 @@
 		"Total_CA" : 4,
 		"Total_Turnos" : 35,
 		"Promedio_Bateo" : 343,
-		"Juegos_Asistidos" : 17
+		"Juegos_Asistidos" : 18
 	},
 	{
 		"Numero" : 5,
 		"Nombre_Completo" : "FRISSO WILSON",
-		"Total_H" : 10,
-		"Total_2H" : 8,
+		"Total_H" : 11,
+		"Total_2H" : 9,
 		"Total_3H" : 2,
 		"Total_HR" : 5,
-		"Total_BB" : 9,
+		"Total_BB" : 10,
 		"Total_K" : 2,
-		"Total_RBI" : 21,
+		"Total_RBI" : 23,
 		"Total_CA" : 12,
-		"Total_Turnos" : 61,
-		"Promedio_Bateo" : 410,
-		"Juegos_Asistidos" : 17
+		"Total_Turnos" : 69,
+		"Promedio_Bateo" : 391,
+		"Juegos_Asistidos" : 18
 	},
 	{
 		"Numero" : 6,
@@ -85,9 +85,9 @@
 		"Total_K" : 1,
 		"Total_RBI" : 6,
 		"Total_CA" : 8,
-		"Total_Turnos" : 38,
-		"Promedio_Bateo" : 526,
-		"Juegos_Asistidos" : 8
+		"Total_Turnos" : 46,
+		"Promedio_Bateo" : 435,
+		"Juegos_Asistidos" : 9
 	},
 	{
 		"Numero" : 7,
@@ -102,7 +102,7 @@
 		"Total_CA" : 11,
 		"Total_Turnos" : 46,
 		"Promedio_Bateo" : 435,
-		"Juegos_Asistidos" : 15
+		"Juegos_Asistidos" : 16
 	},
 	{
 		"Numero" : 12,
@@ -117,22 +117,22 @@
 		"Total_CA" : 2,
 		"Total_Turnos" : 23,
 		"Promedio_Bateo" : 478,
-		"Juegos_Asistidos" : 8
+		"Juegos_Asistidos" : 9
 	},
 	{
 		"Numero" : 13,
 		"Nombre_Completo" : "YERIFEN JEREZ",
 		"Total_H" : 19,
-		"Total_2H" : 10,
-		"Total_3H" : 2,
+		"Total_2H" : 11,
+		"Total_3H" : 3,
 		"Total_HR" : 7,
-		"Total_BB" : 5,
+		"Total_BB" : 6,
 		"Total_K" : 3,
-		"Total_RBI" : 29,
-		"Total_CA" : 24,
-		"Total_Turnos" : 75,
-		"Promedio_Bateo" : 507,
-		"Juegos_Asistidos" : 16
+		"Total_RBI" : 31,
+		"Total_CA" : 27,
+		"Total_Turnos" : 83,
+		"Promedio_Bateo" : 482,
+		"Juegos_Asistidos" : 17
 	},
 	{
 		"Numero" : 15,
@@ -152,17 +152,17 @@
 	{
 		"Numero" : 18,
 		"Nombre_Completo" : "JUNIOR BOBOLO",
-		"Total_H" : 5,
+		"Total_H" : 6,
 		"Total_2H" : 2,
 		"Total_3H" : 0,
 		"Total_HR" : 0,
-		"Total_BB" : 3,
+		"Total_BB" : 4,
 		"Total_K" : 0,
 		"Total_RBI" : 4,
 		"Total_CA" : 2,
-		"Total_Turnos" : 20,
-		"Promedio_Bateo" : 350,
-		"Juegos_Asistidos" : 6
+		"Total_Turnos" : 26,
+		"Promedio_Bateo" : 308,
+		"Juegos_Asistidos" : 7
 	},
 	{
 		"Numero" : 20,
@@ -171,28 +171,28 @@
 		"Total_2H" : 6,
 		"Total_3H" : 0,
 		"Total_HR" : 1,
-		"Total_BB" : 8,
+		"Total_BB" : 10,
 		"Total_K" : 7,
 		"Total_RBI" : 4,
 		"Total_CA" : 12,
 		"Total_Turnos" : 55,
 		"Promedio_Bateo" : 400,
-		"Juegos_Asistidos" : 15
+		"Juegos_Asistidos" : 16
 	},
 	{
 		"Numero" : 25,
 		"Nombre_Completo" : "ÁNGEL GRULLON",
-		"Total_H" : 14,
+		"Total_H" : 15,
 		"Total_2H" : 6,
 		"Total_3H" : 1,
 		"Total_HR" : 7,
-		"Total_BB" : 10,
+		"Total_BB" : 11,
 		"Total_K" : 4,
 		"Total_RBI" : 19,
 		"Total_CA" : 16,
-		"Total_Turnos" : 63,
-		"Promedio_Bateo" : 444,
-		"Juegos_Asistidos" : 16
+		"Total_Turnos" : 67,
+		"Promedio_Bateo" : 433,
+		"Juegos_Asistidos" : 17
 	},
 	{
 		"Numero" : 26,
@@ -260,14 +260,14 @@
 		"Total_H" : 9,
 		"Total_2H" : 6,
 		"Total_3H" : 2,
-		"Total_HR" : 14,
-		"Total_BB" : 11,
+		"Total_HR" : 15,
+		"Total_BB" : 12,
 		"Total_K" : 2,
-		"Total_RBI" : 25,
-		"Total_CA" : 28,
-		"Total_Turnos" : 67,
-		"Promedio_Bateo" : 463,
-		"Juegos_Asistidos" : 17
+		"Total_RBI" : 26,
+		"Total_CA" : 29,
+		"Total_Turnos" : 75,
+		"Promedio_Bateo" : 427,
+		"Juegos_Asistidos" : 18
 	},
 	{
 		"Numero" : 44,
@@ -287,22 +287,22 @@
 	{
 		"Numero" : 45,
 		"Nombre_Completo" : "ABRAHAN",
-		"Total_H" : 16,
+		"Total_H" : 17,
 		"Total_2H" : 3,
 		"Total_3H" : 2,
 		"Total_HR" : 1,
-		"Total_BB" : 6,
+		"Total_BB" : 7,
 		"Total_K" : 1,
 		"Total_RBI" : 12,
 		"Total_CA" : 13,
-		"Total_Turnos" : 46,
-		"Promedio_Bateo" : 478,
-		"Juegos_Asistidos" : 12
+		"Total_Turnos" : 53,
+		"Promedio_Bateo" : 434,
+		"Juegos_Asistidos" : 13
 	},
 	{
 		"Numero" : 46,
 		"Nombre_Completo" : "DARWIN SANCHEZ",
-		"Total_H" : 11,
+		"Total_H" : 12,
 		"Total_2H" : 5,
 		"Total_3H" : 1,
 		"Total_HR" : 2,
@@ -310,23 +310,23 @@
 		"Total_K" : 2,
 		"Total_RBI" : 6,
 		"Total_CA" : 8,
-		"Total_Turnos" : 32,
-		"Promedio_Bateo" : 594,
-		"Juegos_Asistidos" : 8
+		"Total_Turnos" : 39,
+		"Promedio_Bateo" : 513,
+		"Juegos_Asistidos" : 9
 	},
 	{
 		"Numero" : 47,
 		"Nombre_Completo" : "MARCELINO RAMIREZ",
-		"Total_H" : 1,
+		"Total_H" : 2,
 		"Total_2H" : 4,
-		"Total_3H" : 3,
+		"Total_3H" : 4,
 		"Total_HR" : 3,
-		"Total_BB" : 3,
+		"Total_BB" : 4,
 		"Total_K" : 2,
-		"Total_RBI" : 19,
-		"Total_CA" : 13,
-		"Total_Turnos" : 25,
-		"Promedio_Bateo" : 440,
-		"Juegos_Asistidos" : 5
+		"Total_RBI" : 21,
+		"Total_CA" : 14,
+		"Total_Turnos" : 32,
+		"Promedio_Bateo" : 406,
+		"Juegos_Asistidos" : 6
 	}
 ]
