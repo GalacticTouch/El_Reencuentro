@@ -1,57 +1,23 @@
 [
 	{
-		"Posicion" : 1,
-		"H1" : "JOSELUIS HENRIQUEZ (24)",
-		"H2" : "CHULO PUJOLS (12)",
-		"H3" : "JOSELUIS HENRIQUEZ (4)",
-		"H4" : "LUIS MANUEL MAÑON (15)",
-		"BB" : "LUIS MANUEL MAÑON (12)",
-		"K" : "ERIC BENCOSME (7)",
-		"Total_Remolcadas" : "YERIFEN JEREZ (31)",
-		"Total_Anotadas" : "LUIS MANUEL MAÑON (29)"
+		"Nombre_Pitcher" : "COCHI VASQUEZ",
+		"Innings" : 121.0,
+		"k" : 31,
+		"BB" : 18,
+		"Total_Puntos" : 379.0
 	},
 	{
-		"Posicion" : 2,
-		"H1" : "YERIFEN JEREZ (19)",
-		"H2" : "YERIFEN JEREZ (11)",
-		"H3" : "MARCELINO RAMIREZ (4)",
-		"H4" : "YERIFEN JEREZ (7)",
-		"BB" : "ÁNGEL GRULLON (11)",
-		"K" : "LA FEDE CHICHI (6)",
-		"Total_Remolcadas" : "LUIS MANUEL MAÑON (26)",
-		"Total_Anotadas" : "YERIFEN JEREZ (27)"
+		"Nombre_Pitcher" : "MIGUEL FIGUEROA",
+		"Innings" : 48.0,
+		"k" : 4,
+		"BB" : 9,
+		"Total_Puntos" : 107.0
 	},
 	{
-		"Posicion" : 3,
-		"H1" : "ABRAHAN (17)",
-		"H2" : "JOSELUIS HENRIQUEZ (11)",
-		"H3" : "YERIFEN JEREZ (3)",
-		"H4" : "ÁNGEL GRULLON (7)",
-		"BB" : "ERIC BENCOSME (10)",
-		"K" : "ANGEL MOREL (6)",
-		"Total_Remolcadas" : "FRISSO WILSON (23)",
-		"Total_Anotadas" : "JOSELUIS HENRIQUEZ (18)"
-	},
-	{
-		"Posicion" : 4,
-		"H1" : "ERIC BENCOSME (15)",
-		"H2" : "ESMERLIN AQUINO (11)",
-		"H3" : "NAO FIGUEROA (2)",
-		"H4" : "FRISSO WILSON (5)",
-		"BB" : "FRISSO WILSON (10)",
-		"K" : "ÁNGEL GRULLON (4)",
-		"Total_Remolcadas" : "MARCELINO RAMIREZ (21)",
-		"Total_Anotadas" : "ESMERLIN AQUINO (18)"
-	},
-	{
-		"Posicion" : 5,
-		"H1" : "ÁNGEL GRULLON (15)",
-		"H2" : "FRISSO WILSON (9)",
-		"H3" : "LUIS MANUEL MAÑON (2)",
-		"H4" : "ESMERLIN AQUINO (3)",
-		"BB" : "LUIS FELIPE HEREDIA (10)",
-		"K" : "YERIFEN JEREZ (3)",
-		"Total_Remolcadas" : "ÁNGEL GRULLON (19)",
-		"Total_Anotadas" : "ÁNGEL GRULLON (16)"
+		"Nombre_Pitcher" : "ESMERLIN AQUINO",
+		"Innings" : 9.0,
+		"k" : 1,
+		"BB" : 6,
+		"Total_Puntos" : 17.0
 	}
 ]
