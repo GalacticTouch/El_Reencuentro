@@ -2,35 +2,35 @@
 	{
 		"Posicion" : 1,
 		"H1" : "JOSELUIS HENRIQUEZ (24)",
-		"H2" : "ESMERLIN AQUINO (14)",
-		"H3" : "JOSELUIS HENRIQUEZ (4)",
-		"H4" : "LUIS MANUEL MAÑON (16)",
-		"BB" : "LUIS FELIPE HEREDIA (13)",
+		"H2" : "YERIFEN JEREZ (14)",
+		"H3" : "YERIFEN JEREZ (4)",
+		"H4" : "LUIS MANUEL MAÑON (17)",
+		"BB" : "LUIS FELIPE HEREDIA (14)",
 		"K" : "LA FEDE CHICHI (8)",
-		"Total_Remolcadas" : "YERIFEN JEREZ (33)",
-		"Total_Anotadas" : "LUIS MANUEL MAÑON (31)"
+		"Total_Remolcadas" : "YERIFEN JEREZ (36)",
+		"Total_Anotadas" : "YERIFEN JEREZ (34)"
 	},
 	{
 		"Posicion" : 2,
 		"H1" : "YERIFEN JEREZ (20)",
-		"H2" : "YERIFEN JEREZ (13)",
-		"H3" : "MARCELINO RAMIREZ (4)",
-		"H4" : "YERIFEN JEREZ (7)",
+		"H2" : "ESMERLIN AQUINO (14)",
+		"H3" : "JOSELUIS HENRIQUEZ (4)",
+		"H4" : "YERIFEN JEREZ (8)",
 		"BB" : "LUIS MANUEL MAÑON (12)",
 		"K" : "ERIC BENCOSME (7)",
-		"Total_Remolcadas" : "LUIS MANUEL MAÑON (29)",
-		"Total_Anotadas" : "YERIFEN JEREZ (31)"
+		"Total_Remolcadas" : "LUIS MANUEL MAÑON (33)",
+		"Total_Anotadas" : "LUIS MANUEL MAÑON (33)"
 	},
 	{
 		"Posicion" : 3,
 		"H1" : "ABRAHAN (17)",
 		"H2" : "CHULO PUJOLS (12)",
-		"H3" : "YERIFEN JEREZ (3)",
+		"H3" : "MARCELINO RAMIREZ (4)",
 		"H4" : "ÁNGEL GRULLON (7)",
 		"BB" : "ÁNGEL GRULLON (11)",
 		"K" : "ANGEL MOREL (6)",
 		"Total_Remolcadas" : "MARCELINO RAMIREZ (27)",
-		"Total_Anotadas" : "ÁNGEL GRULLON (19)"
+		"Total_Anotadas" : "ESMERLIN AQUINO (20)"
 	},
 	{
 		"Posicion" : 4,
@@ -39,18 +39,18 @@
 		"H3" : "FRISSO WILSON (3)",
 		"H4" : "FRISSO WILSON (6)",
 		"BB" : "FRISSO WILSON (11)",
-		"K" : "ÁNGEL GRULLON (4)",
+		"K" : "LUIS FELIPE HEREDIA (5)",
 		"Total_Remolcadas" : "FRISSO WILSON (25)",
-		"Total_Anotadas" : "ESMERLIN AQUINO (19)"
+		"Total_Anotadas" : "ÁNGEL GRULLON (19)"
 	},
 	{
 		"Posicion" : 5,
-		"H1" : "ERIC BENCOSME (15)",
-		"H2" : "FRISSO WILSON (9)",
+		"H1" : "ESMERLIN AQUINO (16)",
+		"H2" : "LUIS MANUEL MAÑON (10)",
 		"H3" : "NAO FIGUEROA (2)",
 		"H4" : "MARCELINO RAMIREZ (5)",
 		"BB" : "ERIC BENCOSME (10)",
-		"K" : "LUIS FELIPE HEREDIA (4)",
+		"K" : "ÁNGEL GRULLON (4)",
 		"Total_Remolcadas" : "ÁNGEL GRULLON (22)",
 		"Total_Anotadas" : "JOSELUIS HENRIQUEZ (18)"
 	}
