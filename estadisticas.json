@@ -47,17 +47,17 @@
 	{
 		"Numero" : 4,
 		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Total_H1" : 12,
+		"Total_H1" : 13,
 		"Total_H2" : 1,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
-		"Total_BB" : 2,
+		"Total_BB" : 3,
 		"Total_K" : 4,
-		"Total_RBI" : 2,
-		"Total_CA" : 7,
-		"Total_Turnos" : 43,
-		"Promedio_Bateo" : 302,
-		"Juegos_Asistidos" : 20
+		"Total_RBI" : 3,
+		"Total_CA" : 8,
+		"Total_Turnos" : 48,
+		"Promedio_Bateo" : 292,
+		"Juegos_Asistidos" : 21
 	},
 	{
 		"Numero" : 5,
@@ -65,14 +65,14 @@
 		"Total_H1" : 13,
 		"Total_H2" : 9,
 		"Total_H3" : 3,
-		"Total_HR" : 6,
+		"Total_HR" : 7,
 		"Total_BB" : 11,
 		"Total_K" : 2,
-		"Total_RBI" : 25,
-		"Total_CA" : 18,
-		"Total_Turnos" : 78,
-		"Promedio_Bateo" : 397,
-		"Juegos_Asistidos" : 20
+		"Total_RBI" : 29,
+		"Total_CA" : 20,
+		"Total_Turnos" : 83,
+		"Promedio_Bateo" : 386,
+		"Juegos_Asistidos" : 21
 	},
 	{
 		"Numero" : 6,
@@ -102,7 +102,7 @@
 		"Total_CA" : 11,
 		"Total_Turnos" : 46,
 		"Promedio_Bateo" : 435,
-		"Juegos_Asistidos" : 18
+		"Juegos_Asistidos" : 19
 	},
 	{
 		"Numero" : 12,
@@ -122,17 +122,17 @@
 	{
 		"Numero" : 13,
 		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Total_H1" : 20,
+		"Total_H1" : 21,
 		"Total_H2" : 14,
 		"Total_H3" : 4,
 		"Total_HR" : 8,
 		"Total_BB" : 8,
 		"Total_K" : 3,
 		"Total_RBI" : 36,
-		"Total_CA" : 34,
-		"Total_Turnos" : 92,
-		"Promedio_Bateo" : 500,
-		"Juegos_Asistidos" : 19
+		"Total_CA" : 35,
+		"Total_Turnos" : 98,
+		"Promedio_Bateo" : 480,
+		"Juegos_Asistidos" : 20
 	},
 	{
 		"Numero" : 15,
@@ -167,32 +167,32 @@
 	{
 		"Numero" : 20,
 		"Nombre_Completo" : "ERIC BENCOSME",
-		"Total_H1" : 15,
-		"Total_H2" : 6,
+		"Total_H1" : 16,
+		"Total_H2" : 8,
 		"Total_H3" : 0,
 		"Total_HR" : 1,
-		"Total_BB" : 10,
+		"Total_BB" : 11,
 		"Total_K" : 7,
-		"Total_RBI" : 4,
-		"Total_CA" : 12,
-		"Total_Turnos" : 55,
-		"Promedio_Bateo" : 400,
-		"Juegos_Asistidos" : 16
+		"Total_RBI" : 9,
+		"Total_CA" : 13,
+		"Total_Turnos" : 59,
+		"Promedio_Bateo" : 424,
+		"Juegos_Asistidos" : 17
 	},
 	{
 		"Numero" : 25,
 		"Nombre_Completo" : "ÁNGEL GRULLON",
-		"Total_H1" : 17,
-		"Total_H2" : 6,
+		"Total_H1" : 20,
+		"Total_H2" : 7,
 		"Total_H3" : 1,
 		"Total_HR" : 7,
 		"Total_BB" : 11,
 		"Total_K" : 4,
-		"Total_RBI" : 22,
-		"Total_CA" : 19,
-		"Total_Turnos" : 71,
-		"Promedio_Bateo" : 437,
-		"Juegos_Asistidos" : 18
+		"Total_RBI" : 23,
+		"Total_CA" : 23,
+		"Total_Turnos" : 76,
+		"Promedio_Bateo" : 461,
+		"Juegos_Asistidos" : 19
 	},
 	{
 		"Numero" : 26,
@@ -257,17 +257,17 @@
 	{
 		"Numero" : 31,
 		"Nombre_Completo" : "LUIS MANUEL MAÑON",
-		"Total_H1" : 10,
+		"Total_H1" : 12,
 		"Total_H2" : 10,
-		"Total_H3" : 2,
+		"Total_H3" : 3,
 		"Total_HR" : 17,
 		"Total_BB" : 12,
 		"Total_K" : 3,
 		"Total_RBI" : 33,
-		"Total_CA" : 33,
-		"Total_Turnos" : 87,
-		"Promedio_Bateo" : 448,
-		"Juegos_Asistidos" : 20
+		"Total_CA" : 34,
+		"Total_Turnos" : 91,
+		"Promedio_Bateo" : 462,
+		"Juegos_Asistidos" : 21
 	},
 	{
 		"Numero" : 44,
@@ -317,16 +317,16 @@
 	{
 		"Numero" : 47,
 		"Nombre_Completo" : "MARCELINO RAMIREZ",
-		"Total_H1" : 3,
-		"Total_H2" : 4,
+		"Total_H1" : 4,
+		"Total_H2" : 5,
 		"Total_H3" : 4,
 		"Total_HR" : 5,
-		"Total_BB" : 5,
-		"Total_K" : 2,
-		"Total_RBI" : 27,
-		"Total_CA" : 17,
-		"Total_Turnos" : 37,
-		"Promedio_Bateo" : 432,
-		"Juegos_Asistidos" : 7
+		"Total_BB" : 6,
+		"Total_K" : 3,
+		"Total_RBI" : 30,
+		"Total_CA" : 21,
+		"Total_Turnos" : 42,
+		"Promedio_Bateo" : 429,
+		"Juegos_Asistidos" : 8
 	}
 ]
