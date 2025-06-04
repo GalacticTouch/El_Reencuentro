@@ -10,39 +10,39 @@
 		"Total_K" : 3,
 		"Total_RBI" : 22,
 		"Total_CA" : 27,
-		"Total_Turnos" : 98,
-		"Promedio_Bateo" : 388,
-		"Juegos_Asistidos" : 20
+		"Total_Turnos" : 103,
+		"Promedio_Bateo" : 369,
+		"Juegos_Asistidos" : 21
 	},
 	{
 		"Numero" : 2,
 		"Nombre_Completo" : "LA FEDE CHICHI",
-		"Total_H1" : 6,
+		"Total_H1" : 7,
 		"Total_H2" : 2,
 		"Total_H3" : 1,
 		"Total_HR" : 0,
 		"Total_BB" : 3,
-		"Total_K" : 8,
+		"Total_K" : 9,
 		"Total_RBI" : 4,
 		"Total_CA" : 4,
-		"Total_Turnos" : 49,
-		"Promedio_Bateo" : 184,
-		"Juegos_Asistidos" : 16
+		"Total_Turnos" : 55,
+		"Promedio_Bateo" : 182,
+		"Juegos_Asistidos" : 17
 	},
 	{
 		"Numero" : 3,
 		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
-		"Total_H1" : 24,
+		"Total_H1" : 25,
 		"Total_H2" : 11,
 		"Total_H3" : 4,
 		"Total_HR" : 0,
 		"Total_BB" : 4,
 		"Total_K" : 3,
 		"Total_RBI" : 10,
-		"Total_CA" : 18,
-		"Total_Turnos" : 73,
-		"Promedio_Bateo" : 534,
-		"Juegos_Asistidos" : 15
+		"Total_CA" : 19,
+		"Total_Turnos" : 76,
+		"Promedio_Bateo" : 526,
+		"Juegos_Asistidos" : 16
 	},
 	{
 		"Numero" : 4,
@@ -102,7 +102,7 @@
 		"Total_CA" : 11,
 		"Total_Turnos" : 46,
 		"Promedio_Bateo" : 435,
-		"Juegos_Asistidos" : 20
+		"Juegos_Asistidos" : 21
 	},
 	{
 		"Numero" : 12,
@@ -192,7 +192,7 @@
 		"Total_CA" : 23,
 		"Total_Turnos" : 76,
 		"Promedio_Bateo" : 461,
-		"Juegos_Asistidos" : 20
+		"Juegos_Asistidos" : 21
 	},
 	{
 		"Numero" : 26,
@@ -243,16 +243,16 @@
 		"Numero" : 30,
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
 		"Total_H1" : 5,
-		"Total_H2" : 6,
+		"Total_H2" : 7,
 		"Total_H3" : 1,
 		"Total_HR" : 5,
 		"Total_BB" : 14,
 		"Total_K" : 6,
 		"Total_RBI" : 12,
-		"Total_CA" : 16,
-		"Total_Turnos" : 46,
-		"Promedio_Bateo" : 370,
-		"Juegos_Asistidos" : 13
+		"Total_CA" : 17,
+		"Total_Turnos" : 52,
+		"Promedio_Bateo" : 346,
+		"Juegos_Asistidos" : 14
 	},
 	{
 		"Numero" : 31,
@@ -295,9 +295,9 @@
 		"Total_K" : 1,
 		"Total_RBI" : 12,
 		"Total_CA" : 13,
-		"Total_Turnos" : 53,
-		"Promedio_Bateo" : 434,
-		"Juegos_Asistidos" : 14
+		"Total_Turnos" : 55,
+		"Promedio_Bateo" : 418,
+		"Juegos_Asistidos" : 15
 	},
 	{
 		"Numero" : 46,
@@ -317,16 +317,16 @@
 	{
 		"Numero" : 47,
 		"Nombre_Completo" : "MARCELINO RAMIREZ",
-		"Total_H1" : 5,
+		"Total_H1" : 6,
 		"Total_H2" : 6,
-		"Total_H3" : 4,
+		"Total_H3" : 6,
 		"Total_HR" : 5,
 		"Total_BB" : 6,
 		"Total_K" : 3,
-		"Total_RBI" : 32,
+		"Total_RBI" : 33,
 		"Total_CA" : 22,
-		"Total_Turnos" : 49,
-		"Promedio_Bateo" : 408,
-		"Juegos_Asistidos" : 9
+		"Total_Turnos" : 55,
+		"Promedio_Bateo" : 418,
+		"Juegos_Asistidos" : 10
 	}
 ]
