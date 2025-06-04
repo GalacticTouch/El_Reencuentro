@@ -2,17 +2,17 @@
 	{
 		"Numero" : 1,
 		"Nombre" : "LUIS MANUEL MAÑON",
-		"Puntos" : 217
+		"Puntos" : 233
 	},
 	{
 		"Numero" : 2,
 		"Nombre" : "YERIFEN JEREZ",
-		"Puntos" : 181
+		"Puntos" : 198
 	},
 	{
 		"Numero" : 3,
 		"Nombre" : "FRISSO WILSON",
-		"Puntos" : 138
+		"Puntos" : 154
 	},
 	{
 		"Numero" : 4,
@@ -21,33 +21,33 @@
 	},
 	{
 		"Numero" : 5,
-		"Nombre" : "MARCELINO RAMIREZ",
-		"Puntos" : 108
+		"Nombre" : "ESMERLIN AQUINO",
+		"Puntos" : 121
 	},
 	{
 		"Numero" : 6,
-		"Nombre" : "ESMERLIN AQUINO",
-		"Puntos" : 102
+		"Nombre" : "MARCELINO RAMIREZ",
+		"Puntos" : 114
 	},
 	{
 		"Numero" : 7,
 		"Nombre" : "JOSELUIS HENRIQUEZ",
-		"Puntos" : 73
+		"Puntos" : 71
 	},
 	{
 		"Numero" : 8,
+		"Nombre" : "LUIS FELIPE HEREDIA",
+		"Puntos" : 66
+	},
+	{
+		"Numero" : 9,
 		"Nombre" : "ERIC BENCOSME",
 		"Puntos" : 54
 	},
 	{
-		"Numero" : 9,
+		"Numero" : 10,
 		"Nombre" : "CHULO PUJOLS",
 		"Puntos" : 52
-	},
-	{
-		"Numero" : 10,
-		"Nombre" : "LUIS FELIPE HEREDIA",
-		"Puntos" : 51
 	},
 	{
 		"Numero" : 11,
@@ -57,7 +57,7 @@
 	{
 		"Numero" : 12,
 		"Nombre" : "DARWIN SANCHEZ",
-		"Puntos" : 38
+		"Puntos" : 36
 	},
 	{
 		"Numero" : 13,
@@ -66,22 +66,22 @@
 	},
 	{
 		"Numero" : 14,
+		"Nombre" : "ANGEL MOREL",
+		"Puntos" : 25
+	},
+	{
+		"Numero" : 15,
 		"Nombre" : "COCHI VASQUEZ",
 		"Puntos" : 23
 	},
 	{
-		"Numero" : 15,
-		"Nombre" : "NAO FIGUEROA",
-		"Puntos" : 18
-	},
-	{
 		"Numero" : 16,
-		"Nombre" : "LA FEDE CHICHI",
-		"Puntos" : 2
+		"Nombre" : "NAO FIGUEROA",
+		"Puntos" : 22
 	},
 	{
 		"Numero" : 17,
-		"Nombre" : "ANGEL MOREL",
+		"Nombre" : "LA FEDE CHICHI",
 		"Puntos" : 2
 	},
 	{
@@ -92,21 +92,21 @@
 	{
 		"Numero" : 19,
 		"Nombre" : "JUNIOR BOBOLO",
-		"Puntos" : -10
+		"Puntos" : -4
 	},
 	{
 		"Numero" : 20,
 		"Nombre" : "JEAN CARLOS RAMOS",
-		"Puntos" : -15
+		"Puntos" : -17
 	},
 	{
 		"Numero" : 21,
 		"Nombre" : "ALAMO CABRERA",
-		"Puntos" : -39
+		"Puntos" : -41
 	},
 	{
 		"Numero" : 22,
 		"Nombre" : "ANEURIS SIMBA",
-		"Puntos" : -44
+		"Puntos" : -46
 	}
 ]
