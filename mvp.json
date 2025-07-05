@@ -2,27 +2,27 @@
 	{
 		"Numero" : 1,
 		"Nombre" : "LUIS MANUEL MAÑON",
-		"Puntos" : 232
+		"Puntos" : 249
 	},
 	{
 		"Numero" : 2,
 		"Nombre" : "YERIFEN JEREZ",
-		"Puntos" : 211
+		"Puntos" : 221
 	},
 	{
 		"Numero" : 3,
 		"Nombre" : "FRISSO WILSON",
-		"Puntos" : 170
+		"Puntos" : 188
 	},
 	{
 		"Numero" : 4,
 		"Nombre" : "ESMERLIN AQUINO",
-		"Puntos" : 137
+		"Puntos" : 151
 	},
 	{
 		"Numero" : 5,
 		"Nombre" : "MARCELINO RAMIREZ",
-		"Puntos" : 131
+		"Puntos" : 136
 	},
 	{
 		"Numero" : 6,
@@ -32,52 +32,52 @@
 	{
 		"Numero" : 7,
 		"Nombre" : "LUIS FELIPE HEREDIA",
-		"Puntos" : 81
+		"Puntos" : 102
 	},
 	{
 		"Numero" : 8,
 		"Nombre" : "JOSELUIS HENRIQUEZ",
-		"Puntos" : 78
+		"Puntos" : 86
 	},
 	{
 		"Numero" : 9,
+		"Nombre" : "ABRAHAN",
+		"Puntos" : 66
+	},
+	{
+		"Numero" : 10,
 		"Nombre" : "CHULO PUJOLS",
 		"Puntos" : 52
 	},
 	{
-		"Numero" : 10,
-		"Nombre" : "ERIC BENCOSME",
-		"Puntos" : 50
-	},
-	{
 		"Numero" : 11,
-		"Nombre" : "ABRAHAN",
-		"Puntos" : 48
+		"Nombre" : "ERIC BENCOSME",
+		"Puntos" : 49
 	},
 	{
 		"Numero" : 12,
-		"Nombre" : "DARWIN SANCHEZ",
-		"Puntos" : 32
+		"Nombre" : "MODESTO DE LA ROSA",
+		"Puntos" : 30
 	},
 	{
 		"Numero" : 13,
-		"Nombre" : "MODESTO DE LA ROSA",
-		"Puntos" : 25
+		"Nombre" : "DARWIN SANCHEZ",
+		"Puntos" : 28
 	},
 	{
 		"Numero" : 14,
 		"Nombre" : "COCHI VASQUEZ",
-		"Puntos" : 21
+		"Puntos" : 27
 	},
 	{
 		"Numero" : 15,
 		"Nombre" : "ANGEL MOREL",
-		"Puntos" : 21
+		"Puntos" : 17
 	},
 	{
 		"Numero" : 16,
 		"Nombre" : "NAO FIGUEROA",
-		"Puntos" : 18
+		"Puntos" : 14
 	},
 	{
 		"Numero" : 17,
@@ -87,26 +87,26 @@
 	{
 		"Numero" : 18,
 		"Nombre" : "MIGUEL FIGUEROA",
-		"Puntos" : -5
+		"Puntos" : -9
 	},
 	{
 		"Numero" : 19,
 		"Nombre" : "JUNIOR BOBOLO",
-		"Puntos" : -6
+		"Puntos" : -10
 	},
 	{
 		"Numero" : 20,
 		"Nombre" : "JEAN CARLOS RAMOS",
-		"Puntos" : -21
+		"Puntos" : -25
 	},
 	{
 		"Numero" : 21,
 		"Nombre" : "ALAMO CABRERA",
-		"Puntos" : -45
+		"Puntos" : -49
 	},
 	{
 		"Numero" : 22,
 		"Nombre" : "ANEURIS SIMBA",
-		"Puntos" : -50
+		"Puntos" : -54
 	}
 ]

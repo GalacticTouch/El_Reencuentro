@@ -1,18 +1,18 @@
 [
 	{
-		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
-		"Turnos" : "78-42",
-		"Promedio_Bateo" : 538
-	},
-	{
 		"Nombre_Completo" : "DARWIN SANCHEZ",
 		"Turnos" : "43-23",
 		"Promedio_Bateo" : 535
 	},
 	{
+		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
+		"Turnos" : "87-45",
+		"Promedio_Bateo" : 517
+	},
+	{
 		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Turnos" : "112-53",
-		"Promedio_Bateo" : 473
+		"Turnos" : "123-58",
+		"Promedio_Bateo" : 472
 	},
 	{
 		"Nombre_Completo" : "ÁNGEL GRULLON",
@@ -26,8 +26,13 @@
 	},
 	{
 		"Nombre_Completo" : "LUIS MANUEL MAÑON",
-		"Turnos" : "102-45",
-		"Promedio_Bateo" : 441
+		"Turnos" : "110-49",
+		"Promedio_Bateo" : 445
+	},
+	{
+		"Nombre_Completo" : "MARCELINO RAMIREZ",
+		"Turnos" : "61-27",
+		"Promedio_Bateo" : 443
 	},
 	{
 		"Nombre_Completo" : "CHULO PUJOLS",
@@ -35,44 +40,39 @@
 		"Promedio_Bateo" : 435
 	},
 	{
+		"Nombre_Completo" : "ABRAHAN",
+		"Turnos" : "67-29",
+		"Promedio_Bateo" : 433
+	},
+	{
 		"Nombre_Completo" : "MIGUEL FIGUEROA",
 		"Turnos" : "28-12",
 		"Promedio_Bateo" : 429
 	},
 	{
-		"Nombre_Completo" : "MARCELINO RAMIREZ",
-		"Turnos" : "57-24",
-		"Promedio_Bateo" : 421
-	},
-	{
 		"Nombre_Completo" : "ERIC BENCOSME",
-		"Turnos" : "60-25",
-		"Promedio_Bateo" : 417
-	},
-	{
-		"Nombre_Completo" : "FRISSO WILSON",
-		"Turnos" : "93-37",
-		"Promedio_Bateo" : 398
-	},
-	{
-		"Nombre_Completo" : "ABRAHAN",
-		"Turnos" : "58-23",
-		"Promedio_Bateo" : 397
-	},
-	{
-		"Nombre_Completo" : "MODESTO DE LA ROSA",
-		"Turnos" : "36-14",
-		"Promedio_Bateo" : 389
-	},
-	{
-		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Turnos" : "110-41",
-		"Promedio_Bateo" : 373
+		"Turnos" : "61-25",
+		"Promedio_Bateo" : 410
 	},
 	{
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
-		"Turnos" : "57-21",
-		"Promedio_Bateo" : 368
+		"Turnos" : "68-27",
+		"Promedio_Bateo" : 397
+	},
+	{
+		"Nombre_Completo" : "FRISSO WILSON",
+		"Turnos" : "99-39",
+		"Promedio_Bateo" : 394
+	},
+	{
+		"Nombre_Completo" : "ESMERLIN AQUINO",
+		"Turnos" : "119-45",
+		"Promedio_Bateo" : 378
+	},
+	{
+		"Nombre_Completo" : "MODESTO DE LA ROSA",
+		"Turnos" : "43-15",
+		"Promedio_Bateo" : 349
 	},
 	{
 		"Nombre_Completo" : "JUNIOR BOBOLO",
@@ -91,13 +91,13 @@
 	},
 	{
 		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Turnos" : "48-14",
-		"Promedio_Bateo" : 292
+		"Turnos" : "51-15",
+		"Promedio_Bateo" : 294
 	},
 	{
 		"Nombre_Completo" : "LA FEDE CHICHI",
-		"Turnos" : "55-10",
-		"Promedio_Bateo" : 182
+		"Turnos" : "59-11",
+		"Promedio_Bateo" : 186
 	},
 	{
 		"Nombre_Completo" : "ALAMO CABRERA",
