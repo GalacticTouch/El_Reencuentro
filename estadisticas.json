@@ -2,17 +2,17 @@
 	{
 		"Numero" : 1,
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Total_H1" : 20,
+		"Total_H1" : 23,
 		"Total_H2" : 17,
 		"Total_H3" : 2,
 		"Total_HR" : 6,
 		"Total_BB" : 5,
 		"Total_K" : 5,
-		"Total_RBI" : 28,
-		"Total_CA" : 33,
-		"Total_Turnos" : 119,
-		"Promedio_Bateo" : 378,
-		"Juegos_Asistidos" : 24
+		"Total_RBI" : 29,
+		"Total_CA" : 35,
+		"Total_Turnos" : 125,
+		"Promedio_Bateo" : 384,
+		"Juegos_Asistidos" : 25
 	},
 	{
 		"Numero" : 2,
@@ -22,27 +22,27 @@
 		"Total_H3" : 1,
 		"Total_HR" : 0,
 		"Total_BB" : 3,
-		"Total_K" : 9,
+		"Total_K" : 11,
 		"Total_RBI" : 5,
 		"Total_CA" : 4,
-		"Total_Turnos" : 59,
-		"Promedio_Bateo" : 186,
-		"Juegos_Asistidos" : 19
+		"Total_Turnos" : 62,
+		"Promedio_Bateo" : 177,
+		"Juegos_Asistidos" : 20
 	},
 	{
 		"Numero" : 3,
 		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
-		"Total_H1" : 27,
+		"Total_H1" : 28,
 		"Total_H2" : 13,
-		"Total_H3" : 5,
+		"Total_H3" : 6,
 		"Total_HR" : 0,
 		"Total_BB" : 4,
 		"Total_K" : 4,
-		"Total_RBI" : 13,
+		"Total_RBI" : 16,
 		"Total_CA" : 21,
-		"Total_Turnos" : 87,
-		"Promedio_Bateo" : 517,
-		"Juegos_Asistidos" : 19
+		"Total_Turnos" : 92,
+		"Promedio_Bateo" : 511,
+		"Juegos_Asistidos" : 20
 	},
 	{
 		"Numero" : 4,
@@ -55,9 +55,9 @@
 		"Total_K" : 4,
 		"Total_RBI" : 4,
 		"Total_CA" : 9,
-		"Total_Turnos" : 51,
-		"Promedio_Bateo" : 294,
-		"Juegos_Asistidos" : 25
+		"Total_Turnos" : 52,
+		"Promedio_Bateo" : 288,
+		"Juegos_Asistidos" : 26
 	},
 	{
 		"Numero" : 5,
@@ -85,39 +85,39 @@
 		"Total_K" : 1,
 		"Total_RBI" : 6,
 		"Total_CA" : 9,
-		"Total_Turnos" : 48,
-		"Promedio_Bateo" : 458,
-		"Juegos_Asistidos" : 10
+		"Total_Turnos" : 52,
+		"Promedio_Bateo" : 423,
+		"Juegos_Asistidos" : 11
 	},
 	{
 		"Numero" : 7,
 		"Nombre_Completo" : "CHULO PUJOLS",
 		"Total_H1" : 7,
-		"Total_H2" : 12,
+		"Total_H2" : 13,
 		"Total_H3" : 1,
 		"Total_HR" : 0,
-		"Total_BB" : 5,
+		"Total_BB" : 6,
 		"Total_K" : 2,
 		"Total_RBI" : 10,
-		"Total_CA" : 11,
-		"Total_Turnos" : 46,
-		"Promedio_Bateo" : 435,
-		"Juegos_Asistidos" : 24
+		"Total_CA" : 13,
+		"Total_Turnos" : 49,
+		"Promedio_Bateo" : 429,
+		"Juegos_Asistidos" : 25
 	},
 	{
 		"Numero" : 12,
 		"Nombre_Completo" : "MIGUEL FIGUEROA",
-		"Total_H1" : 9,
-		"Total_H2" : 3,
+		"Total_H1" : 10,
+		"Total_H2" : 4,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
 		"Total_BB" : 2,
 		"Total_K" : 3,
 		"Total_RBI" : 7,
-		"Total_CA" : 2,
-		"Total_Turnos" : 28,
-		"Promedio_Bateo" : 429,
-		"Juegos_Asistidos" : 11
+		"Total_CA" : 4,
+		"Total_Turnos" : 31,
+		"Promedio_Bateo" : 452,
+		"Juegos_Asistidos" : 12
 	},
 	{
 		"Numero" : 13,
@@ -192,7 +192,7 @@
 		"Total_CA" : 23,
 		"Total_Turnos" : 76,
 		"Promedio_Bateo" : 461,
-		"Juegos_Asistidos" : 24
+		"Juegos_Asistidos" : 25
 	},
 	{
 		"Numero" : 26,
@@ -242,17 +242,17 @@
 	{
 		"Numero" : 30,
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
-		"Total_H1" : 10,
+		"Total_H1" : 12,
 		"Total_H2" : 9,
 		"Total_H3" : 1,
-		"Total_HR" : 7,
-		"Total_BB" : 14,
+		"Total_HR" : 8,
+		"Total_BB" : 15,
 		"Total_K" : 7,
-		"Total_RBI" : 21,
-		"Total_CA" : 21,
-		"Total_Turnos" : 68,
-		"Promedio_Bateo" : 397,
-		"Juegos_Asistidos" : 17
+		"Total_RBI" : 24,
+		"Total_CA" : 24,
+		"Total_Turnos" : 72,
+		"Promedio_Bateo" : 417,
+		"Juegos_Asistidos" : 18
 	},
 	{
 		"Numero" : 31,
@@ -260,14 +260,14 @@
 		"Total_H1" : 15,
 		"Total_H2" : 13,
 		"Total_H3" : 3,
-		"Total_HR" : 18,
-		"Total_BB" : 15,
+		"Total_HR" : 19,
+		"Total_BB" : 17,
 		"Total_K" : 3,
-		"Total_RBI" : 39,
-		"Total_CA" : 44,
-		"Total_Turnos" : 110,
-		"Promedio_Bateo" : 445,
-		"Juegos_Asistidos" : 25
+		"Total_RBI" : 41,
+		"Total_CA" : 47,
+		"Total_Turnos" : 113,
+		"Promedio_Bateo" : 442,
+		"Juegos_Asistidos" : 26
 	},
 	{
 		"Numero" : 44,
@@ -290,14 +290,14 @@
 		"Total_H1" : 22,
 		"Total_H2" : 3,
 		"Total_H3" : 2,
-		"Total_HR" : 2,
-		"Total_BB" : 8,
+		"Total_HR" : 3,
+		"Total_BB" : 10,
 		"Total_K" : 1,
-		"Total_RBI" : 14,
-		"Total_CA" : 17,
-		"Total_Turnos" : 67,
-		"Promedio_Bateo" : 433,
-		"Juegos_Asistidos" : 18
+		"Total_RBI" : 15,
+		"Total_CA" : 19,
+		"Total_Turnos" : 71,
+		"Promedio_Bateo" : 423,
+		"Juegos_Asistidos" : 19
 	},
 	{
 		"Numero" : 46,
@@ -327,6 +327,6 @@
 		"Total_CA" : 24,
 		"Total_Turnos" : 61,
 		"Promedio_Bateo" : 443,
-		"Juegos_Asistidos" : 13
+		"Juegos_Asistidos" : 14
 	}
 ]

@@ -6,8 +6,8 @@
 	},
 	{
 		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
-		"Turnos" : "87-45",
-		"Promedio_Bateo" : 517
+		"Turnos" : "92-47",
+		"Promedio_Bateo" : 511
 	},
 	{
 		"Nombre_Completo" : "YERIFEN JEREZ",
@@ -20,14 +20,9 @@
 		"Promedio_Bateo" : 461
 	},
 	{
-		"Nombre_Completo" : "NAO FIGUEROA",
-		"Turnos" : "48-22",
-		"Promedio_Bateo" : 458
-	},
-	{
-		"Nombre_Completo" : "LUIS MANUEL MAÑON",
-		"Turnos" : "110-49",
-		"Promedio_Bateo" : 445
+		"Nombre_Completo" : "MIGUEL FIGUEROA",
+		"Turnos" : "31-14",
+		"Promedio_Bateo" : 452
 	},
 	{
 		"Nombre_Completo" : "MARCELINO RAMIREZ",
@@ -35,29 +30,34 @@
 		"Promedio_Bateo" : 443
 	},
 	{
+		"Nombre_Completo" : "LUIS MANUEL MAÑON",
+		"Turnos" : "113-50",
+		"Promedio_Bateo" : 442
+	},
+	{
 		"Nombre_Completo" : "CHULO PUJOLS",
-		"Turnos" : "46-20",
-		"Promedio_Bateo" : 435
+		"Turnos" : "49-21",
+		"Promedio_Bateo" : 429
+	},
+	{
+		"Nombre_Completo" : "NAO FIGUEROA",
+		"Turnos" : "52-22",
+		"Promedio_Bateo" : 423
 	},
 	{
 		"Nombre_Completo" : "ABRAHAN",
-		"Turnos" : "67-29",
-		"Promedio_Bateo" : 433
+		"Turnos" : "71-30",
+		"Promedio_Bateo" : 423
 	},
 	{
-		"Nombre_Completo" : "MIGUEL FIGUEROA",
-		"Turnos" : "28-12",
-		"Promedio_Bateo" : 429
+		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
+		"Turnos" : "72-30",
+		"Promedio_Bateo" : 417
 	},
 	{
 		"Nombre_Completo" : "ERIC BENCOSME",
 		"Turnos" : "61-25",
 		"Promedio_Bateo" : 410
-	},
-	{
-		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
-		"Turnos" : "68-27",
-		"Promedio_Bateo" : 397
 	},
 	{
 		"Nombre_Completo" : "FRISSO WILSON",
@@ -66,8 +66,8 @@
 	},
 	{
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Turnos" : "119-45",
-		"Promedio_Bateo" : 378
+		"Turnos" : "125-48",
+		"Promedio_Bateo" : 384
 	},
 	{
 		"Nombre_Completo" : "MODESTO DE LA ROSA",
@@ -91,13 +91,13 @@
 	},
 	{
 		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Turnos" : "51-15",
-		"Promedio_Bateo" : 294
+		"Turnos" : "52-15",
+		"Promedio_Bateo" : 288
 	},
 	{
 		"Nombre_Completo" : "LA FEDE CHICHI",
-		"Turnos" : "59-11",
-		"Promedio_Bateo" : 186
+		"Turnos" : "62-11",
+		"Promedio_Bateo" : 177
 	},
 	{
 		"Nombre_Completo" : "ALAMO CABRERA",
