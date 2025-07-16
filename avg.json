@@ -1,18 +1,18 @@
 [
 	{
-		"Nombre_Completo" : "DARWIN SANCHEZ",
-		"Turnos" : "43-23",
-		"Promedio_Bateo" : 535
-	},
-	{
 		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
 		"Turnos" : "92-47",
 		"Promedio_Bateo" : 511
 	},
 	{
+		"Nombre_Completo" : "DARWIN SANCHEZ",
+		"Turnos" : "45-23",
+		"Promedio_Bateo" : 511
+	},
+	{
 		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Turnos" : "123-58",
-		"Promedio_Bateo" : 472
+		"Turnos" : "128-62",
+		"Promedio_Bateo" : 484
 	},
 	{
 		"Nombre_Completo" : "ÁNGEL GRULLON",
@@ -30,19 +30,14 @@
 		"Promedio_Bateo" : 443
 	},
 	{
-		"Nombre_Completo" : "LUIS MANUEL MAÑON",
-		"Turnos" : "113-50",
+		"Nombre_Completo" : "CHULO PUJOLS",
+		"Turnos" : "52-23",
 		"Promedio_Bateo" : 442
 	},
 	{
-		"Nombre_Completo" : "CHULO PUJOLS",
-		"Turnos" : "49-21",
-		"Promedio_Bateo" : 429
-	},
-	{
-		"Nombre_Completo" : "NAO FIGUEROA",
-		"Turnos" : "52-22",
-		"Promedio_Bateo" : 423
+		"Nombre_Completo" : "LUIS MANUEL MAÑON",
+		"Turnos" : "117-51",
+		"Promedio_Bateo" : 436
 	},
 	{
 		"Nombre_Completo" : "ABRAHAN",
@@ -55,24 +50,29 @@
 		"Promedio_Bateo" : 417
 	},
 	{
+		"Nombre_Completo" : "NAO FIGUEROA",
+		"Turnos" : "57-23",
+		"Promedio_Bateo" : 404
+	},
+	{
 		"Nombre_Completo" : "ERIC BENCOSME",
-		"Turnos" : "61-25",
-		"Promedio_Bateo" : 410
+		"Turnos" : "62-25",
+		"Promedio_Bateo" : 403
 	},
 	{
 		"Nombre_Completo" : "FRISSO WILSON",
-		"Turnos" : "99-39",
-		"Promedio_Bateo" : 394
+		"Turnos" : "101-39",
+		"Promedio_Bateo" : 386
 	},
 	{
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Turnos" : "125-48",
-		"Promedio_Bateo" : 384
+		"Turnos" : "129-49",
+		"Promedio_Bateo" : 380
 	},
 	{
 		"Nombre_Completo" : "MODESTO DE LA ROSA",
-		"Turnos" : "43-15",
-		"Promedio_Bateo" : 349
+		"Turnos" : "46-16",
+		"Promedio_Bateo" : 348
 	},
 	{
 		"Nombre_Completo" : "JUNIOR BOBOLO",
@@ -85,14 +85,14 @@
 		"Promedio_Bateo" : 333
 	},
 	{
+		"Nombre_Completo" : "COCHI VASQUEZ",
+		"Turnos" : "56-17",
+		"Promedio_Bateo" : 304
+	},
+	{
 		"Nombre_Completo" : "JEAN CARLOS RAMOS",
 		"Turnos" : "20-6",
 		"Promedio_Bateo" : 300
-	},
-	{
-		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Turnos" : "52-15",
-		"Promedio_Bateo" : 288
 	},
 	{
 		"Nombre_Completo" : "LA FEDE CHICHI",

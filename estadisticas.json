@@ -3,16 +3,16 @@
 		"Numero" : 1,
 		"Nombre_Completo" : "ESMERLIN AQUINO",
 		"Total_H1" : 23,
-		"Total_H2" : 17,
+		"Total_H2" : 18,
 		"Total_H3" : 2,
 		"Total_HR" : 6,
-		"Total_BB" : 5,
+		"Total_BB" : 6,
 		"Total_K" : 5,
 		"Total_RBI" : 29,
-		"Total_CA" : 35,
-		"Total_Turnos" : 125,
-		"Promedio_Bateo" : 384,
-		"Juegos_Asistidos" : 25
+		"Total_CA" : 36,
+		"Total_Turnos" : 129,
+		"Promedio_Bateo" : 380,
+		"Juegos_Asistidos" : 26
 	},
 	{
 		"Numero" : 2,
@@ -47,17 +47,17 @@
 	{
 		"Numero" : 4,
 		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Total_H1" : 13,
+		"Total_H1" : 15,
 		"Total_H2" : 2,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
 		"Total_BB" : 5,
 		"Total_K" : 4,
 		"Total_RBI" : 4,
-		"Total_CA" : 9,
-		"Total_Turnos" : 52,
-		"Promedio_Bateo" : 288,
-		"Juegos_Asistidos" : 26
+		"Total_CA" : 10,
+		"Total_Turnos" : 56,
+		"Promedio_Bateo" : 304,
+		"Juegos_Asistidos" : 27
 	},
 	{
 		"Numero" : 5,
@@ -66,13 +66,13 @@
 		"Total_H2" : 10,
 		"Total_H3" : 4,
 		"Total_HR" : 11,
-		"Total_BB" : 17,
-		"Total_K" : 4,
+		"Total_BB" : 19,
+		"Total_K" : 5,
 		"Total_RBI" : 37,
-		"Total_CA" : 30,
-		"Total_Turnos" : 99,
-		"Promedio_Bateo" : 394,
-		"Juegos_Asistidos" : 25
+		"Total_CA" : 31,
+		"Total_Turnos" : 101,
+		"Promedio_Bateo" : 386,
+		"Juegos_Asistidos" : 26
 	},
 	{
 		"Numero" : 6,
@@ -80,29 +80,29 @@
 		"Total_H1" : 14,
 		"Total_H2" : 6,
 		"Total_H3" : 2,
-		"Total_HR" : 0,
+		"Total_HR" : 1,
 		"Total_BB" : 2,
-		"Total_K" : 1,
-		"Total_RBI" : 6,
-		"Total_CA" : 9,
-		"Total_Turnos" : 52,
-		"Promedio_Bateo" : 423,
-		"Juegos_Asistidos" : 11
+		"Total_K" : 4,
+		"Total_RBI" : 7,
+		"Total_CA" : 10,
+		"Total_Turnos" : 57,
+		"Promedio_Bateo" : 404,
+		"Juegos_Asistidos" : 12
 	},
 	{
 		"Numero" : 7,
 		"Nombre_Completo" : "CHULO PUJOLS",
-		"Total_H1" : 7,
+		"Total_H1" : 9,
 		"Total_H2" : 13,
 		"Total_H3" : 1,
 		"Total_HR" : 0,
 		"Total_BB" : 6,
 		"Total_K" : 2,
-		"Total_RBI" : 10,
+		"Total_RBI" : 11,
 		"Total_CA" : 13,
-		"Total_Turnos" : 49,
-		"Promedio_Bateo" : 429,
-		"Juegos_Asistidos" : 25
+		"Total_Turnos" : 52,
+		"Promedio_Bateo" : 442,
+		"Juegos_Asistidos" : 26
 	},
 	{
 		"Numero" : 12,
@@ -122,32 +122,32 @@
 	{
 		"Numero" : 13,
 		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Total_H1" : 25,
+		"Total_H1" : 27,
 		"Total_H2" : 18,
 		"Total_H3" : 5,
-		"Total_HR" : 10,
+		"Total_HR" : 12,
 		"Total_BB" : 8,
 		"Total_K" : 4,
-		"Total_RBI" : 42,
-		"Total_CA" : 45,
-		"Total_Turnos" : 123,
-		"Promedio_Bateo" : 472,
-		"Juegos_Asistidos" : 24
+		"Total_RBI" : 46,
+		"Total_CA" : 48,
+		"Total_Turnos" : 128,
+		"Promedio_Bateo" : 484,
+		"Juegos_Asistidos" : 25
 	},
 	{
 		"Numero" : 15,
 		"Nombre_Completo" : "MODESTO DE LA ROSA",
-		"Total_H1" : 10,
+		"Total_H1" : 11,
 		"Total_H2" : 2,
 		"Total_H3" : 1,
 		"Total_HR" : 2,
-		"Total_BB" : 4,
+		"Total_BB" : 5,
 		"Total_K" : 2,
 		"Total_RBI" : 11,
 		"Total_CA" : 12,
-		"Total_Turnos" : 43,
-		"Promedio_Bateo" : 349,
-		"Juegos_Asistidos" : 15
+		"Total_Turnos" : 46,
+		"Promedio_Bateo" : 348,
+		"Juegos_Asistidos" : 16
 	},
 	{
 		"Numero" : 18,
@@ -171,13 +171,13 @@
 		"Total_H2" : 8,
 		"Total_H3" : 0,
 		"Total_HR" : 1,
-		"Total_BB" : 13,
+		"Total_BB" : 14,
 		"Total_K" : 8,
 		"Total_RBI" : 9,
 		"Total_CA" : 13,
-		"Total_Turnos" : 61,
-		"Promedio_Bateo" : 410,
-		"Juegos_Asistidos" : 19
+		"Total_Turnos" : 62,
+		"Promedio_Bateo" : 403,
+		"Juegos_Asistidos" : 20
 	},
 	{
 		"Numero" : 25,
@@ -192,7 +192,7 @@
 		"Total_CA" : 23,
 		"Total_Turnos" : 76,
 		"Promedio_Bateo" : 461,
-		"Juegos_Asistidos" : 25
+		"Juegos_Asistidos" : 26
 	},
 	{
 		"Numero" : 26,
@@ -260,14 +260,14 @@
 		"Total_H1" : 15,
 		"Total_H2" : 13,
 		"Total_H3" : 3,
-		"Total_HR" : 19,
+		"Total_HR" : 20,
 		"Total_BB" : 17,
 		"Total_K" : 3,
-		"Total_RBI" : 41,
-		"Total_CA" : 47,
-		"Total_Turnos" : 113,
-		"Promedio_Bateo" : 442,
-		"Juegos_Asistidos" : 26
+		"Total_RBI" : 43,
+		"Total_CA" : 48,
+		"Total_Turnos" : 117,
+		"Promedio_Bateo" : 436,
+		"Juegos_Asistidos" : 27
 	},
 	{
 		"Numero" : 44,
@@ -310,9 +310,9 @@
 		"Total_K" : 2,
 		"Total_RBI" : 7,
 		"Total_CA" : 10,
-		"Total_Turnos" : 43,
-		"Promedio_Bateo" : 535,
-		"Juegos_Asistidos" : 10
+		"Total_Turnos" : 45,
+		"Promedio_Bateo" : 511,
+		"Juegos_Asistidos" : 11
 	},
 	{
 		"Numero" : 47,
@@ -327,6 +327,6 @@
 		"Total_CA" : 24,
 		"Total_Turnos" : 61,
 		"Promedio_Bateo" : 443,
-		"Juegos_Asistidos" : 14
+		"Juegos_Asistidos" : 15
 	}
 ]
