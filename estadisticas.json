@@ -2,17 +2,17 @@
 	{
 		"Numero" : 1,
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Total_H1" : 23,
+		"Total_H1" : 24,
 		"Total_H2" : 18,
 		"Total_H3" : 2,
-		"Total_HR" : 6,
+		"Total_HR" : 8,
 		"Total_BB" : 6,
 		"Total_K" : 5,
-		"Total_RBI" : 29,
-		"Total_CA" : 36,
-		"Total_Turnos" : 129,
-		"Promedio_Bateo" : 380,
-		"Juegos_Asistidos" : 26
+		"Total_RBI" : 32,
+		"Total_CA" : 38,
+		"Total_Turnos" : 135,
+		"Promedio_Bateo" : 385,
+		"Juegos_Asistidos" : 27
 	},
 	{
 		"Numero" : 2,
@@ -47,47 +47,47 @@
 	{
 		"Numero" : 4,
 		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Total_H1" : 15,
+		"Total_H1" : 17,
 		"Total_H2" : 2,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
 		"Total_BB" : 5,
 		"Total_K" : 4,
 		"Total_RBI" : 4,
-		"Total_CA" : 10,
-		"Total_Turnos" : 56,
-		"Promedio_Bateo" : 304,
-		"Juegos_Asistidos" : 27
+		"Total_CA" : 11,
+		"Total_Turnos" : 61,
+		"Promedio_Bateo" : 311,
+		"Juegos_Asistidos" : 28
 	},
 	{
 		"Numero" : 5,
 		"Nombre_Completo" : "FRISSO WILSON",
-		"Total_H1" : 14,
-		"Total_H2" : 10,
+		"Total_H1" : 15,
+		"Total_H2" : 11,
 		"Total_H3" : 4,
 		"Total_HR" : 11,
 		"Total_BB" : 19,
 		"Total_K" : 5,
 		"Total_RBI" : 37,
-		"Total_CA" : 31,
-		"Total_Turnos" : 101,
-		"Promedio_Bateo" : 386,
-		"Juegos_Asistidos" : 26
+		"Total_CA" : 32,
+		"Total_Turnos" : 107,
+		"Promedio_Bateo" : 383,
+		"Juegos_Asistidos" : 27
 	},
 	{
 		"Numero" : 6,
 		"Nombre_Completo" : "NAO FIGUEROA",
-		"Total_H1" : 14,
+		"Total_H1" : 16,
 		"Total_H2" : 6,
 		"Total_H3" : 2,
 		"Total_HR" : 1,
 		"Total_BB" : 2,
 		"Total_K" : 4,
 		"Total_RBI" : 7,
-		"Total_CA" : 10,
-		"Total_Turnos" : 57,
-		"Promedio_Bateo" : 404,
-		"Juegos_Asistidos" : 12
+		"Total_CA" : 11,
+		"Total_Turnos" : 63,
+		"Promedio_Bateo" : 397,
+		"Juegos_Asistidos" : 13
 	},
 	{
 		"Numero" : 7,
@@ -122,17 +122,17 @@
 	{
 		"Numero" : 13,
 		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Total_H1" : 27,
-		"Total_H2" : 18,
+		"Total_H1" : 28,
+		"Total_H2" : 19,
 		"Total_H3" : 5,
 		"Total_HR" : 12,
 		"Total_BB" : 8,
 		"Total_K" : 4,
-		"Total_RBI" : 46,
-		"Total_CA" : 48,
-		"Total_Turnos" : 128,
-		"Promedio_Bateo" : 484,
-		"Juegos_Asistidos" : 25
+		"Total_RBI" : 47,
+		"Total_CA" : 51,
+		"Total_Turnos" : 132,
+		"Promedio_Bateo" : 485,
+		"Juegos_Asistidos" : 26
 	},
 	{
 		"Numero" : 15,
@@ -192,7 +192,7 @@
 		"Total_CA" : 23,
 		"Total_Turnos" : 76,
 		"Promedio_Bateo" : 461,
-		"Juegos_Asistidos" : 26
+		"Juegos_Asistidos" : 27
 	},
 	{
 		"Numero" : 26,
@@ -242,32 +242,32 @@
 	{
 		"Numero" : 30,
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
-		"Total_H1" : 12,
-		"Total_H2" : 9,
+		"Total_H1" : 13,
+		"Total_H2" : 10,
 		"Total_H3" : 1,
-		"Total_HR" : 8,
+		"Total_HR" : 9,
 		"Total_BB" : 15,
-		"Total_K" : 7,
-		"Total_RBI" : 24,
-		"Total_CA" : 24,
-		"Total_Turnos" : 72,
-		"Promedio_Bateo" : 417,
-		"Juegos_Asistidos" : 18
+		"Total_K" : 8,
+		"Total_RBI" : 26,
+		"Total_CA" : 25,
+		"Total_Turnos" : 78,
+		"Promedio_Bateo" : 423,
+		"Juegos_Asistidos" : 19
 	},
 	{
 		"Numero" : 31,
 		"Nombre_Completo" : "LUIS MANUEL MAÑON",
-		"Total_H1" : 15,
+		"Total_H1" : 18,
 		"Total_H2" : 13,
 		"Total_H3" : 3,
-		"Total_HR" : 20,
+		"Total_HR" : 23,
 		"Total_BB" : 17,
 		"Total_K" : 3,
-		"Total_RBI" : 43,
-		"Total_CA" : 48,
-		"Total_Turnos" : 117,
-		"Promedio_Bateo" : 436,
-		"Juegos_Asistidos" : 27
+		"Total_RBI" : 46,
+		"Total_CA" : 53,
+		"Total_Turnos" : 124,
+		"Promedio_Bateo" : 460,
+		"Juegos_Asistidos" : 28
 	},
 	{
 		"Numero" : 44,
@@ -287,17 +287,17 @@
 	{
 		"Numero" : 45,
 		"Nombre_Completo" : "ABRAHAN",
-		"Total_H1" : 22,
+		"Total_H1" : 23,
 		"Total_H2" : 3,
 		"Total_H3" : 2,
-		"Total_HR" : 3,
+		"Total_HR" : 4,
 		"Total_BB" : 10,
 		"Total_K" : 1,
-		"Total_RBI" : 15,
-		"Total_CA" : 19,
-		"Total_Turnos" : 71,
-		"Promedio_Bateo" : 423,
-		"Juegos_Asistidos" : 19
+		"Total_RBI" : 18,
+		"Total_CA" : 20,
+		"Total_Turnos" : 79,
+		"Promedio_Bateo" : 405,
+		"Juegos_Asistidos" : 20
 	},
 	{
 		"Numero" : 46,
@@ -327,6 +327,6 @@
 		"Total_CA" : 24,
 		"Total_Turnos" : 61,
 		"Promedio_Bateo" : 443,
-		"Juegos_Asistidos" : 15
+		"Juegos_Asistidos" : 16
 	}
 ]
