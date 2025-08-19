@@ -2,22 +2,22 @@
 	{
 		"Numero" : 1,
 		"Nombre" : "LUIS MANUEL MAÑON",
-		"Puntos" : 300
+		"Puntos" : 317
 	},
 	{
 		"Numero" : 2,
 		"Nombre" : "YERIFEN JEREZ",
-		"Puntos" : 247
+		"Puntos" : 274
 	},
 	{
 		"Numero" : 3,
 		"Nombre" : "FRISSO WILSON",
-		"Puntos" : 192
+		"Puntos" : 196
 	},
 	{
 		"Numero" : 4,
 		"Nombre" : "ESMERLIN AQUINO",
-		"Puntos" : 179
+		"Puntos" : 193
 	},
 	{
 		"Numero" : 5,
@@ -26,87 +26,87 @@
 	},
 	{
 		"Numero" : 6,
-		"Nombre" : "ÁNGEL GRULLON",
-		"Puntos" : 126
+		"Nombre" : "LUIS FELIPE HEREDIA",
+		"Puntos" : 128
 	},
 	{
 		"Numero" : 7,
-		"Nombre" : "LUIS FELIPE HEREDIA",
+		"Nombre" : "ÁNGEL GRULLON",
 		"Puntos" : 126
 	},
 	{
 		"Numero" : 8,
 		"Nombre" : "JOSELUIS HENRIQUEZ",
-		"Puntos" : 89
+		"Puntos" : 99
 	},
 	{
 		"Numero" : 9,
 		"Nombre" : "ABRAHAN",
-		"Puntos" : 86
+		"Puntos" : 93
 	},
 	{
 		"Numero" : 10,
 		"Nombre" : "CHULO PUJOLS",
-		"Puntos" : 58
+		"Puntos" : 67
 	},
 	{
 		"Numero" : 11,
 		"Nombre" : "ERIC BENCOSME",
-		"Puntos" : 46
+		"Puntos" : 50
 	},
 	{
 		"Numero" : 12,
 		"Nombre" : "COCHI VASQUEZ",
-		"Puntos" : 33
+		"Puntos" : 39
 	},
 	{
 		"Numero" : 13,
 		"Nombre" : "MODESTO DE LA ROSA",
-		"Puntos" : 28
+		"Puntos" : 32
 	},
 	{
 		"Numero" : 14,
-		"Nombre" : "DARWIN SANCHEZ",
-		"Puntos" : 24
+		"Nombre" : "NAO FIGUEROA",
+		"Puntos" : 23
 	},
 	{
 		"Numero" : 15,
-		"Nombre" : "NAO FIGUEROA",
+		"Nombre" : "DARWIN SANCHEZ",
 		"Puntos" : 22
 	},
 	{
 		"Numero" : 16,
 		"Nombre" : "ANGEL MOREL",
-		"Puntos" : 11
+		"Puntos" : 9
 	},
 	{
 		"Numero" : 17,
+		"Nombre" : "MIGUEL FIGUEROA",
+		"Puntos" : -2
+	},
+	{
+		"Numero" : 18,
 		"Nombre" : "LA FEDE CHICHI",
 		"Puntos" : -4
 	},
 	{
-		"Numero" : 18,
-		"Nombre" : "MIGUEL FIGUEROA",
-		"Puntos" : -8
-	},
-	{
 		"Numero" : 19,
 		"Nombre" : "JUNIOR BOBOLO",
-		"Puntos" : -16
+		"Puntos" : -18
 	},
 	{
 		"Numero" : 20,
 		"Nombre" : "JEAN CARLOS RAMOS",
-		"Puntos" : -31
+		"Puntos" : -27
 	},
 	{
 		"Numero" : 21,
 		"Nombre" : "ALAMO CABRERA",
-		"Puntos" : -55
+		"Puntos" : -57
 	},
 	{
 		"Numero" : 22,
 		"Nombre" : "ANEURIS SIMBA",
-		"Puntos" : -60
+		"Puntos" : -62
 	}
 ]
