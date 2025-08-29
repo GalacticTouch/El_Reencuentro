@@ -11,18 +11,18 @@
 	},
 	{
 		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Turnos" : "141-68",
-		"Promedio_Bateo" : 482
-	},
-	{
-		"Nombre_Completo" : "LUIS MANUEL MAÑON",
-		"Turnos" : "133-62",
-		"Promedio_Bateo" : 466
+		"Turnos" : "145-70",
+		"Promedio_Bateo" : 483
 	},
 	{
 		"Nombre_Completo" : "ÁNGEL GRULLON",
 		"Turnos" : "76-35",
 		"Promedio_Bateo" : 461
+	},
+	{
+		"Nombre_Completo" : "LUIS MANUEL MAÑON",
+		"Turnos" : "137-63",
+		"Promedio_Bateo" : 460
 	},
 	{
 		"Nombre_Completo" : "CHULO PUJOLS",
@@ -36,8 +36,8 @@
 	},
 	{
 		"Nombre_Completo" : "MIGUEL FIGUEROA",
-		"Turnos" : "35-15",
-		"Promedio_Bateo" : 429
+		"Turnos" : "37-16",
+		"Promedio_Bateo" : 432
 	},
 	{
 		"Nombre_Completo" : "ABRAHAN",
@@ -45,19 +45,19 @@
 		"Promedio_Bateo" : 414
 	},
 	{
+		"Nombre_Completo" : "FRISSO WILSON",
+		"Turnos" : "117-47",
+		"Promedio_Bateo" : 402
+	},
+	{
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
-		"Turnos" : "87-35",
+		"Turnos" : "92-37",
 		"Promedio_Bateo" : 402
 	},
 	{
 		"Nombre_Completo" : "NAO FIGUEROA",
 		"Turnos" : "69-27",
 		"Promedio_Bateo" : 391
-	},
-	{
-		"Nombre_Completo" : "FRISSO WILSON",
-		"Turnos" : "113-43",
-		"Promedio_Bateo" : 381
 	},
 	{
 		"Nombre_Completo" : "ESMERLIN AQUINO",
@@ -71,13 +71,13 @@
 	},
 	{
 		"Nombre_Completo" : "ERIC BENCOSME",
-		"Turnos" : "70-26",
-		"Promedio_Bateo" : 371
+		"Turnos" : "72-26",
+		"Promedio_Bateo" : 361
 	},
 	{
 		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Turnos" : "67-23",
-		"Promedio_Bateo" : 343
+		"Turnos" : "71-25",
+		"Promedio_Bateo" : 352
 	},
 	{
 		"Nombre_Completo" : "JUNIOR BOBOLO",

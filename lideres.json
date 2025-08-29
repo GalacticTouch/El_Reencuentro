@@ -5,53 +5,53 @@
 		"H2" : "YERIFEN JEREZ (20)",
 		"H3" : "JOSELUIS HENRIQUEZ (6)",
 		"H4" : "LUIS MANUEL MAÑON (25)",
-		"BB" : "FRISSO WILSON (20)",
+		"BB" : "FRISSO WILSON (21)",
 		"K" : "LA FEDE CHICHI (11)",
-		"Total_Remolcadas" : "YERIFEN JEREZ (57)",
-		"Total_Anotadas" : "LUIS MANUEL MAÑON (61)"
+		"Total_Remolcadas" : "YERIFEN JEREZ (60)",
+		"Total_Anotadas" : "LUIS MANUEL MAÑON (62)"
 	},
 	{
 		"Posicion" : 2,
 		"H1" : "YERIFEN JEREZ (28)",
 		"H2" : "ESMERLIN AQUINO (19)",
 		"H3" : "MARCELINO RAMIREZ (6)",
-		"H4" : "YERIFEN JEREZ (15)",
+		"H4" : "YERIFEN JEREZ (17)",
 		"BB" : "LUIS MANUEL MAÑON (18)",
-		"K" : "ERIC BENCOSME (9)",
+		"K" : "LUIS FELIPE HEREDIA (10)",
 		"Total_Remolcadas" : "LUIS MANUEL MAÑON (52)",
-		"Total_Anotadas" : "YERIFEN JEREZ (57)"
+		"Total_Anotadas" : "YERIFEN JEREZ (60)"
 	},
 	{
 		"Posicion" : 3,
 		"H1" : "ESMERLIN AQUINO (25)",
-		"H2" : "CHULO PUJOLS (15)",
+		"H2" : "LUIS MANUEL MAÑON (15)",
 		"H3" : "YERIFEN JEREZ (5)",
 		"H4" : "FRISSO WILSON (11)",
-		"BB" : "LUIS FELIPE HEREDIA (17)",
-		"K" : "LUIS FELIPE HEREDIA (9)",
-		"Total_Remolcadas" : "ESMERLIN AQUINO (40)",
+		"BB" : "ERIC BENCOSME (17)",
+		"K" : "ERIC BENCOSME (9)",
+		"Total_Remolcadas" : "FRISSO WILSON (41)",
 		"Total_Anotadas" : "ESMERLIN AQUINO (42)"
 	},
 	{
 		"Posicion" : 4,
 		"H1" : "ABRAHAN (24)",
-		"H2" : "LUIS MANUEL MAÑON (14)",
-		"H3" : "FRISSO WILSON (4)",
-		"H4" : "ESMERLIN AQUINO (9)",
-		"BB" : "ERIC BENCOSME (15)",
+		"H2" : "CHULO PUJOLS (15)",
+		"H3" : "FRISSO WILSON (5)",
+		"H4" : "LUIS FELIPE HEREDIA (10)",
+		"BB" : "LUIS FELIPE HEREDIA (17)",
 		"K" : "NAO FIGUEROA (7)",
-		"Total_Remolcadas" : "FRISSO WILSON (38)",
-		"Total_Anotadas" : "FRISSO WILSON (34)"
+		"Total_Remolcadas" : "ESMERLIN AQUINO (40)",
+		"Total_Anotadas" : "FRISSO WILSON (36)"
 	},
 	{
 		"Posicion" : 5,
-		"H1" : "LUIS MANUEL MAÑON (20)",
+		"H1" : "COCHI VASQUEZ (21)",
 		"H2" : "JOSELUIS HENRIQUEZ (14)",
 		"H3" : "LUIS MANUEL MAÑON (3)",
-		"H4" : "LUIS FELIPE HEREDIA (9)",
-		"BB" : "YERIFEN JEREZ (11)",
-		"K" : "ESMERLIN AQUINO (6)",
+		"H4" : "ESMERLIN AQUINO (9)",
+		"BB" : "YERIFEN JEREZ (12)",
+		"K" : "LUIS MANUEL MAÑON (6)",
 		"Total_Remolcadas" : "MARCELINO RAMIREZ (35)",
-		"Total_Anotadas" : "LUIS FELIPE HEREDIA (29)"
+		"Total_Anotadas" : "LUIS FELIPE HEREDIA (30)"
 	}
 ]

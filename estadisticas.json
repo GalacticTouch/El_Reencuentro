@@ -12,7 +12,7 @@
 		"Total_CA" : 42,
 		"Total_Turnos" : 148,
 		"Promedio_Bateo" : 378,
-		"Juegos_Asistidos" : 30
+		"Juegos_Asistidos" : 31
 	},
 	{
 		"Numero" : 2,
@@ -27,7 +27,7 @@
 		"Total_CA" : 4,
 		"Total_Turnos" : 62,
 		"Promedio_Bateo" : 177,
-		"Juegos_Asistidos" : 23
+		"Juegos_Asistidos" : 24
 	},
 	{
 		"Numero" : 3,
@@ -47,32 +47,32 @@
 	{
 		"Numero" : 4,
 		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Total_H1" : 19,
+		"Total_H1" : 21,
 		"Total_H2" : 4,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
 		"Total_BB" : 6,
-		"Total_K" : 4,
-		"Total_RBI" : 10,
-		"Total_CA" : 13,
-		"Total_Turnos" : 67,
-		"Promedio_Bateo" : 343,
-		"Juegos_Asistidos" : 31
+		"Total_K" : 5,
+		"Total_RBI" : 12,
+		"Total_CA" : 14,
+		"Total_Turnos" : 71,
+		"Promedio_Bateo" : 352,
+		"Juegos_Asistidos" : 32
 	},
 	{
 		"Numero" : 5,
 		"Nombre_Completo" : "FRISSO WILSON",
-		"Total_H1" : 17,
-		"Total_H2" : 11,
-		"Total_H3" : 4,
+		"Total_H1" : 19,
+		"Total_H2" : 12,
+		"Total_H3" : 5,
 		"Total_HR" : 11,
-		"Total_BB" : 20,
+		"Total_BB" : 21,
 		"Total_K" : 5,
-		"Total_RBI" : 38,
-		"Total_CA" : 34,
-		"Total_Turnos" : 113,
-		"Promedio_Bateo" : 381,
-		"Juegos_Asistidos" : 29
+		"Total_RBI" : 41,
+		"Total_CA" : 36,
+		"Total_Turnos" : 117,
+		"Promedio_Bateo" : 402,
+		"Juegos_Asistidos" : 30
 	},
 	{
 		"Numero" : 6,
@@ -107,17 +107,17 @@
 	{
 		"Numero" : 12,
 		"Nombre_Completo" : "MIGUEL FIGUEROA",
-		"Total_H1" : 10,
+		"Total_H1" : 11,
 		"Total_H2" : 5,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
-		"Total_BB" : 2,
+		"Total_BB" : 4,
 		"Total_K" : 5,
 		"Total_RBI" : 9,
-		"Total_CA" : 6,
-		"Total_Turnos" : 35,
-		"Promedio_Bateo" : 429,
-		"Juegos_Asistidos" : 14
+		"Total_CA" : 7,
+		"Total_Turnos" : 37,
+		"Promedio_Bateo" : 432,
+		"Juegos_Asistidos" : 15
 	},
 	{
 		"Numero" : 13,
@@ -125,14 +125,14 @@
 		"Total_H1" : 28,
 		"Total_H2" : 20,
 		"Total_H3" : 5,
-		"Total_HR" : 15,
-		"Total_BB" : 11,
+		"Total_HR" : 17,
+		"Total_BB" : 12,
 		"Total_K" : 4,
-		"Total_RBI" : 57,
-		"Total_CA" : 57,
-		"Total_Turnos" : 141,
-		"Promedio_Bateo" : 482,
-		"Juegos_Asistidos" : 29
+		"Total_RBI" : 60,
+		"Total_CA" : 60,
+		"Total_Turnos" : 145,
+		"Promedio_Bateo" : 483,
+		"Juegos_Asistidos" : 30
 	},
 	{
 		"Numero" : 15,
@@ -171,13 +171,13 @@
 		"Total_H2" : 8,
 		"Total_H3" : 0,
 		"Total_HR" : 1,
-		"Total_BB" : 15,
+		"Total_BB" : 17,
 		"Total_K" : 9,
 		"Total_RBI" : 11,
-		"Total_CA" : 14,
-		"Total_Turnos" : 70,
-		"Promedio_Bateo" : 371,
-		"Juegos_Asistidos" : 22
+		"Total_CA" : 15,
+		"Total_Turnos" : 72,
+		"Promedio_Bateo" : 361,
+		"Juegos_Asistidos" : 23
 	},
 	{
 		"Numero" : 25,
@@ -192,7 +192,7 @@
 		"Total_CA" : 23,
 		"Total_Turnos" : 76,
 		"Promedio_Bateo" : 461,
-		"Juegos_Asistidos" : 30
+		"Juegos_Asistidos" : 31
 	},
 	{
 		"Numero" : 26,
@@ -243,31 +243,31 @@
 		"Numero" : 30,
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
 		"Total_H1" : 14,
-		"Total_H2" : 11,
+		"Total_H2" : 12,
 		"Total_H3" : 1,
-		"Total_HR" : 9,
+		"Total_HR" : 10,
 		"Total_BB" : 17,
-		"Total_K" : 9,
-		"Total_RBI" : 27,
-		"Total_CA" : 29,
-		"Total_Turnos" : 87,
+		"Total_K" : 10,
+		"Total_RBI" : 32,
+		"Total_CA" : 30,
+		"Total_Turnos" : 92,
 		"Promedio_Bateo" : 402,
-		"Juegos_Asistidos" : 22
+		"Juegos_Asistidos" : 23
 	},
 	{
 		"Numero" : 31,
 		"Nombre_Completo" : "LUIS MANUEL MAÑON",
 		"Total_H1" : 20,
-		"Total_H2" : 14,
+		"Total_H2" : 15,
 		"Total_H3" : 3,
 		"Total_HR" : 25,
 		"Total_BB" : 18,
-		"Total_K" : 4,
+		"Total_K" : 6,
 		"Total_RBI" : 52,
-		"Total_CA" : 61,
-		"Total_Turnos" : 133,
-		"Promedio_Bateo" : 466,
-		"Juegos_Asistidos" : 30
+		"Total_CA" : 62,
+		"Total_Turnos" : 137,
+		"Promedio_Bateo" : 460,
+		"Juegos_Asistidos" : 31
 	},
 	{
 		"Numero" : 44,
@@ -327,6 +327,6 @@
 		"Total_CA" : 24,
 		"Total_Turnos" : 61,
 		"Promedio_Bateo" : 443,
-		"Juegos_Asistidos" : 19
+		"Juegos_Asistidos" : 20
 	}
 ]
