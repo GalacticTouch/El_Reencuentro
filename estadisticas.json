@@ -12,7 +12,7 @@
 		"Total_CA" : 42,
 		"Total_Turnos" : 148,
 		"Promedio_Bateo" : 378,
-		"Juegos_Asistidos" : 31
+		"Juegos_Asistidos" : 32
 	},
 	{
 		"Numero" : 2,
@@ -27,7 +27,7 @@
 		"Total_CA" : 4,
 		"Total_Turnos" : 62,
 		"Promedio_Bateo" : 177,
-		"Juegos_Asistidos" : 24
+		"Juegos_Asistidos" : 25
 	},
 	{
 		"Numero" : 3,
@@ -55,24 +55,24 @@
 		"Total_K" : 5,
 		"Total_RBI" : 12,
 		"Total_CA" : 14,
-		"Total_Turnos" : 71,
-		"Promedio_Bateo" : 352,
-		"Juegos_Asistidos" : 32
+		"Total_Turnos" : 73,
+		"Promedio_Bateo" : 342,
+		"Juegos_Asistidos" : 33
 	},
 	{
 		"Numero" : 5,
 		"Nombre_Completo" : "FRISSO WILSON",
 		"Total_H1" : 19,
-		"Total_H2" : 12,
+		"Total_H2" : 13,
 		"Total_H3" : 5,
 		"Total_HR" : 11,
-		"Total_BB" : 21,
-		"Total_K" : 5,
+		"Total_BB" : 22,
+		"Total_K" : 6,
 		"Total_RBI" : 41,
 		"Total_CA" : 36,
-		"Total_Turnos" : 117,
-		"Promedio_Bateo" : 402,
-		"Juegos_Asistidos" : 30
+		"Total_Turnos" : 122,
+		"Promedio_Bateo" : 393,
+		"Juegos_Asistidos" : 31
 	},
 	{
 		"Numero" : 6,
@@ -92,7 +92,7 @@
 	{
 		"Numero" : 7,
 		"Nombre_Completo" : "CHULO PUJOLS",
-		"Total_H1" : 11,
+		"Total_H1" : 13,
 		"Total_H2" : 15,
 		"Total_H3" : 1,
 		"Total_HR" : 0,
@@ -100,9 +100,9 @@
 		"Total_K" : 2,
 		"Total_RBI" : 14,
 		"Total_CA" : 16,
-		"Total_Turnos" : 60,
-		"Promedio_Bateo" : 450,
-		"Juegos_Asistidos" : 28
+		"Total_Turnos" : 65,
+		"Promedio_Bateo" : 446,
+		"Juegos_Asistidos" : 29
 	},
 	{
 		"Numero" : 12,
@@ -112,27 +112,27 @@
 		"Total_H3" : 0,
 		"Total_HR" : 0,
 		"Total_BB" : 4,
-		"Total_K" : 5,
+		"Total_K" : 6,
 		"Total_RBI" : 9,
 		"Total_CA" : 7,
-		"Total_Turnos" : 37,
-		"Promedio_Bateo" : 432,
-		"Juegos_Asistidos" : 15
+		"Total_Turnos" : 40,
+		"Promedio_Bateo" : 400,
+		"Juegos_Asistidos" : 16
 	},
 	{
 		"Numero" : 13,
 		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Total_H1" : 28,
-		"Total_H2" : 20,
+		"Total_H1" : 31,
+		"Total_H2" : 22,
 		"Total_H3" : 5,
-		"Total_HR" : 17,
+		"Total_HR" : 18,
 		"Total_BB" : 12,
 		"Total_K" : 4,
-		"Total_RBI" : 60,
-		"Total_CA" : 60,
-		"Total_Turnos" : 145,
-		"Promedio_Bateo" : 483,
-		"Juegos_Asistidos" : 30
+		"Total_RBI" : 65,
+		"Total_CA" : 66,
+		"Total_Turnos" : 151,
+		"Promedio_Bateo" : 503,
+		"Juegos_Asistidos" : 31
 	},
 	{
 		"Numero" : 15,
@@ -167,17 +167,17 @@
 	{
 		"Numero" : 20,
 		"Nombre_Completo" : "ERIC BENCOSME",
-		"Total_H1" : 17,
+		"Total_H1" : 19,
 		"Total_H2" : 8,
 		"Total_H3" : 0,
 		"Total_HR" : 1,
-		"Total_BB" : 17,
-		"Total_K" : 9,
-		"Total_RBI" : 11,
+		"Total_BB" : 18,
+		"Total_K" : 10,
+		"Total_RBI" : 12,
 		"Total_CA" : 15,
-		"Total_Turnos" : 72,
-		"Promedio_Bateo" : 361,
-		"Juegos_Asistidos" : 23
+		"Total_Turnos" : 76,
+		"Promedio_Bateo" : 368,
+		"Juegos_Asistidos" : 24
 	},
 	{
 		"Numero" : 25,
@@ -192,7 +192,7 @@
 		"Total_CA" : 23,
 		"Total_Turnos" : 76,
 		"Promedio_Bateo" : 461,
-		"Juegos_Asistidos" : 31
+		"Juegos_Asistidos" : 32
 	},
 	{
 		"Numero" : 26,
@@ -242,17 +242,17 @@
 	{
 		"Numero" : 30,
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
-		"Total_H1" : 14,
-		"Total_H2" : 12,
+		"Total_H1" : 15,
+		"Total_H2" : 13,
 		"Total_H3" : 1,
 		"Total_HR" : 10,
 		"Total_BB" : 17,
 		"Total_K" : 10,
-		"Total_RBI" : 32,
+		"Total_RBI" : 34,
 		"Total_CA" : 30,
-		"Total_Turnos" : 92,
+		"Total_Turnos" : 97,
 		"Promedio_Bateo" : 402,
-		"Juegos_Asistidos" : 23
+		"Juegos_Asistidos" : 24
 	},
 	{
 		"Numero" : 31,
@@ -263,16 +263,16 @@
 		"Total_HR" : 25,
 		"Total_BB" : 18,
 		"Total_K" : 6,
-		"Total_RBI" : 52,
-		"Total_CA" : 62,
-		"Total_Turnos" : 137,
-		"Promedio_Bateo" : 460,
-		"Juegos_Asistidos" : 31
+		"Total_RBI" : 53,
+		"Total_CA" : 63,
+		"Total_Turnos" : 141,
+		"Promedio_Bateo" : 447,
+		"Juegos_Asistidos" : 32
 	},
 	{
 		"Numero" : 44,
 		"Nombre_Completo" : "JEAN CARLOS RAMOS",
-		"Total_H1" : 5,
+		"Total_H1" : 6,
 		"Total_H2" : 3,
 		"Total_H3" : 0,
 		"Total_HR" : 1,
@@ -280,24 +280,24 @@
 		"Total_K" : 2,
 		"Total_RBI" : 3,
 		"Total_CA" : 3,
-		"Total_Turnos" : 24,
-		"Promedio_Bateo" : 375,
-		"Juegos_Asistidos" : 7
+		"Total_Turnos" : 29,
+		"Promedio_Bateo" : 345,
+		"Juegos_Asistidos" : 8
 	},
 	{
 		"Numero" : 45,
 		"Nombre_Completo" : "ABRAHAN",
-		"Total_H1" : 24,
+		"Total_H1" : 25,
 		"Total_H2" : 5,
 		"Total_H3" : 2,
-		"Total_HR" : 5,
-		"Total_BB" : 11,
+		"Total_HR" : 7,
+		"Total_BB" : 12,
 		"Total_K" : 1,
-		"Total_RBI" : 21,
-		"Total_CA" : 25,
-		"Total_Turnos" : 87,
-		"Promedio_Bateo" : 414,
-		"Juegos_Asistidos" : 22
+		"Total_RBI" : 24,
+		"Total_CA" : 29,
+		"Total_Turnos" : 92,
+		"Promedio_Bateo" : 424,
+		"Juegos_Asistidos" : 23
 	},
 	{
 		"Numero" : 46,
@@ -327,6 +327,6 @@
 		"Total_CA" : 24,
 		"Total_Turnos" : 61,
 		"Promedio_Bateo" : 443,
-		"Juegos_Asistidos" : 20
+		"Juegos_Asistidos" : 21
 	}
 ]

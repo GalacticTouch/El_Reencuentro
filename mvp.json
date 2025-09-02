@@ -2,17 +2,17 @@
 	{
 		"Numero" : 1,
 		"Nombre" : "LUIS MANUEL MAÑON",
-		"Puntos" : 329
+		"Puntos" : 331
 	},
 	{
 		"Numero" : 2,
 		"Nombre" : "YERIFEN JEREZ",
-		"Puntos" : 305
+		"Puntos" : 329
 	},
 	{
 		"Numero" : 3,
 		"Nombre" : "FRISSO WILSON",
-		"Puntos" : 209
+		"Puntos" : 211
 	},
 	{
 		"Numero" : 4,
@@ -22,7 +22,7 @@
 	{
 		"Numero" : 5,
 		"Nombre" : "LUIS FELIPE HEREDIA",
-		"Puntos" : 148
+		"Puntos" : 153
 	},
 	{
 		"Numero" : 6,
@@ -37,52 +37,52 @@
 	{
 		"Numero" : 8,
 		"Nombre" : "ABRAHAN",
-		"Puntos" : 102
+		"Puntos" : 123
 	},
 	{
 		"Numero" : 9,
 		"Nombre" : "JOSELUIS HENRIQUEZ",
-		"Puntos" : 93
+		"Puntos" : 91
 	},
 	{
 		"Numero" : 10,
 		"Nombre" : "CHULO PUJOLS",
-		"Puntos" : 68
+		"Puntos" : 70
 	},
 	{
 		"Numero" : 11,
+		"Nombre" : "ERIC BENCOSME",
+		"Puntos" : 54
+	},
+	{
+		"Numero" : 12,
 		"Nombre" : "COCHI VASQUEZ",
 		"Puntos" : 52
 	},
 	{
-		"Numero" : 12,
-		"Nombre" : "ERIC BENCOSME",
-		"Puntos" : 51
-	},
-	{
 		"Numero" : 13,
 		"Nombre" : "MODESTO DE LA ROSA",
-		"Puntos" : 26
+		"Puntos" : 24
 	},
 	{
 		"Numero" : 14,
 		"Nombre" : "NAO FIGUEROA",
-		"Puntos" : 21
+		"Puntos" : 19
 	},
 	{
 		"Numero" : 15,
 		"Nombre" : "DARWIN SANCHEZ",
-		"Puntos" : 16
+		"Puntos" : 14
 	},
 	{
 		"Numero" : 16,
 		"Nombre" : "ANGEL MOREL",
-		"Puntos" : 3
+		"Puntos" : 1
 	},
 	{
 		"Numero" : 17,
 		"Nombre" : "MIGUEL FIGUEROA",
-		"Puntos" : -2
+		"Puntos" : -3
 	},
 	{
 		"Numero" : 18,
@@ -92,21 +92,21 @@
 	{
 		"Numero" : 19,
 		"Nombre" : "JUNIOR BOBOLO",
-		"Puntos" : -24
+		"Puntos" : -26
 	},
 	{
 		"Numero" : 20,
 		"Nombre" : "JEAN CARLOS RAMOS",
-		"Puntos" : -33
+		"Puntos" : -32
 	},
 	{
 		"Numero" : 21,
 		"Nombre" : "ALAMO CABRERA",
-		"Puntos" : -63
+		"Puntos" : -65
 	},
 	{
 		"Numero" : 22,
 		"Nombre" : "ANEURIS SIMBA",
-		"Puntos" : -68
+		"Puntos" : -70
 	}
 ]
