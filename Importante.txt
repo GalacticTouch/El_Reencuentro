@@ -1,0 +1,16 @@
+# 1. Revisa qué archivos cambiaste (opcional, pero recomendado para verificar)
+git status
+
+# 2. Prepara el archivo modificado para el envío (el punto agrega TODOS los cambios)
+git add .
+
+# 3. Ponle un nombre o descripción a tus cambios
+git commit -m "Actualización de archivos"
+
+# 4. Envía los cambios a tu repositorio en GitHub
+git push origin main
+
+
+Cómo recuperarlo (Por si pasa una emergencia)
+Si borras algo por error y necesitas restaurar todo tal y como estaba en ese archivo, solo corres este comando en tu terminal:
+mysql -u root -p softbolstats < ./respaldos/nombre_de_tu_archivo.sql
