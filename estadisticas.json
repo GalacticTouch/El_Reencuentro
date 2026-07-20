@@ -105,6 +105,36 @@
 		"Juegos_Asistidos" : 1
 	},
 	{
+		"Numero" : 8,
+		"Nombre_Completo" : "EMILIO WILNE",
+		"Total_H1" : 2,
+		"Total_H2" : 0,
+		"Total_H3" : 0,
+		"Total_HR" : 0,
+		"Total_BB" : 1,
+		"Total_K" : 0,
+		"Total_RBI" : 0,
+		"Total_CA" : 1,
+		"Total_Turnos" : 4,
+		"Promedio_Bateo" : 500,
+		"Juegos_Asistidos" : 0
+	},
+	{
+		"Numero" : 11,
+		"Nombre_Completo" : "JEURI MENOR",
+		"Total_H1" : 1,
+		"Total_H2" : 0,
+		"Total_H3" : 0,
+		"Total_HR" : 0,
+		"Total_BB" : 0,
+		"Total_K" : 0,
+		"Total_RBI" : 0,
+		"Total_CA" : 0,
+		"Total_Turnos" : 4,
+		"Promedio_Bateo" : 250,
+		"Juegos_Asistidos" : 0
+	},
+	{
 		"Numero" : 12,
 		"Nombre_Completo" : "MIGUEL FIGUEROA",
 		"Total_H1" : 0,
@@ -182,16 +212,16 @@
 	{
 		"Numero" : 22,
 		"Nombre_Completo" : "EMILIO WILNE",
-		"Total_H1" : 2,
+		"Total_H1" : 0,
 		"Total_H2" : 0,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
-		"Total_BB" : 1,
+		"Total_BB" : 0,
 		"Total_K" : 0,
 		"Total_RBI" : 0,
-		"Total_CA" : 1,
-		"Total_Turnos" : 4,
-		"Promedio_Bateo" : 500,
+		"Total_CA" : 0,
+		"Total_Turnos" : 0,
+		"Promedio_Bateo" : null,
 		"Juegos_Asistidos" : 1
 	},
 	{
@@ -208,6 +238,21 @@
 		"Total_Turnos" : 5,
 		"Promedio_Bateo" : 600,
 		"Juegos_Asistidos" : 1
+	},
+	{
+		"Numero" : 24,
+		"Nombre_Completo" : "MARCELINO",
+		"Total_H1" : 0,
+		"Total_H2" : 0,
+		"Total_H3" : 0,
+		"Total_HR" : 0,
+		"Total_BB" : 0,
+		"Total_K" : 0,
+		"Total_RBI" : 0,
+		"Total_CA" : 0,
+		"Total_Turnos" : 0,
+		"Promedio_Bateo" : null,
+		"Juegos_Asistidos" : 0
 	},
 	{
 		"Numero" : 25,
@@ -272,7 +317,7 @@
 	{
 		"Numero" : 32,
 		"Nombre_Completo" : "JEURI MENOR",
-		"Total_H1" : 1,
+		"Total_H1" : 0,
 		"Total_H2" : 0,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
@@ -280,8 +325,8 @@
 		"Total_K" : 0,
 		"Total_RBI" : 0,
 		"Total_CA" : 0,
-		"Total_Turnos" : 4,
-		"Promedio_Bateo" : 250,
+		"Total_Turnos" : 0,
+		"Promedio_Bateo" : null,
 		"Juegos_Asistidos" : 1
 	},
 	{

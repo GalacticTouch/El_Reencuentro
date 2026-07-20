@@ -15,13 +15,13 @@
 		"Promedio_Bateo" : 500
 	},
 	{
-		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Turnos" : "5-10",
+		"Nombre_Completo" : "EMILIO WILNE",
+		"Turnos" : "2-4",
 		"Promedio_Bateo" : 500
 	},
 	{
-		"Nombre_Completo" : "EMILIO WILNE",
-		"Turnos" : "2-4",
+		"Nombre_Completo" : "YERIFEN JEREZ",
+		"Turnos" : "5-10",
 		"Promedio_Bateo" : 500
 	},
 	{
@@ -95,7 +95,22 @@
 		"Promedio_Bateo" : 0
 	},
 	{
+		"Nombre_Completo" : "EMILIO WILNE",
+		"Turnos" : "0-0",
+		"Promedio_Bateo" : 0
+	},
+	{
+		"Nombre_Completo" : "MARCELINO",
+		"Turnos" : "0-0",
+		"Promedio_Bateo" : 0
+	},
+	{
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
+		"Turnos" : "0-0",
+		"Promedio_Bateo" : 0
+	},
+	{
+		"Nombre_Completo" : "JEURI MENOR",
 		"Turnos" : "0-0",
 		"Promedio_Bateo" : 0
 	},

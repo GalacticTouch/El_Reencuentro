@@ -52,7 +52,7 @@
 	{
 		"No." : 11,
 		"Jugador" : "EMILIO WILNE",
-		"Puntos" : 2
+		"Puntos" : 4
 	},
 	{
 		"No." : 12,
@@ -61,46 +61,61 @@
 	},
 	{
 		"No." : 13,
-		"Jugador" : "LA FEDE CHICHI",
+		"Jugador" : "JEURI MENOR",
 		"Puntos" : 1
 	},
 	{
 		"No." : 14,
+		"Jugador" : "LA FEDE CHICHI",
+		"Puntos" : 1
+	},
+	{
+		"No." : 15,
 		"Jugador" : "COCHI VASQUEZ",
 		"Puntos" : 0
 	},
 	{
-		"No." : 15,
-		"Jugador" : "JEURI MENOR",
-		"Puntos" : -1
+		"No." : 16,
+		"Jugador" : "MARCELINO",
+		"Puntos" : 0
 	},
 	{
-		"No." : 16,
+		"No." : 17,
+		"Jugador" : "EMILIO WILNE",
+		"Puntos" : -2
+	},
+	{
+		"No." : 18,
+		"Jugador" : "JEURI MENOR",
+		"Puntos" : -2
+	},
+	{
+		"No." : 19,
 		"Jugador" : "MIGUEL FIGUEROA",
 		"Puntos" : -2
 	},
 	{
-		"No." : 17,
+		"No." : 20,
 		"Jugador" : "CHULO PUJOLS",
 		"Puntos" : -3
 	},
 	{
-		"No." : 18,
+		"No." : 21,
 		"Jugador" : "ERIC BENCOSME",
 		"Puntos" : -4
 	},
 	{
-		"No." : 19,
+		"No." : 22,
 		"Jugador" : "JAN RAMOS",
 		"Puntos" : -4
 	},
 	{
-		"No." : 20,
+		"No." : 23,
 		"Jugador" : "LUIS FELIPE HEREDIA",
 		"Puntos" : -4
 	},
 	{
-		"No." : 21,
+		"No." : 24,
 		"Jugador" : "MODESTO DE LA ROSA",
 		"Puntos" : -4
 	}
