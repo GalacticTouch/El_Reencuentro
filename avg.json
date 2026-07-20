@@ -1,107 +1,107 @@
 [
 	{
 		"Nombre_Completo" : "ADONI EL MENOR",
-		"Turnos" : "5-3",
+		"Turnos" : "3-5",
 		"Promedio_Bateo" : 600
 	},
 	{
 		"Nombre_Completo" : "ABRAHAN",
-		"Turnos" : "5-3",
+		"Turnos" : "3-5",
 		"Promedio_Bateo" : 600
 	},
 	{
 		"Nombre_Completo" : "NAO FIGUEROA",
-		"Turnos" : "8-4",
+		"Turnos" : "4-8",
 		"Promedio_Bateo" : 500
 	},
 	{
 		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Turnos" : "10-5",
+		"Turnos" : "5-10",
 		"Promedio_Bateo" : 500
 	},
 	{
 		"Nombre_Completo" : "EMILIO WILNE",
-		"Turnos" : "4-2",
+		"Turnos" : "2-4",
 		"Promedio_Bateo" : 500
 	},
 	{
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Turnos" : "7-3",
+		"Turnos" : "3-7",
 		"Promedio_Bateo" : 429
 	},
 	{
 		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
-		"Turnos" : "5-2",
+		"Turnos" : "2-5",
 		"Promedio_Bateo" : 400
 	},
 	{
 		"Nombre_Completo" : "FRISSO WILSON",
-		"Turnos" : "11-3",
+		"Turnos" : "3-11",
 		"Promedio_Bateo" : 273
 	},
 	{
 		"Nombre_Completo" : "JEURI MENOR",
-		"Turnos" : "4-1",
+		"Turnos" : "1-4",
 		"Promedio_Bateo" : 250
 	},
 	{
 		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Turnos" : "5-1",
+		"Turnos" : "1-5",
 		"Promedio_Bateo" : 200
 	},
 	{
 		"Nombre_Completo" : "YOVANNY PILLO",
-		"Turnos" : "5-1",
+		"Turnos" : "1-5",
 		"Promedio_Bateo" : 200
 	},
 	{
 		"Nombre_Completo" : "MICHEL GRULLON",
-		"Turnos" : "10-2",
+		"Turnos" : "2-10",
 		"Promedio_Bateo" : 200
 	},
 	{
 		"Nombre_Completo" : "FELIPE",
-		"Turnos" : "5-1",
+		"Turnos" : "1-5",
 		"Promedio_Bateo" : 200
 	},
 	{
 		"Nombre_Completo" : "LUIS MANUEL MAÑON",
-		"Turnos" : "5-1",
+		"Turnos" : "1-5",
 		"Promedio_Bateo" : 200
 	},
 	{
 		"Nombre_Completo" : "LA FEDE CHICHI",
-		"Turnos" : "10-1",
+		"Turnos" : "1-10",
 		"Promedio_Bateo" : 100
 	},
 	{
 		"Nombre_Completo" : "CHULO PUJOLS",
-		"Turnos" : "2-0",
+		"Turnos" : "0-2",
 		"Promedio_Bateo" : 0
 	},
 	{
 		"Nombre_Completo" : "MIGUEL FIGUEROA",
-		"Turnos" : "1-0",
+		"Turnos" : "0-1",
 		"Promedio_Bateo" : 0
 	},
 	{
 		"Nombre_Completo" : "MODESTO DE LA ROSA",
-		"Turnos" : null,
-		"Promedio_Bateo" : null
+		"Turnos" : "0-0",
+		"Promedio_Bateo" : 0
 	},
 	{
 		"Nombre_Completo" : "ERIC BENCOSME",
-		"Turnos" : null,
-		"Promedio_Bateo" : null
+		"Turnos" : "0-0",
+		"Promedio_Bateo" : 0
 	},
 	{
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
-		"Turnos" : null,
-		"Promedio_Bateo" : null
+		"Turnos" : "0-0",
+		"Promedio_Bateo" : 0
 	},
 	{
 		"Nombre_Completo" : "JAN RAMOS",
-		"Turnos" : null,
-		"Promedio_Bateo" : null
+		"Turnos" : "0-0",
+		"Promedio_Bateo" : 0
 	}
 ]
