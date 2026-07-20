@@ -1,5 +1,12 @@
 [
 	{
+		"Nombre_Pitcher" : "COCHI VASQUEZ",
+		"Innings" : 10.0,
+		"K" : 3,
+		"BB" : 4,
+		"Total_Puntos" : 31.0
+	},
+	{
 		"Nombre_Pitcher" : "MIGUEL FIGUEROA",
 		"Innings" : 5.0,
 		"K" : 3,

@@ -2,106 +2,106 @@
 	{
 		"No." : 1,
 		"Jugador" : "YERIFEN JEREZ",
-		"Puntos" : 13
+		"Puntos" : 21
 	},
 	{
 		"No." : 2,
-		"Jugador" : "JOSELUIS HENRIQUEZ",
-		"Puntos" : 11
+		"Jugador" : "ESMERLIN AQUINO",
+		"Puntos" : 15
 	},
 	{
 		"No." : 3,
-		"Jugador" : "ADONI EL MENOR",
-		"Puntos" : 9
+		"Jugador" : "FRISSO WILSON",
+		"Puntos" : 11
 	},
 	{
 		"No." : 4,
-		"Jugador" : "ABRAHAN",
-		"Puntos" : 6
+		"Jugador" : "JOSELUIS HENRIQUEZ",
+		"Puntos" : 9
 	},
 	{
 		"No." : 5,
-		"Jugador" : "MICHEL GRULLON",
-		"Puntos" : 6
+		"Jugador" : "FELIPE",
+		"Puntos" : 8
 	},
 	{
 		"No." : 6,
-		"Jugador" : "FRISSO WILSON",
-		"Puntos" : 4
+		"Jugador" : "ADONI EL MENOR",
+		"Puntos" : 7
 	},
 	{
 		"No." : 7,
-		"Jugador" : "LUIS MANUEL MAÑON",
-		"Puntos" : 4
+		"Jugador" : "MICHEL GRULLON",
+		"Puntos" : 7
 	},
 	{
 		"No." : 8,
-		"Jugador" : "LA FEDE CHICHI",
-		"Puntos" : 2
+		"Jugador" : "NAO FIGUEROA",
+		"Puntos" : 6
 	},
 	{
 		"No." : 9,
-		"Jugador" : "ESMERLIN AQUINO",
-		"Puntos" : 1
+		"Jugador" : "YOVANNY PILLO",
+		"Puntos" : 5
 	},
 	{
 		"No." : 10,
-		"Jugador" : "JEURI MENOR",
-		"Puntos" : 1
+		"Jugador" : "ABRAHAN",
+		"Puntos" : 4
 	},
 	{
 		"No." : 11,
-		"Jugador" : "MIGUEL FIGUEROA",
-		"Puntos" : 0
+		"Jugador" : "EMILIO WILNE",
+		"Puntos" : 2
 	},
 	{
 		"No." : 12,
-		"Jugador" : "NAO FIGUEROA",
-		"Puntos" : 0
+		"Jugador" : "LUIS MANUEL MAÑON",
+		"Puntos" : 2
 	},
 	{
 		"No." : 13,
-		"Jugador" : "CHULO PUJOLS",
-		"Puntos" : -1
+		"Jugador" : "LA FEDE CHICHI",
+		"Puntos" : 1
 	},
 	{
 		"No." : 14,
 		"Jugador" : "COCHI VASQUEZ",
-		"Puntos" : -2
+		"Puntos" : 0
 	},
 	{
 		"No." : 15,
-		"Jugador" : "EMILIO WILNE",
-		"Puntos" : -2
+		"Jugador" : "JEURI MENOR",
+		"Puntos" : -1
 	},
 	{
 		"No." : 16,
-		"Jugador" : "ERIC BENCOSME",
+		"Jugador" : "MIGUEL FIGUEROA",
 		"Puntos" : -2
 	},
 	{
 		"No." : 17,
-		"Jugador" : "FELIPE",
-		"Puntos" : -2
+		"Jugador" : "CHULO PUJOLS",
+		"Puntos" : -3
 	},
 	{
 		"No." : 18,
-		"Jugador" : "JAN RAMOS",
-		"Puntos" : -2
+		"Jugador" : "ERIC BENCOSME",
+		"Puntos" : -4
 	},
 	{
 		"No." : 19,
-		"Jugador" : "LUIS FELIPE HEREDIA",
-		"Puntos" : -2
+		"Jugador" : "JAN RAMOS",
+		"Puntos" : -4
 	},
 	{
 		"No." : 20,
-		"Jugador" : "MODESTO DE LA ROSA",
-		"Puntos" : -2
+		"Jugador" : "LUIS FELIPE HEREDIA",
+		"Puntos" : -4
 	},
 	{
 		"No." : 21,
-		"Jugador" : "YOVANNY PILLO",
-		"Puntos" : -2
+		"Jugador" : "MODESTO DE LA ROSA",
+		"Puntos" : -4
 	}
 ]

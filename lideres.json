@@ -1,57 +1,57 @@
 [
 	{
 		"Posicion" : 1,
-		"H1" : "ABRAHAN (2)",
-		"H2" : "ABRAHAN (1)",
-		"H3" : "ABRAHAN (0)",
-		"H4" : "JOSELUIS HENRIQUEZ (1)",
-		"BB" : "ABRAHAN (1)",
+		"H1" : "NAO FIGUEROA (3)",
+		"H2" : "YERIFEN JEREZ (2)",
+		"H3" : "YERIFEN JEREZ (1)",
+		"H4" : "ESMERLIN AQUINO (1)",
+		"BB" : "FELIPE (2)",
 		"K" : "CHULO PUJOLS (1)",
-		"Total_Remolcadas" : "ADONI EL MENOR (3)",
-		"Total_Anotadas" : "YERIFEN JEREZ (3)"
+		"Total_Remolcadas" : "ESMERLIN AQUINO (4)",
+		"Total_Anotadas" : "YERIFEN JEREZ (5)"
 	},
 	{
 		"Posicion" : 2,
-		"H1" : "ADONI EL MENOR (2)",
-		"H2" : "ADONI EL MENOR (1)",
-		"H3" : "ADONI EL MENOR (0)",
-		"H4" : "YERIFEN JEREZ (1)",
-		"BB" : "FRISSO WILSON (1)",
-		"K" : "LUIS MANUEL MAÑON (1)",
-		"Total_Remolcadas" : "LUIS MANUEL MAÑON (3)",
-		"Total_Anotadas" : "ADONI EL MENOR (2)"
+		"H1" : "ABRAHAN (2)",
+		"H2" : "ABRAHAN (1)",
+		"H3" : "YOVANNY PILLO (1)",
+		"H4" : "FELIPE (1)",
+		"BB" : "FRISSO WILSON (2)",
+		"K" : "FELIPE (1)",
+		"Total_Remolcadas" : "ADONI EL MENOR (3)",
+		"Total_Anotadas" : "ESMERLIN AQUINO (3)"
 	},
 	{
 		"Posicion" : 3,
-		"H1" : "ESMERLIN AQUINO (1)",
-		"H2" : "LUIS MANUEL MAÑON (1)",
-		"H3" : "CHULO PUJOLS (0)",
-		"H4" : "ABRAHAN (0)",
-		"BB" : "LA FEDE CHICHI (1)",
-		"K" : "NAO FIGUEROA (1)",
-		"Total_Remolcadas" : "JOSELUIS HENRIQUEZ (2)",
-		"Total_Anotadas" : "JOSELUIS HENRIQUEZ (2)"
+		"H1" : "ADONI EL MENOR (2)",
+		"H2" : "ADONI EL MENOR (1)",
+		"H3" : "ABRAHAN (0)",
+		"H4" : "JOSELUIS HENRIQUEZ (1)",
+		"BB" : "ABRAHAN (1)",
+		"K" : "LA FEDE CHICHI (1)",
+		"Total_Remolcadas" : "FRISSO WILSON (3)",
+		"Total_Anotadas" : "ADONI EL MENOR (2)"
 	},
 	{
 		"Posicion" : 4,
-		"H1" : "FRISSO WILSON (1)",
-		"H2" : "MICHEL GRULLON (1)",
-		"H3" : "ESMERLIN AQUINO (0)",
-		"H4" : "ADONI EL MENOR (0)",
-		"BB" : "MICHEL GRULLON (1)",
-		"K" : "YERIFEN JEREZ (1)",
-		"Total_Remolcadas" : "FRISSO WILSON (1)",
-		"Total_Anotadas" : "ABRAHAN (1)"
+		"H1" : "EMILIO WILNE (2)",
+		"H2" : "FRISSO WILSON (1)",
+		"H3" : "ADONI EL MENOR (0)",
+		"H4" : "YERIFEN JEREZ (1)",
+		"BB" : "COCHI VASQUEZ (1)",
+		"K" : "LUIS MANUEL MAÑON (1)",
+		"Total_Remolcadas" : "LUIS MANUEL MAÑON (3)",
+		"Total_Anotadas" : "FELIPE (2)"
 	},
 	{
 		"Posicion" : 5,
-		"H1" : "JEURI MENOR (1)",
-		"H2" : "YERIFEN JEREZ (1)",
-		"H3" : "FRISSO WILSON (0)",
-		"H4" : "CHULO PUJOLS (0)",
-		"BB" : "YERIFEN JEREZ (1)",
-		"K" : "ABRAHAN (0)",
-		"Total_Remolcadas" : "MICHEL GRULLON (1)",
-		"Total_Anotadas" : "FRISSO WILSON (1)"
+		"H1" : "ESMERLIN AQUINO (2)",
+		"H2" : "LUIS MANUEL MAÑON (1)",
+		"H3" : "CHULO PUJOLS (0)",
+		"H4" : "ABRAHAN (0)",
+		"BB" : "EMILIO WILNE (1)",
+		"K" : "NAO FIGUEROA (1)",
+		"Total_Remolcadas" : "JOSELUIS HENRIQUEZ (2)",
+		"Total_Anotadas" : "FRISSO WILSON (2)"
 	}
 ]
