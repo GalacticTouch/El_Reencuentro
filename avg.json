@@ -1,11 +1,11 @@
 [
 	{
-		"Nombre_Completo" : "ADONI EL MENOR",
+		"Nombre_Completo" : "ABRAHAN",
 		"Turnos" : "3-5",
 		"Promedio_Bateo" : 600
 	},
 	{
-		"Nombre_Completo" : "ABRAHAN",
+		"Nombre_Completo" : "ADONI EL MENOR",
 		"Turnos" : "3-5",
 		"Promedio_Bateo" : 600
 	},
@@ -95,22 +95,12 @@
 		"Promedio_Bateo" : 0
 	},
 	{
-		"Nombre_Completo" : "EMILIO WILNE",
-		"Turnos" : "0-0",
-		"Promedio_Bateo" : 0
-	},
-	{
-		"Nombre_Completo" : "MARCELINO",
+		"Nombre_Completo" : "Marcelino",
 		"Turnos" : "0-0",
 		"Promedio_Bateo" : 0
 	},
 	{
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
-		"Turnos" : "0-0",
-		"Promedio_Bateo" : 0
-	},
-	{
-		"Nombre_Completo" : "JEURI MENOR",
 		"Turnos" : "0-0",
 		"Promedio_Bateo" : 0
 	},

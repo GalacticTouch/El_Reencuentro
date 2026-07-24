@@ -16,43 +16,43 @@
 	},
 	{
 		"No." : 4,
-		"Jugador" : "JOSELUIS HENRIQUEZ",
+		"Jugador" : "FELIPE",
 		"Puntos" : 9
 	},
 	{
 		"No." : 5,
-		"Jugador" : "FELIPE",
-		"Puntos" : 8
+		"Jugador" : "JOSELUIS HENRIQUEZ",
+		"Puntos" : 9
 	},
 	{
 		"No." : 6,
 		"Jugador" : "ADONI EL MENOR",
-		"Puntos" : 7
+		"Puntos" : 5
 	},
 	{
 		"No." : 7,
 		"Jugador" : "MICHEL GRULLON",
-		"Puntos" : 7
+		"Puntos" : 5
 	},
 	{
 		"No." : 8,
-		"Jugador" : "NAO FIGUEROA",
-		"Puntos" : 6
-	},
-	{
-		"No." : 9,
 		"Jugador" : "YOVANNY PILLO",
 		"Puntos" : 5
 	},
 	{
-		"No." : 10,
+		"No." : 9,
 		"Jugador" : "ABRAHAN",
 		"Puntos" : 4
 	},
 	{
+		"No." : 10,
+		"Jugador" : "NAO FIGUEROA",
+		"Puntos" : 3
+	},
+	{
 		"No." : 11,
 		"Jugador" : "EMILIO WILNE",
-		"Puntos" : 4
+		"Puntos" : 2
 	},
 	{
 		"No." : 12,
@@ -61,61 +61,51 @@
 	},
 	{
 		"No." : 13,
-		"Jugador" : "JEURI MENOR",
-		"Puntos" : 1
-	},
-	{
-		"No." : 14,
 		"Jugador" : "LA FEDE CHICHI",
 		"Puntos" : 1
 	},
 	{
-		"No." : 15,
+		"No." : 14,
 		"Jugador" : "COCHI VASQUEZ",
 		"Puntos" : 0
 	},
 	{
-		"No." : 16,
-		"Jugador" : "MARCELINO",
-		"Puntos" : 0
-	},
-	{
-		"No." : 17,
-		"Jugador" : "EMILIO WILNE",
-		"Puntos" : -2
-	},
-	{
-		"No." : 18,
+		"No." : 15,
 		"Jugador" : "JEURI MENOR",
-		"Puntos" : -2
+		"Puntos" : -1
 	},
 	{
-		"No." : 19,
+		"No." : 16,
 		"Jugador" : "MIGUEL FIGUEROA",
 		"Puntos" : -2
 	},
 	{
-		"No." : 20,
+		"No." : 17,
 		"Jugador" : "CHULO PUJOLS",
 		"Puntos" : -3
 	},
 	{
-		"No." : 21,
+		"No." : 18,
 		"Jugador" : "ERIC BENCOSME",
 		"Puntos" : -4
 	},
 	{
-		"No." : 22,
+		"No." : 19,
 		"Jugador" : "JAN RAMOS",
 		"Puntos" : -4
 	},
 	{
-		"No." : 23,
+		"No." : 20,
 		"Jugador" : "LUIS FELIPE HEREDIA",
 		"Puntos" : -4
 	},
 	{
-		"No." : 24,
+		"No." : 21,
+		"Jugador" : "Marcelino",
+		"Puntos" : -4
+	},
+	{
+		"No." : 22,
 		"Jugador" : "MODESTO DE LA ROSA",
 		"Puntos" : -4
 	}

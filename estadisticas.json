@@ -82,8 +82,8 @@
 		"Total_H3" : 0,
 		"Total_HR" : 0,
 		"Total_BB" : 0,
-		"Total_K" : 1,
-		"Total_RBI" : 2,
+		"Total_K" : 2,
+		"Total_RBI" : 0,
 		"Total_CA" : 0,
 		"Total_Turnos" : 8,
 		"Promedio_Bateo" : 500,
@@ -117,10 +117,10 @@
 		"Total_CA" : 1,
 		"Total_Turnos" : 4,
 		"Promedio_Bateo" : 500,
-		"Juegos_Asistidos" : 0
+		"Juegos_Asistidos" : 1
 	},
 	{
-		"Numero" : 11,
+		"Numero" : 9,
 		"Nombre_Completo" : "JEURI MENOR",
 		"Total_H1" : 1,
 		"Total_H2" : 0,
@@ -132,7 +132,22 @@
 		"Total_CA" : 0,
 		"Total_Turnos" : 4,
 		"Promedio_Bateo" : 250,
-		"Juegos_Asistidos" : 0
+		"Juegos_Asistidos" : 1
+	},
+	{
+		"Numero" : 11,
+		"Nombre_Completo" : "ABRAHAN",
+		"Total_H1" : 2,
+		"Total_H2" : 1,
+		"Total_H3" : 0,
+		"Total_HR" : 0,
+		"Total_BB" : 1,
+		"Total_K" : 0,
+		"Total_RBI" : 0,
+		"Total_CA" : 1,
+		"Total_Turnos" : 5,
+		"Promedio_Bateo" : 600,
+		"Juegos_Asistidos" : 1
 	},
 	{
 		"Numero" : 12,
@@ -158,8 +173,8 @@
 		"Total_HR" : 1,
 		"Total_BB" : 1,
 		"Total_K" : 1,
-		"Total_RBI" : 2,
-		"Total_CA" : 5,
+		"Total_RBI" : 4,
+		"Total_CA" : 3,
 		"Total_Turnos" : 10,
 		"Promedio_Bateo" : 500,
 		"Juegos_Asistidos" : 2
@@ -210,21 +225,6 @@
 		"Juegos_Asistidos" : 0
 	},
 	{
-		"Numero" : 22,
-		"Nombre_Completo" : "EMILIO WILNE",
-		"Total_H1" : 0,
-		"Total_H2" : 0,
-		"Total_H3" : 0,
-		"Total_HR" : 0,
-		"Total_BB" : 0,
-		"Total_K" : 0,
-		"Total_RBI" : 0,
-		"Total_CA" : 0,
-		"Total_Turnos" : 0,
-		"Promedio_Bateo" : null,
-		"Juegos_Asistidos" : 1
-	},
-	{
 		"Numero" : 23,
 		"Nombre_Completo" : "ADONI EL MENOR",
 		"Total_H1" : 2,
@@ -233,7 +233,7 @@
 		"Total_HR" : 0,
 		"Total_BB" : 0,
 		"Total_K" : 0,
-		"Total_RBI" : 3,
+		"Total_RBI" : 1,
 		"Total_CA" : 2,
 		"Total_Turnos" : 5,
 		"Promedio_Bateo" : 600,
@@ -241,7 +241,7 @@
 	},
 	{
 		"Numero" : 24,
-		"Nombre_Completo" : "MARCELINO",
+		"Nombre_Completo" : "Marcelino",
 		"Total_H1" : 0,
 		"Total_H2" : 0,
 		"Total_H3" : 0,
@@ -261,9 +261,9 @@
 		"Total_H2" : 1,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
-		"Total_BB" : 1,
+		"Total_BB" : 0,
 		"Total_K" : 0,
-		"Total_RBI" : 1,
+		"Total_RBI" : 0,
 		"Total_CA" : 2,
 		"Total_Turnos" : 10,
 		"Promedio_Bateo" : 200,
@@ -279,7 +279,7 @@
 		"Total_BB" : 2,
 		"Total_K" : 1,
 		"Total_RBI" : 1,
-		"Total_CA" : 2,
+		"Total_CA" : 3,
 		"Total_Turnos" : 5,
 		"Promedio_Bateo" : 200,
 		"Juegos_Asistidos" : 1
@@ -315,21 +315,6 @@
 		"Juegos_Asistidos" : 1
 	},
 	{
-		"Numero" : 32,
-		"Nombre_Completo" : "JEURI MENOR",
-		"Total_H1" : 0,
-		"Total_H2" : 0,
-		"Total_H3" : 0,
-		"Total_HR" : 0,
-		"Total_BB" : 0,
-		"Total_K" : 0,
-		"Total_RBI" : 0,
-		"Total_CA" : 0,
-		"Total_Turnos" : 0,
-		"Promedio_Bateo" : null,
-		"Juegos_Asistidos" : 1
-	},
-	{
 		"Numero" : 44,
 		"Nombre_Completo" : "JAN RAMOS",
 		"Total_H1" : 0,
@@ -343,20 +328,5 @@
 		"Total_Turnos" : 0,
 		"Promedio_Bateo" : null,
 		"Juegos_Asistidos" : 0
-	},
-	{
-		"Numero" : 45,
-		"Nombre_Completo" : "ABRAHAN",
-		"Total_H1" : 2,
-		"Total_H2" : 1,
-		"Total_H3" : 0,
-		"Total_HR" : 0,
-		"Total_BB" : 1,
-		"Total_K" : 0,
-		"Total_RBI" : 0,
-		"Total_CA" : 1,
-		"Total_Turnos" : 5,
-		"Promedio_Bateo" : 600,
-		"Juegos_Asistidos" : 1
 	}
 ]
