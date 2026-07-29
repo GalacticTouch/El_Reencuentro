@@ -2,17 +2,17 @@
 	{
 		"Numero" : 1,
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Total_H1" : 2,
+		"Total_H1" : 4,
 		"Total_H2" : 0,
 		"Total_H3" : 0,
 		"Total_HR" : 1,
-		"Total_BB" : 0,
+		"Total_BB" : 1,
 		"Total_K" : 0,
 		"Total_RBI" : 4,
 		"Total_CA" : 3,
-		"Total_Turnos" : 7,
-		"Promedio_Bateo" : 429,
-		"Juegos_Asistidos" : 2
+		"Total_Turnos" : 12,
+		"Promedio_Bateo" : 417,
+		"Juegos_Asistidos" : 3
 	},
 	{
 		"Numero" : 2,
@@ -21,13 +21,13 @@
 		"Total_H2" : 0,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
-		"Total_BB" : 1,
-		"Total_K" : 1,
+		"Total_BB" : 2,
+		"Total_K" : 2,
 		"Total_RBI" : 0,
 		"Total_CA" : 0,
-		"Total_Turnos" : 10,
-		"Promedio_Bateo" : 100,
-		"Juegos_Asistidos" : 2
+		"Total_Turnos" : 14,
+		"Promedio_Bateo" : 71,
+		"Juegos_Asistidos" : 3
 	},
 	{
 		"Numero" : 3,
@@ -57,7 +57,7 @@
 		"Total_CA" : 0,
 		"Total_Turnos" : 5,
 		"Promedio_Bateo" : 200,
-		"Juegos_Asistidos" : 1
+		"Juegos_Asistidos" : 2
 	},
 	{
 		"Numero" : 5,
@@ -85,24 +85,24 @@
 		"Total_K" : 2,
 		"Total_RBI" : 0,
 		"Total_CA" : 0,
-		"Total_Turnos" : 8,
-		"Promedio_Bateo" : 500,
-		"Juegos_Asistidos" : 2
+		"Total_Turnos" : 13,
+		"Promedio_Bateo" : 308,
+		"Juegos_Asistidos" : 3
 	},
 	{
 		"Numero" : 7,
 		"Nombre_Completo" : "CHULO PUJOLS",
-		"Total_H1" : 0,
+		"Total_H1" : 1,
 		"Total_H2" : 0,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
-		"Total_BB" : 0,
+		"Total_BB" : 1,
 		"Total_K" : 1,
 		"Total_RBI" : 0,
 		"Total_CA" : 0,
-		"Total_Turnos" : 2,
-		"Promedio_Bateo" : 0,
-		"Juegos_Asistidos" : 1
+		"Total_Turnos" : 6,
+		"Promedio_Bateo" : 167,
+		"Juegos_Asistidos" : 2
 	},
 	{
 		"Numero" : 8,
@@ -122,17 +122,17 @@
 	{
 		"Numero" : 9,
 		"Nombre_Completo" : "JEURI MENOR",
-		"Total_H1" : 1,
+		"Total_H1" : 2,
 		"Total_H2" : 0,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
-		"Total_BB" : 0,
+		"Total_BB" : 1,
 		"Total_K" : 0,
 		"Total_RBI" : 0,
 		"Total_CA" : 0,
-		"Total_Turnos" : 4,
-		"Promedio_Bateo" : 250,
-		"Juegos_Asistidos" : 1
+		"Total_Turnos" : 9,
+		"Promedio_Bateo" : 222,
+		"Juegos_Asistidos" : 2
 	},
 	{
 		"Numero" : 11,
@@ -142,12 +142,12 @@
 		"Total_H3" : 0,
 		"Total_HR" : 0,
 		"Total_BB" : 1,
-		"Total_K" : 0,
+		"Total_K" : 1,
 		"Total_RBI" : 0,
-		"Total_CA" : 1,
-		"Total_Turnos" : 5,
-		"Promedio_Bateo" : 600,
-		"Juegos_Asistidos" : 1
+		"Total_CA" : 2,
+		"Total_Turnos" : 11,
+		"Promedio_Bateo" : 273,
+		"Juegos_Asistidos" : 2
 	},
 	{
 		"Numero" : 12,
@@ -160,9 +160,9 @@
 		"Total_K" : 0,
 		"Total_RBI" : 0,
 		"Total_CA" : 0,
-		"Total_Turnos" : 1,
+		"Total_Turnos" : 2,
 		"Promedio_Bateo" : 0,
-		"Juegos_Asistidos" : 1
+		"Juegos_Asistidos" : 2
 	},
 	{
 		"Numero" : 13,
@@ -171,13 +171,13 @@
 		"Total_H2" : 2,
 		"Total_H3" : 1,
 		"Total_HR" : 1,
-		"Total_BB" : 1,
+		"Total_BB" : 3,
 		"Total_K" : 1,
 		"Total_RBI" : 4,
 		"Total_CA" : 3,
-		"Total_Turnos" : 10,
-		"Promedio_Bateo" : 500,
-		"Juegos_Asistidos" : 2
+		"Total_Turnos" : 15,
+		"Promedio_Bateo" : 333,
+		"Juegos_Asistidos" : 3
 	},
 	{
 		"Numero" : 15,
@@ -197,17 +197,17 @@
 	{
 		"Numero" : 19,
 		"Nombre_Completo" : "YOVANNY PILLO",
-		"Total_H1" : 0,
+		"Total_H1" : 1,
 		"Total_H2" : 0,
 		"Total_H3" : 1,
 		"Total_HR" : 0,
-		"Total_BB" : 1,
+		"Total_BB" : 2,
 		"Total_K" : 0,
-		"Total_RBI" : 2,
+		"Total_RBI" : 3,
 		"Total_CA" : 1,
-		"Total_Turnos" : 5,
+		"Total_Turnos" : 10,
 		"Promedio_Bateo" : 200,
-		"Juegos_Asistidos" : 1
+		"Juegos_Asistidos" : 2
 	},
 	{
 		"Numero" : 20,
@@ -287,32 +287,32 @@
 	{
 		"Numero" : 30,
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
-		"Total_H1" : 0,
+		"Total_H1" : 1,
 		"Total_H2" : 0,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
-		"Total_BB" : 0,
+		"Total_BB" : 1,
 		"Total_K" : 0,
 		"Total_RBI" : 0,
-		"Total_CA" : 0,
-		"Total_Turnos" : 0,
-		"Promedio_Bateo" : null,
-		"Juegos_Asistidos" : 0
-	},
-	{
-		"Numero" : 31,
-		"Nombre_Completo" : "LUIS MANUEL MAÑON",
-		"Total_H1" : 0,
-		"Total_H2" : 1,
-		"Total_H3" : 0,
-		"Total_HR" : 0,
-		"Total_BB" : 0,
-		"Total_K" : 1,
-		"Total_RBI" : 3,
 		"Total_CA" : 0,
 		"Total_Turnos" : 5,
 		"Promedio_Bateo" : 200,
 		"Juegos_Asistidos" : 1
+	},
+	{
+		"Numero" : 31,
+		"Nombre_Completo" : "LUIS MANUEL MAÑON",
+		"Total_H1" : 1,
+		"Total_H2" : 1,
+		"Total_H3" : 0,
+		"Total_HR" : 0,
+		"Total_BB" : 1,
+		"Total_K" : 1,
+		"Total_RBI" : 3,
+		"Total_CA" : 1,
+		"Total_Turnos" : 10,
+		"Promedio_Bateo" : 200,
+		"Juegos_Asistidos" : 2
 	},
 	{
 		"Numero" : 44,

@@ -1,18 +1,8 @@
 [
 	{
-		"Nombre_Completo" : "ABRAHAN",
-		"Turnos" : "3-5",
-		"Promedio_Bateo" : 600
-	},
-	{
 		"Nombre_Completo" : "ADONI EL MENOR",
 		"Turnos" : "3-5",
 		"Promedio_Bateo" : 600
-	},
-	{
-		"Nombre_Completo" : "NAO FIGUEROA",
-		"Turnos" : "4-8",
-		"Promedio_Bateo" : 500
 	},
 	{
 		"Nombre_Completo" : "EMILIO WILNE",
@@ -20,14 +10,9 @@
 		"Promedio_Bateo" : 500
 	},
 	{
-		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Turnos" : "5-10",
-		"Promedio_Bateo" : 500
-	},
-	{
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Turnos" : "3-7",
-		"Promedio_Bateo" : 429
+		"Turnos" : "5-12",
+		"Promedio_Bateo" : 417
 	},
 	{
 		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
@@ -35,14 +20,29 @@
 		"Promedio_Bateo" : 400
 	},
 	{
+		"Nombre_Completo" : "YERIFEN JEREZ",
+		"Turnos" : "5-15",
+		"Promedio_Bateo" : 333
+	},
+	{
+		"Nombre_Completo" : "NAO FIGUEROA",
+		"Turnos" : "4-13",
+		"Promedio_Bateo" : 308
+	},
+	{
 		"Nombre_Completo" : "FRISSO WILSON",
 		"Turnos" : "3-11",
 		"Promedio_Bateo" : 273
 	},
 	{
+		"Nombre_Completo" : "ABRAHAN",
+		"Turnos" : "3-11",
+		"Promedio_Bateo" : 273
+	},
+	{
 		"Nombre_Completo" : "JEURI MENOR",
-		"Turnos" : "1-4",
-		"Promedio_Bateo" : 250
+		"Turnos" : "2-9",
+		"Promedio_Bateo" : 222
 	},
 	{
 		"Nombre_Completo" : "COCHI VASQUEZ",
@@ -51,7 +51,7 @@
 	},
 	{
 		"Nombre_Completo" : "YOVANNY PILLO",
-		"Turnos" : "1-5",
+		"Turnos" : "2-10",
 		"Promedio_Bateo" : 200
 	},
 	{
@@ -65,23 +65,28 @@
 		"Promedio_Bateo" : 200
 	},
 	{
-		"Nombre_Completo" : "LUIS MANUEL MAÑON",
+		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
 		"Turnos" : "1-5",
 		"Promedio_Bateo" : 200
 	},
 	{
-		"Nombre_Completo" : "LA FEDE CHICHI",
-		"Turnos" : "1-10",
-		"Promedio_Bateo" : 100
+		"Nombre_Completo" : "LUIS MANUEL MAÑON",
+		"Turnos" : "2-10",
+		"Promedio_Bateo" : 200
 	},
 	{
 		"Nombre_Completo" : "CHULO PUJOLS",
-		"Turnos" : "0-2",
-		"Promedio_Bateo" : 0
+		"Turnos" : "1-6",
+		"Promedio_Bateo" : 167
+	},
+	{
+		"Nombre_Completo" : "LA FEDE CHICHI",
+		"Turnos" : "1-14",
+		"Promedio_Bateo" : 71
 	},
 	{
 		"Nombre_Completo" : "MIGUEL FIGUEROA",
-		"Turnos" : "0-1",
+		"Turnos" : "0-2",
 		"Promedio_Bateo" : 0
 	},
 	{
@@ -96,11 +101,6 @@
 	},
 	{
 		"Nombre_Completo" : "Marcelino",
-		"Turnos" : "0-0",
-		"Promedio_Bateo" : 0
-	},
-	{
-		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
 		"Turnos" : "0-0",
 		"Promedio_Bateo" : 0
 	},
