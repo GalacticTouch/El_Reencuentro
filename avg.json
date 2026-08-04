@@ -1,18 +1,13 @@
 [
 	{
 		"Nombre_Completo" : "ADONI EL MENOR",
-		"Turnos" : "3-5",
-		"Promedio_Bateo" : 600
-	},
-	{
-		"Nombre_Completo" : "EMILIO WILNE",
-		"Turnos" : "2-4",
-		"Promedio_Bateo" : 500
+		"Turnos" : "4-9",
+		"Promedio_Bateo" : 444
 	},
 	{
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Turnos" : "5-12",
-		"Promedio_Bateo" : 417
+		"Turnos" : "7-17",
+		"Promedio_Bateo" : 412
 	},
 	{
 		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
@@ -20,9 +15,14 @@
 		"Promedio_Bateo" : 400
 	},
 	{
-		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Turnos" : "5-15",
-		"Promedio_Bateo" : 333
+		"Nombre_Completo" : "ABRAHAN",
+		"Turnos" : "6-15",
+		"Promedio_Bateo" : 400
+	},
+	{
+		"Nombre_Completo" : "EMILIO WILNE",
+		"Turnos" : "3-8",
+		"Promedio_Bateo" : 375
 	},
 	{
 		"Nombre_Completo" : "NAO FIGUEROA",
@@ -30,24 +30,29 @@
 		"Promedio_Bateo" : 308
 	},
 	{
+		"Nombre_Completo" : "YERIFEN JEREZ",
+		"Turnos" : "6-20",
+		"Promedio_Bateo" : 300
+	},
+	{
 		"Nombre_Completo" : "FRISSO WILSON",
-		"Turnos" : "3-11",
-		"Promedio_Bateo" : 273
+		"Turnos" : "4-15",
+		"Promedio_Bateo" : 267
 	},
 	{
-		"Nombre_Completo" : "ABRAHAN",
-		"Turnos" : "3-11",
-		"Promedio_Bateo" : 273
-	},
-	{
-		"Nombre_Completo" : "JEURI MENOR",
+		"Nombre_Completo" : "COCHI VASQUEZ",
 		"Turnos" : "2-9",
 		"Promedio_Bateo" : 222
 	},
 	{
-		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Turnos" : "1-5",
-		"Promedio_Bateo" : 200
+		"Nombre_Completo" : "FELIPE",
+		"Turnos" : "2-9",
+		"Promedio_Bateo" : 222
+	},
+	{
+		"Nombre_Completo" : "JEURI MENOR",
+		"Turnos" : "3-14",
+		"Promedio_Bateo" : 214
 	},
 	{
 		"Nombre_Completo" : "YOVANNY PILLO",
@@ -57,11 +62,6 @@
 	{
 		"Nombre_Completo" : "MICHEL GRULLON",
 		"Turnos" : "2-10",
-		"Promedio_Bateo" : 200
-	},
-	{
-		"Nombre_Completo" : "FELIPE",
-		"Turnos" : "1-5",
 		"Promedio_Bateo" : 200
 	},
 	{
@@ -76,8 +76,8 @@
 	},
 	{
 		"Nombre_Completo" : "CHULO PUJOLS",
-		"Turnos" : "1-6",
-		"Promedio_Bateo" : 167
+		"Turnos" : "2-11",
+		"Promedio_Bateo" : 182
 	},
 	{
 		"Nombre_Completo" : "LA FEDE CHICHI",
