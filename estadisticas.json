@@ -2,17 +2,17 @@
 	{
 		"Numero" : 1,
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Total_H1" : 7,
+		"Total_H1" : 8,
 		"Total_H2" : 4,
 		"Total_H3" : 0,
 		"Total_HR" : 1,
-		"Total_BB" : 4,
+		"Total_BB" : 5,
 		"Total_K" : 1,
-		"Total_RBI" : 10,
-		"Total_CA" : 8,
-		"Total_Turnos" : 36,
-		"Promedio_Bateo" : 333,
-		"Juegos_Asistidos" : 7
+		"Total_RBI" : 11,
+		"Total_CA" : 10,
+		"Total_Turnos" : 41,
+		"Promedio_Bateo" : 317,
+		"Juegos_Asistidos" : 8
 	},
 	{
 		"Numero" : 2,
@@ -22,12 +22,12 @@
 		"Total_H3" : 0,
 		"Total_HR" : 0,
 		"Total_BB" : 3,
-		"Total_K" : 4,
+		"Total_K" : 5,
 		"Total_RBI" : 2,
 		"Total_CA" : 2,
-		"Total_Turnos" : 27,
-		"Promedio_Bateo" : 185,
-		"Juegos_Asistidos" : 6
+		"Total_Turnos" : 31,
+		"Promedio_Bateo" : 161,
+		"Juegos_Asistidos" : 7
 	},
 	{
 		"Numero" : 3,
@@ -52,27 +52,27 @@
 		"Total_H3" : 0,
 		"Total_HR" : 0,
 		"Total_BB" : 1,
-		"Total_K" : 0,
+		"Total_K" : 1,
 		"Total_RBI" : 0,
 		"Total_CA" : 0,
-		"Total_Turnos" : 9,
-		"Promedio_Bateo" : 222,
-		"Juegos_Asistidos" : 4
+		"Total_Turnos" : 11,
+		"Promedio_Bateo" : 182,
+		"Juegos_Asistidos" : 5
 	},
 	{
 		"Numero" : 5,
 		"Nombre_Completo" : "FRISSO WILSON",
-		"Total_H1" : 4,
-		"Total_H2" : 3,
+		"Total_H1" : 5,
+		"Total_H2" : 4,
 		"Total_H3" : 0,
 		"Total_HR" : 1,
 		"Total_BB" : 4,
 		"Total_K" : 0,
 		"Total_RBI" : 8,
-		"Total_CA" : 7,
-		"Total_Turnos" : 31,
-		"Promedio_Bateo" : 258,
-		"Juegos_Asistidos" : 6
+		"Total_CA" : 8,
+		"Total_Turnos" : 36,
+		"Promedio_Bateo" : 278,
+		"Juegos_Asistidos" : 7
 	},
 	{
 		"Numero" : 6,
@@ -107,7 +107,7 @@
 	{
 		"Numero" : 8,
 		"Nombre_Completo" : "EMILIO WILNE",
-		"Total_H1" : 3,
+		"Total_H1" : 4,
 		"Total_H2" : 0,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
@@ -115,39 +115,39 @@
 		"Total_K" : 0,
 		"Total_RBI" : 0,
 		"Total_CA" : 2,
-		"Total_Turnos" : 8,
-		"Promedio_Bateo" : 375,
-		"Juegos_Asistidos" : 2
+		"Total_Turnos" : 13,
+		"Promedio_Bateo" : 308,
+		"Juegos_Asistidos" : 3
 	},
 	{
 		"Numero" : 9,
 		"Nombre_Completo" : "JEURI MENOR",
 		"Total_H1" : 8,
-		"Total_H2" : 2,
-		"Total_H3" : 0,
-		"Total_HR" : 0,
-		"Total_BB" : 2,
-		"Total_K" : 1,
-		"Total_RBI" : 3,
-		"Total_CA" : 3,
-		"Total_Turnos" : 29,
-		"Promedio_Bateo" : 345,
-		"Juegos_Asistidos" : 6
-	},
-	{
-		"Numero" : 11,
-		"Nombre_Completo" : "ABRAHAN",
-		"Total_H1" : 7,
 		"Total_H2" : 3,
 		"Total_H3" : 0,
 		"Total_HR" : 0,
 		"Total_BB" : 3,
 		"Total_K" : 1,
-		"Total_RBI" : 4,
-		"Total_CA" : 5,
-		"Total_Turnos" : 21,
-		"Promedio_Bateo" : 476,
-		"Juegos_Asistidos" : 4
+		"Total_RBI" : 3,
+		"Total_CA" : 3,
+		"Total_Turnos" : 34,
+		"Promedio_Bateo" : 324,
+		"Juegos_Asistidos" : 7
+	},
+	{
+		"Numero" : 11,
+		"Nombre_Completo" : "ABRAHAN",
+		"Total_H1" : 9,
+		"Total_H2" : 3,
+		"Total_H3" : 0,
+		"Total_HR" : 1,
+		"Total_BB" : 3,
+		"Total_K" : 1,
+		"Total_RBI" : 6,
+		"Total_CA" : 7,
+		"Total_Turnos" : 27,
+		"Promedio_Bateo" : 482,
+		"Juegos_Asistidos" : 5
 	},
 	{
 		"Numero" : 12,
@@ -160,24 +160,24 @@
 		"Total_K" : 1,
 		"Total_RBI" : 0,
 		"Total_CA" : 0,
-		"Total_Turnos" : 3,
+		"Total_Turnos" : 5,
 		"Promedio_Bateo" : 0,
-		"Juegos_Asistidos" : 3
+		"Juegos_Asistidos" : 4
 	},
 	{
 		"Numero" : 13,
 		"Nombre_Completo" : "YERIFEN JEREZ",
 		"Total_H1" : 4,
-		"Total_H2" : 3,
+		"Total_H2" : 5,
 		"Total_H3" : 1,
-		"Total_HR" : 3,
-		"Total_BB" : 3,
+		"Total_HR" : 4,
+		"Total_BB" : 4,
 		"Total_K" : 1,
-		"Total_RBI" : 8,
-		"Total_CA" : 9,
-		"Total_Turnos" : 30,
-		"Promedio_Bateo" : 367,
-		"Juegos_Asistidos" : 6
+		"Total_RBI" : 10,
+		"Total_CA" : 12,
+		"Total_Turnos" : 36,
+		"Promedio_Bateo" : 389,
+		"Juegos_Asistidos" : 7
 	},
 	{
 		"Numero" : 15,
@@ -197,7 +197,7 @@
 	{
 		"Numero" : 19,
 		"Nombre_Completo" : "YOVANNY PILLO",
-		"Total_H1" : 2,
+		"Total_H1" : 3,
 		"Total_H2" : 0,
 		"Total_H3" : 1,
 		"Total_HR" : 0,
@@ -205,9 +205,9 @@
 		"Total_K" : 0,
 		"Total_RBI" : 6,
 		"Total_CA" : 1,
-		"Total_Turnos" : 15,
+		"Total_Turnos" : 20,
 		"Promedio_Bateo" : 200,
-		"Juegos_Asistidos" : 3
+		"Juegos_Asistidos" : 4
 	},
 	{
 		"Numero" : 20,
@@ -227,17 +227,17 @@
 	{
 		"Numero" : 23,
 		"Nombre_Completo" : "ADONI EL MENOR",
-		"Total_H1" : 7,
+		"Total_H1" : 9,
 		"Total_H2" : 4,
 		"Total_H3" : 0,
-		"Total_HR" : 2,
-		"Total_BB" : 3,
+		"Total_HR" : 3,
+		"Total_BB" : 4,
 		"Total_K" : 1,
-		"Total_RBI" : 8,
-		"Total_CA" : 11,
-		"Total_Turnos" : 27,
-		"Promedio_Bateo" : 482,
-		"Juegos_Asistidos" : 5
+		"Total_RBI" : 9,
+		"Total_CA" : 13,
+		"Total_Turnos" : 31,
+		"Promedio_Bateo" : 516,
+		"Juegos_Asistidos" : 6
 	},
 	{
 		"Numero" : 24,
@@ -257,17 +257,17 @@
 	{
 		"Numero" : 25,
 		"Nombre_Completo" : "MICHEL GRULLON",
-		"Total_H1" : 1,
+		"Total_H1" : 4,
 		"Total_H2" : 1,
-		"Total_H3" : 0,
+		"Total_H3" : 1,
 		"Total_HR" : 0,
 		"Total_BB" : 0,
 		"Total_K" : 0,
-		"Total_RBI" : 0,
+		"Total_RBI" : 3,
 		"Total_CA" : 2,
-		"Total_Turnos" : 10,
-		"Promedio_Bateo" : 200,
-		"Juegos_Asistidos" : 2
+		"Total_Turnos" : 16,
+		"Promedio_Bateo" : 375,
+		"Juegos_Asistidos" : 3
 	},
 	{
 		"Numero" : 28,
@@ -302,17 +302,17 @@
 	{
 		"Numero" : 31,
 		"Nombre_Completo" : "LUIS MANUEL MAÑON",
-		"Total_H1" : 5,
+		"Total_H1" : 6,
 		"Total_H2" : 3,
 		"Total_H3" : 0,
-		"Total_HR" : 2,
-		"Total_BB" : 1,
-		"Total_K" : 1,
-		"Total_RBI" : 9,
-		"Total_CA" : 6,
-		"Total_Turnos" : 21,
-		"Promedio_Bateo" : 476,
-		"Juegos_Asistidos" : 4
+		"Total_HR" : 4,
+		"Total_BB" : 2,
+		"Total_K" : 2,
+		"Total_RBI" : 14,
+		"Total_CA" : 9,
+		"Total_Turnos" : 27,
+		"Promedio_Bateo" : 482,
+		"Juegos_Asistidos" : 5
 	},
 	{
 		"Numero" : 44,

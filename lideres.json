@@ -1,57 +1,57 @@
 [
 	{
 		"Posicion" : 1,
-		"H1" : "JEURI MENOR (8)",
-		"H2" : "ADONI EL MENOR (4)",
+		"H1" : "ABRAHAN (9)",
+		"H2" : "YERIFEN JEREZ (5)",
 		"H3" : "FELIPE (2)",
-		"H4" : "FELIPE (3)",
-		"BB" : "ESMERLIN AQUINO (4)",
-		"K" : "LA FEDE CHICHI (4)",
-		"Total_Remolcadas" : "ESMERLIN AQUINO (10)",
-		"Total_Anotadas" : "ADONI EL MENOR (11)"
+		"H4" : "LUIS MANUEL MAÑON (4)",
+		"BB" : "ESMERLIN AQUINO (5)",
+		"K" : "LA FEDE CHICHI (5)",
+		"Total_Remolcadas" : "LUIS MANUEL MAÑON (14)",
+		"Total_Anotadas" : "ADONI EL MENOR (13)"
 	},
 	{
 		"Posicion" : 2,
-		"H1" : "ABRAHAN (7)",
-		"H2" : "ESMERLIN AQUINO (4)",
-		"H3" : "YERIFEN JEREZ (1)",
-		"H4" : "YERIFEN JEREZ (3)",
-		"BB" : "FRISSO WILSON (4)",
+		"H1" : "ADONI EL MENOR (9)",
+		"H2" : "ADONI EL MENOR (4)",
+		"H3" : "MICHEL GRULLON (1)",
+		"H4" : "YERIFEN JEREZ (4)",
+		"BB" : "ADONI EL MENOR (4)",
 		"K" : "CHULO PUJOLS (3)",
-		"Total_Remolcadas" : "FELIPE (10)",
-		"Total_Anotadas" : "FELIPE (10)"
+		"Total_Remolcadas" : "ESMERLIN AQUINO (11)",
+		"Total_Anotadas" : "YERIFEN JEREZ (12)"
 	},
 	{
 		"Posicion" : 3,
-		"H1" : "ADONI EL MENOR (7)",
-		"H2" : "ABRAHAN (3)",
-		"H3" : "YOVANNY PILLO (1)",
-		"H4" : "ADONI EL MENOR (2)",
-		"BB" : "YOVANNY PILLO (4)",
+		"H1" : "ESMERLIN AQUINO (8)",
+		"H2" : "ESMERLIN AQUINO (4)",
+		"H3" : "YERIFEN JEREZ (1)",
+		"H4" : "ADONI EL MENOR (3)",
+		"BB" : "FRISSO WILSON (4)",
 		"K" : "FELIPE (3)",
-		"Total_Remolcadas" : "LUIS MANUEL MAÑON (9)",
-		"Total_Anotadas" : "YERIFEN JEREZ (9)"
+		"Total_Remolcadas" : "FELIPE (10)",
+		"Total_Anotadas" : "ESMERLIN AQUINO (10)"
 	},
 	{
 		"Posicion" : 4,
-		"H1" : "ESMERLIN AQUINO (7)",
-		"H2" : "FRISSO WILSON (3)",
-		"H3" : "ABRAHAN (0)",
-		"H4" : "LUIS MANUEL MAÑON (2)",
-		"BB" : "ABRAHAN (3)",
+		"H1" : "JEURI MENOR (8)",
+		"H2" : "FRISSO WILSON (4)",
+		"H3" : "YOVANNY PILLO (1)",
+		"H4" : "FELIPE (3)",
+		"BB" : "YERIFEN JEREZ (4)",
 		"K" : "NAO FIGUEROA (3)",
-		"Total_Remolcadas" : "ADONI EL MENOR (8)",
-		"Total_Anotadas" : "ESMERLIN AQUINO (8)"
+		"Total_Remolcadas" : "YERIFEN JEREZ (10)",
+		"Total_Anotadas" : "FELIPE (10)"
 	},
 	{
 		"Posicion" : 5,
-		"H1" : "LA FEDE CHICHI (5)",
-		"H2" : "LUIS MANUEL MAÑON (3)",
-		"H3" : "ADONI EL MENOR (0)",
-		"H4" : "ESMERLIN AQUINO (1)",
-		"BB" : "ADONI EL MENOR (3)",
-		"K" : "ABRAHAN (1)",
-		"Total_Remolcadas" : "FRISSO WILSON (8)",
-		"Total_Anotadas" : "FRISSO WILSON (7)"
+		"H1" : "LUIS MANUEL MAÑON (6)",
+		"H2" : "ABRAHAN (3)",
+		"H3" : "ABRAHAN (0)",
+		"H4" : "ABRAHAN (1)",
+		"BB" : "YOVANNY PILLO (4)",
+		"K" : "LUIS MANUEL MAÑON (2)",
+		"Total_Remolcadas" : "ADONI EL MENOR (9)",
+		"Total_Anotadas" : "LUIS MANUEL MAÑON (9)"
 	}
 ]
