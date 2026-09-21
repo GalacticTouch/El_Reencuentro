@@ -1,23 +1,13 @@
 [
 	{
-		"Nombre_Completo" : "FELIPE",
-		"Turnos" : "9-20",
-		"Promedio_Bateo" : 450
+		"Nombre_Completo" : "LUIS MANUEL MAÑON",
+		"Turnos" : "21-46",
+		"Promedio_Bateo" : 457
 	},
 	{
 		"Nombre_Completo" : "ADONI EL MENOR",
-		"Turnos" : "17-38",
-		"Promedio_Bateo" : 447
-	},
-	{
-		"Nombre_Completo" : "LUIS MANUEL MAÑON",
-		"Turnos" : "15-34",
-		"Promedio_Bateo" : 441
-	},
-	{
-		"Nombre_Completo" : "ABRAHAN",
-		"Turnos" : "14-34",
-		"Promedio_Bateo" : 412
+		"Turnos" : "19-45",
+		"Promedio_Bateo" : 422
 	},
 	{
 		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
@@ -25,8 +15,13 @@
 		"Promedio_Bateo" : 400
 	},
 	{
-		"Nombre_Completo" : "EMILIO WILNE",
-		"Turnos" : "8-20",
+		"Nombre_Completo" : "Marcelino",
+		"Turnos" : "2-5",
+		"Promedio_Bateo" : 400
+	},
+	{
+		"Nombre_Completo" : "FELIPE",
+		"Turnos" : "10-25",
 		"Promedio_Bateo" : 400
 	},
 	{
@@ -36,23 +31,23 @@
 	},
 	{
 		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Turnos" : "14-36",
-		"Promedio_Bateo" : 389
+		"Turnos" : "18-47",
+		"Promedio_Bateo" : 383
 	},
 	{
-		"Nombre_Completo" : "NAO FIGUEROA",
-		"Turnos" : "7-22",
-		"Promedio_Bateo" : 318
+		"Nombre_Completo" : "ABRAHAN",
+		"Turnos" : "17-45",
+		"Promedio_Bateo" : 378
+	},
+	{
+		"Nombre_Completo" : "EMILIO WILNE",
+		"Turnos" : "8-24",
+		"Promedio_Bateo" : 333
 	},
 	{
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Turnos" : "15-48",
-		"Promedio_Bateo" : 313
-	},
-	{
-		"Nombre_Completo" : "FRISSO WILSON",
-		"Turnos" : "13-43",
-		"Promedio_Bateo" : 302
+		"Turnos" : "19-58",
+		"Promedio_Bateo" : 328
 	},
 	{
 		"Nombre_Completo" : "JEURI MENOR",
@@ -60,24 +55,24 @@
 		"Promedio_Bateo" : 300
 	},
 	{
-		"Nombre_Completo" : "MIGUEL FIGUEROA",
-		"Turnos" : "2-7",
-		"Promedio_Bateo" : 286
+		"Nombre_Completo" : "NAO FIGUEROA",
+		"Turnos" : "8-27",
+		"Promedio_Bateo" : 296
 	},
 	{
-		"Nombre_Completo" : "YOVANNY PILLO",
-		"Turnos" : "4-20",
-		"Promedio_Bateo" : 200
+		"Nombre_Completo" : "FRISSO WILSON",
+		"Turnos" : "15-53",
+		"Promedio_Bateo" : 283
 	},
 	{
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
-		"Turnos" : "1-5",
-		"Promedio_Bateo" : 200
+		"Turnos" : "3-12",
+		"Promedio_Bateo" : 250
 	},
 	{
-		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Turnos" : "2-11",
-		"Promedio_Bateo" : 182
+		"Nombre_Completo" : "YOVANNY PILLO",
+		"Turnos" : "5-25",
+		"Promedio_Bateo" : 200
 	},
 	{
 		"Nombre_Completo" : "CHULO PUJOLS",
@@ -85,9 +80,19 @@
 		"Promedio_Bateo" : 182
 	},
 	{
+		"Nombre_Completo" : "MIGUEL FIGUEROA",
+		"Turnos" : "2-12",
+		"Promedio_Bateo" : 167
+	},
+	{
 		"Nombre_Completo" : "LA FEDE CHICHI",
-		"Turnos" : "5-34",
-		"Promedio_Bateo" : 147
+		"Turnos" : "6-40",
+		"Promedio_Bateo" : 150
+	},
+	{
+		"Nombre_Completo" : "COCHI VASQUEZ",
+		"Turnos" : "2-14",
+		"Promedio_Bateo" : 143
 	},
 	{
 		"Nombre_Completo" : "MODESTO DE LA ROSA",
@@ -96,11 +101,6 @@
 	},
 	{
 		"Nombre_Completo" : "ERIC BENCOSME",
-		"Turnos" : "0-0",
-		"Promedio_Bateo" : 0
-	},
-	{
-		"Nombre_Completo" : "Marcelino",
 		"Turnos" : "0-0",
 		"Promedio_Bateo" : 0
 	},
