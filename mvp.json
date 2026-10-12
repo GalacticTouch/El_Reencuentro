@@ -1,112 +1,112 @@
 [
 	{
 		"No." : 1,
-		"Jugador" : "LUIS MANUEL MAÑON",
-		"Puntos" : 114
+		"Jugador" : "YERIFEN JEREZ",
+		"Puntos" : 123
 	},
 	{
 		"No." : 2,
-		"Jugador" : "YERIFEN JEREZ",
-		"Puntos" : 94
+		"Jugador" : "LUIS MANUEL MAÑON",
+		"Puntos" : 120
 	},
 	{
 		"No." : 3,
 		"Jugador" : "ADONI EL MENOR",
-		"Puntos" : 73
+		"Puntos" : 99
 	},
 	{
 		"No." : 4,
+		"Jugador" : "FRISSO WILSON",
+		"Puntos" : 75
+	},
+	{
+		"No." : 5,
 		"Jugador" : "ESMERLIN AQUINO",
 		"Puntos" : 71
 	},
 	{
-		"No." : 5,
-		"Jugador" : "FRISSO WILSON",
-		"Puntos" : 65
-	},
-	{
 		"No." : 6,
-		"Jugador" : "FELIPE",
-		"Puntos" : 53
+		"Jugador" : "ABRAHAN",
+		"Puntos" : 57
 	},
 	{
 		"No." : 7,
-		"Jugador" : "ABRAHAN",
-		"Puntos" : 48
+		"Jugador" : "FELIPE",
+		"Puntos" : 54
 	},
 	{
 		"No." : 8,
 		"Jugador" : "EMILIO WILNE",
-		"Puntos" : 20
+		"Puntos" : 26
 	},
 	{
 		"No." : 9,
-		"Jugador" : "JEURI MENOR",
-		"Puntos" : 14
+		"Jugador" : "MICHEL GRULLON",
+		"Puntos" : 17
 	},
 	{
 		"No." : 10,
+		"Jugador" : "JEURI MENOR",
+		"Puntos" : 12
+	},
+	{
+		"No." : 11,
 		"Jugador" : "YOVANNY PILLO",
 		"Puntos" : 9
 	},
 	{
-		"No." : 11,
-		"Jugador" : "MICHEL GRULLON",
-		"Puntos" : 6
-	},
-	{
 		"No." : 12,
 		"Jugador" : "LA FEDE CHICHI",
-		"Puntos" : 3
+		"Puntos" : 4
 	},
 	{
 		"No." : 13,
-		"Jugador" : "LUIS FELIPE HEREDIA",
+		"Jugador" : "NAO FIGUEROA",
 		"Puntos" : 0
 	},
 	{
 		"No." : 14,
-		"Jugador" : "NAO FIGUEROA",
-		"Puntos" : -1
+		"Jugador" : "COCHI VASQUEZ",
+		"Puntos" : -3
 	},
 	{
 		"No." : 15,
-		"Jugador" : "COCHI VASQUEZ",
-		"Puntos" : -5
+		"Jugador" : "MIGUEL FIGUEROA",
+		"Puntos" : -3
 	},
 	{
 		"No." : 16,
-		"Jugador" : "MIGUEL FIGUEROA",
-		"Puntos" : -7
+		"Jugador" : "LUIS FELIPE HEREDIA",
+		"Puntos" : -4
 	},
 	{
 		"No." : 17,
 		"Jugador" : "Marcelino",
-		"Puntos" : -8
+		"Puntos" : -12
 	},
 	{
 		"No." : 18,
 		"Jugador" : "JOSELUIS HENRIQUEZ",
-		"Puntos" : -11
+		"Puntos" : -15
 	},
 	{
 		"No." : 19,
 		"Jugador" : "CHULO PUJOLS",
-		"Puntos" : -18
+		"Puntos" : -22
 	},
 	{
 		"No." : 20,
 		"Jugador" : "ERIC BENCOSME",
-		"Puntos" : -24
+		"Puntos" : -28
 	},
 	{
 		"No." : 21,
 		"Jugador" : "JAN RAMOS",
-		"Puntos" : -24
+		"Puntos" : -28
 	},
 	{
 		"No." : 22,
 		"Jugador" : "MODESTO DE LA ROSA",
-		"Puntos" : -24
+		"Puntos" : -28
 	}
 ]
