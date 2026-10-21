@@ -17,16 +17,16 @@
 	{
 		"Numero" : 2,
 		"Nombre_Completo" : "LA FEDE CHICHI",
-		"Total_H1" : 7,
+		"Total_H1" : 8,
 		"Total_H2" : 0,
-		"Total_H3" : 0,
+		"Total_H3" : 1,
 		"Total_HR" : 0,
 		"Total_BB" : 4,
 		"Total_K" : 8,
-		"Total_RBI" : 2,
-		"Total_CA" : 3,
-		"Total_Turnos" : 51,
-		"Promedio_Bateo" : 137,
+		"Total_RBI" : 3,
+		"Total_CA" : 5,
+		"Total_Turnos" : 53,
+		"Promedio_Bateo" : 170,
 		"Juegos_Asistidos" : 12
 	},
 	{

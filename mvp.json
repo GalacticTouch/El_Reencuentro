@@ -51,27 +51,27 @@
 	},
 	{
 		"No." : 11,
+		"Jugador" : "LA FEDE CHICHI",
+		"Puntos" : 9
+	},
+	{
+		"No." : 12,
 		"Jugador" : "NAO FIGUEROA",
 		"Puntos" : 7
 	},
 	{
-		"No." : 12,
+		"No." : 13,
 		"Jugador" : "YOVANNY PILLO",
 		"Puntos" : 7
 	},
 	{
-		"No." : 13,
+		"No." : 14,
 		"Jugador" : "MIGUEL FIGUEROA",
 		"Puntos" : 4
 	},
 	{
-		"No." : 14,
-		"Jugador" : "COCHI VASQUEZ",
-		"Puntos" : 2
-	},
-	{
 		"No." : 15,
-		"Jugador" : "LA FEDE CHICHI",
+		"Jugador" : "COCHI VASQUEZ",
 		"Puntos" : 2
 	},
 	{
