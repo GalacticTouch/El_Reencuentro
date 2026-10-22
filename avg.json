@@ -5,6 +5,11 @@
 		"Promedio_Bateo" : 486
 	},
 	{
+		"Nombre_Completo" : "EMILIO WILNE",
+		"Turnos" : "18-39",
+		"Promedio_Bateo" : 462
+	},
+	{
 		"Nombre_Completo" : "LUIS MANUEL MAÑON",
 		"Turnos" : "29-64",
 		"Promedio_Bateo" : 453
@@ -13,11 +18,6 @@
 		"Nombre_Completo" : "YERIFEN JEREZ",
 		"Turnos" : "29-66",
 		"Promedio_Bateo" : 439
-	},
-	{
-		"Nombre_Completo" : "EMILIO WILNE",
-		"Turnos" : "17-39",
-		"Promedio_Bateo" : 436
 	},
 	{
 		"Nombre_Completo" : "ADONI EL MENOR",
