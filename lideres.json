@@ -1,56 +1,56 @@
 [
 	{
 		"Posicion" : 1,
-		"H1" : "ABRAHAN (15)",
-		"H2" : "YERIFEN JEREZ (8)",
+		"H1" : "ADONI EL MENOR (16)",
+		"H2" : "LUIS MANUEL MAÑON (8)",
 		"H3" : "LUIS MANUEL MAÑON (4)",
 		"H4" : "LUIS MANUEL MAÑON (8)",
 		"BB" : "FRISSO WILSON (11)",
 		"K" : "LA FEDE CHICHI (8)",
 		"Total_Remolcadas" : "LUIS MANUEL MAÑON (33)",
-		"Total_Anotadas" : "YERIFEN JEREZ (28)"
+		"Total_Anotadas" : "YERIFEN JEREZ (29)"
 	},
 	{
 		"Posicion" : 2,
-		"H1" : "ADONI EL MENOR (14)",
-		"H2" : "LUIS MANUEL MAÑON (7)",
-		"H3" : "FELIPE (2)",
+		"H1" : "ABRAHAN (15)",
+		"H2" : "YERIFEN JEREZ (8)",
+		"H3" : "FRISSO WILSON (3)",
 		"H4" : "YERIFEN JEREZ (8)",
 		"BB" : "ESMERLIN AQUINO (10)",
 		"K" : "MIGUEL FIGUEROA (6)",
 		"Total_Remolcadas" : "YERIFEN JEREZ (25)",
-		"Total_Anotadas" : "LUIS MANUEL MAÑON (23)"
+		"Total_Anotadas" : "LUIS MANUEL MAÑON (24)"
 	},
 	{
 		"Posicion" : 3,
-		"H1" : "EMILIO WILNE (13)",
-		"H2" : "ABRAHAN (6)",
-		"H3" : "FRISSO WILSON (2)",
+		"H1" : "EMILIO WILNE (15)",
+		"H2" : "ABRAHAN (7)",
+		"H3" : "EMILIO WILNE (2)",
 		"H4" : "ADONI EL MENOR (5)",
 		"BB" : "ADONI EL MENOR (9)",
 		"K" : "NAO FIGUEROA (6)",
 		"Total_Remolcadas" : "FRISSO WILSON (21)",
-		"Total_Anotadas" : "ADONI EL MENOR (21)"
+		"Total_Anotadas" : "ADONI EL MENOR (22)"
 	},
 	{
 		"Posicion" : 4,
-		"H1" : "ESMERLIN AQUINO (13)",
-		"H2" : "ADONI EL MENOR (6)",
-		"H3" : "YERIFEN JEREZ (2)",
+		"H1" : "YERIFEN JEREZ (14)",
+		"H2" : "ADONI EL MENOR (7)",
+		"H3" : "FELIPE (2)",
 		"H4" : "FELIPE (4)",
 		"BB" : "LUIS MANUEL MAÑON (8)",
 		"K" : "YOVANNY PILLO (6)",
-		"Total_Remolcadas" : "ADONI EL MENOR (17)",
-		"Total_Anotadas" : "FRISSO WILSON (19)"
+		"Total_Remolcadas" : "ADONI EL MENOR (18)",
+		"Total_Anotadas" : "FRISSO WILSON (20)"
 	},
 	{
 		"Posicion" : 5,
-		"H1" : "FRISSO WILSON (11)",
+		"H1" : "ESMERLIN AQUINO (13)",
 		"H2" : "ESMERLIN AQUINO (6)",
-		"H3" : "ADONI EL MENOR (1)",
+		"H3" : "YERIFEN JEREZ (2)",
 		"H4" : "FRISSO WILSON (4)",
 		"BB" : "YERIFEN JEREZ (8)",
-		"K" : "FELIPE (4)",
+		"K" : "FELIPE (5)",
 		"Total_Remolcadas" : "ESMERLIN AQUINO (15)",
 		"Total_Anotadas" : "ESMERLIN AQUINO (16)"
 	}
