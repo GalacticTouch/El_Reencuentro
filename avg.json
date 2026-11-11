@@ -1,18 +1,18 @@
 [
 	{
 		"Nombre_Completo" : "EMILIO WILNE",
-		"Turnos" : "21-45",
-		"Promedio_Bateo" : 467
+		"Turnos" : "23-48",
+		"Promedio_Bateo" : 479
+	},
+	{
+		"Nombre_Completo" : "YERIFEN JEREZ",
+		"Turnos" : "34-75",
+		"Promedio_Bateo" : 453
 	},
 	{
 		"Nombre_Completo" : "ADONI EL MENOR",
 		"Turnos" : "29-65",
 		"Promedio_Bateo" : 446
-	},
-	{
-		"Nombre_Completo" : "YERIFEN JEREZ",
-		"Turnos" : "32-72",
-		"Promedio_Bateo" : 444
 	},
 	{
 		"Nombre_Completo" : "MICHEL GRULLON",
@@ -21,8 +21,8 @@
 	},
 	{
 		"Nombre_Completo" : "LUIS MANUEL MAÑON",
-		"Turnos" : "30-70",
-		"Promedio_Bateo" : 429
+		"Turnos" : "31-73",
+		"Promedio_Bateo" : 425
 	},
 	{
 		"Nombre_Completo" : "JOSELUIS HENRIQUEZ",
@@ -36,18 +36,18 @@
 	},
 	{
 		"Nombre_Completo" : "FELIPE",
-		"Turnos" : "15-38",
-		"Promedio_Bateo" : 395
-	},
-	{
-		"Nombre_Completo" : "ABRAHAN",
-		"Turnos" : "24-65",
-		"Promedio_Bateo" : 369
+		"Turnos" : "16-41",
+		"Promedio_Bateo" : 390
 	},
 	{
 		"Nombre_Completo" : "ESMERLIN AQUINO",
-		"Turnos" : "20-59",
-		"Promedio_Bateo" : 339
+		"Turnos" : "22-61",
+		"Promedio_Bateo" : 361
+	},
+	{
+		"Nombre_Completo" : "ABRAHAN",
+		"Turnos" : "24-68",
+		"Promedio_Bateo" : 353
 	},
 	{
 		"Nombre_Completo" : "FRISSO WILSON",
@@ -65,29 +65,29 @@
 		"Promedio_Bateo" : 277
 	},
 	{
+		"Nombre_Completo" : "YOVANNY PILLO",
+		"Turnos" : "11-44",
+		"Promedio_Bateo" : 250
+	},
+	{
 		"Nombre_Completo" : "LUIS FELIPE HEREDIA",
 		"Turnos" : "3-12",
 		"Promedio_Bateo" : 250
 	},
 	{
-		"Nombre_Completo" : "YOVANNY PILLO",
-		"Turnos" : "10-41",
-		"Promedio_Bateo" : 244
-	},
-	{
 		"Nombre_Completo" : "MIGUEL FIGUEROA",
-		"Turnos" : "6-27",
-		"Promedio_Bateo" : 222
-	},
-	{
-		"Nombre_Completo" : "COCHI VASQUEZ",
-		"Turnos" : "5-26",
-		"Promedio_Bateo" : 192
+		"Turnos" : "7-29",
+		"Promedio_Bateo" : 241
 	},
 	{
 		"Nombre_Completo" : "CHULO PUJOLS",
 		"Turnos" : "2-11",
 		"Promedio_Bateo" : 182
+	},
+	{
+		"Nombre_Completo" : "COCHI VASQUEZ",
+		"Turnos" : "5-28",
+		"Promedio_Bateo" : 179
 	},
 	{
 		"Nombre_Completo" : "LA FEDE CHICHI",
